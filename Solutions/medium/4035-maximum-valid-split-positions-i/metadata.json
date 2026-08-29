@@ -1,0 +1,27 @@
+{
+  "title": "Maximum Valid Split Positions I",
+  "titleSlug": "maximum-valid-split-positions-i",
+  "frontendQuestionId": "4035",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-valid-split-positions-i/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-29T21:54:46.221Z",
+  "runtimeMs": 958,
+  "memoryKb": 184730,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": 704,
+  "totalTestcases": 704,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T21:54:46.861Z"
+}
