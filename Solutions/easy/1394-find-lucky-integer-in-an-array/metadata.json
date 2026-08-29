@@ -1,0 +1,31 @@
+{
+  "title": "Find Lucky Integer in an Array",
+  "titleSlug": "find-lucky-integer-in-an-array",
+  "frontendQuestionId": "1394",
+  "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1686688479",
+  "submittedAt": "2025-07-05T01:43:18.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 14336,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:18.714Z"
+}

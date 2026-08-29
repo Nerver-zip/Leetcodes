@@ -1,0 +1,34 @@
+{
+  "title": "Find Sum of Array Product of Magical Sequences",
+  "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+  "frontendQuestionId": "3539",
+  "leetcodeUrl": "https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Combinatorics",
+    "Bitmask"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1798835691",
+  "submittedAt": "2025-10-12T01:38:05.000Z",
+  "runtimeMs": 162,
+  "memoryKb": 97587,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:32.886Z"
+}

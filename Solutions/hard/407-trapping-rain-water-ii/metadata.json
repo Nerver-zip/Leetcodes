@@ -1,0 +1,32 @@
+{
+  "title": "Trapping Rain Water II",
+  "titleSlug": "trapping-rain-water-ii",
+  "frontendQuestionId": "407",
+  "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1790573574",
+  "submittedAt": "2025-10-03T22:38:42.000Z",
+  "runtimeMs": 39,
+  "memoryKb": 18022,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:25.516Z"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Longest Subsequence Repeated k Times",
+  "titleSlug": "longest-subsequence-repeated-k-times",
+  "frontendQuestionId": "2014",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Backtracking",
+    "Counting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1677769659",
+  "submittedAt": "2025-06-27T01:05:23.000Z",
+  "runtimeMs": 163,
+  "memoryKb": 16077,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.783Z"
+}

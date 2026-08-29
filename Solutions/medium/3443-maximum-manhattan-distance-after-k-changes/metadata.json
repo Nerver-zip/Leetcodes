@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Manhattan Distance After K Changes",
+  "titleSlug": "maximum-manhattan-distance-after-k-changes",
+  "frontendQuestionId": "3443",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1670611117",
+  "submittedAt": "2025-06-20T14:40:04.000Z",
+  "runtimeMs": 60,
+  "memoryKb": 39219,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.778Z"
+}

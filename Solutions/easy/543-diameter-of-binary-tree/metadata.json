@@ -1,0 +1,32 @@
+{
+  "title": "Diameter of Binary Tree",
+  "titleSlug": "diameter-of-binary-tree",
+  "frontendQuestionId": "543",
+  "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1579237493",
+  "submittedAt": "2025-03-19T16:01:07.000Z",
+  "runtimeMs": 307,
+  "memoryKb": 24269,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.762Z"
+}

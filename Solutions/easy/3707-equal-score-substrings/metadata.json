@@ -1,0 +1,30 @@
+{
+  "title": "Equal Score Substrings",
+  "titleSlug": "equal-score-substrings",
+  "frontendQuestionId": "3707",
+  "leetcodeUrl": "https://leetcode.com/problems/equal-score-substrings/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1798339439",
+  "submittedAt": "2025-10-11T14:40:21.000Z",
+  "runtimeMs": 1,
+  "memoryKb": 8602,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:30.684Z"
+}

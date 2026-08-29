@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Remove to Make Valid Parentheses",
+  "titleSlug": "minimum-remove-to-make-valid-parentheses",
+  "frontendQuestionId": "1249",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1577349181",
+  "submittedAt": "2025-03-18T00:31:06.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15155,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.761Z"
+}

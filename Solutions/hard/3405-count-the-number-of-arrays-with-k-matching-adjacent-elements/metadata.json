@@ -1,0 +1,31 @@
+{
+  "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+  "titleSlug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+  "frontendQuestionId": "3405",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Combinatorics",
+    "Fermat's Little Theorem"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1667623319",
+  "submittedAt": "2025-06-17T21:24:12.000Z",
+  "runtimeMs": 163,
+  "memoryKb": 243405,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.777Z"
+}

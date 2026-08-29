@@ -1,0 +1,33 @@
+{
+  "title": "Find Triangular Sum of an Array",
+  "titleSlug": "find-triangular-sum-of-an-array",
+  "frontendQuestionId": "2221",
+  "leetcodeUrl": "https://leetcode.com/problems/find-triangular-sum-of-an-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Simulation",
+    "Combinatorics",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1787643104",
+  "submittedAt": "2025-09-30T20:59:50.000Z",
+  "runtimeMs": 95,
+  "memoryKb": 24576,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:23.800Z"
+}

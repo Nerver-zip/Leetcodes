@@ -1,0 +1,32 @@
+{
+  "title": "Implement Trie (Prefix Tree)",
+  "titleSlug": "implement-trie-prefix-tree",
+  "frontendQuestionId": "208",
+  "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Design",
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1797762631",
+  "submittedAt": "2025-10-10T23:03:44.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 53760,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:30.203Z"
+}

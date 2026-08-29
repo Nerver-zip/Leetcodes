@@ -1,0 +1,31 @@
+{
+  "title": "Snakes and Ladders",
+  "titleSlug": "snakes-and-ladders",
+  "frontendQuestionId": "909",
+  "leetcodeUrl": "https://leetcode.com/problems/snakes-and-ladders/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1649787831",
+  "submittedAt": "2025-05-31T13:56:10.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 16589,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.767Z"
+}

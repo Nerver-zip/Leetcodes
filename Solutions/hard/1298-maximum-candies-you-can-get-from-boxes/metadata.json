@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Candies You Can Get from Boxes",
+  "titleSlug": "maximum-candies-you-can-get-from-boxes",
+  "frontendQuestionId": "1298",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1653118347",
+  "submittedAt": "2025-06-03T22:02:38.000Z",
+  "runtimeMs": 14,
+  "memoryKb": 46182,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.769Z"
+}

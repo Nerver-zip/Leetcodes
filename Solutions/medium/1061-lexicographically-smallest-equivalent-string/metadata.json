@@ -1,0 +1,30 @@
+{
+  "title": "Lexicographically Smallest Equivalent String",
+  "titleSlug": "lexicographically-smallest-equivalent-string",
+  "frontendQuestionId": "1061",
+  "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Union-Find"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1655180098",
+  "submittedAt": "2025-06-05T23:45:35.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 13107,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.769Z"
+}

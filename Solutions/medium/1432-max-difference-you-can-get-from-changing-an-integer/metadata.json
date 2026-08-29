@@ -1,0 +1,30 @@
+{
+  "title": "Max Difference You Can Get From Changing an Integer",
+  "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+  "frontendQuestionId": "1432",
+  "leetcodeUrl": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1664351522",
+  "submittedAt": "2025-06-15T02:08:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8192,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.776Z"
+}

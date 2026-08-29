@@ -1,0 +1,30 @@
+{
+  "title": "Split Array With Minimum Difference",
+  "titleSlug": "split-array-with-minimum-difference",
+  "frontendQuestionId": "3698",
+  "leetcodeUrl": "https://leetcode.com/problems/split-array-with-minimum-difference/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1785458481",
+  "submittedAt": "2025-09-28T15:39:52.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 189133,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:21.830Z"
+}

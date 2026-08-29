@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Cost Walk in Weighted Graph",
+  "titleSlug": "minimum-cost-walk-in-weighted-graph",
+  "frontendQuestionId": "3108",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1580725702",
+  "submittedAt": "2025-03-20T21:52:23.000Z",
+  "runtimeMs": 157,
+  "memoryKb": 287334,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.763Z"
+}

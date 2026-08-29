@@ -1,0 +1,29 @@
+{
+  "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+  "titleSlug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+  "frontendQuestionId": "3423",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1661335846",
+  "submittedAt": "2025-06-12T00:28:33.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 31232,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.774Z"
+}

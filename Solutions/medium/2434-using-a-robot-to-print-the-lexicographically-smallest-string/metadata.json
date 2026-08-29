@@ -1,0 +1,32 @@
+{
+  "title": "Using a Robot to Print the Lexicographically Smallest String",
+  "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+  "frontendQuestionId": "2434",
+  "leetcodeUrl": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Stack",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1656100684",
+  "submittedAt": "2025-06-06T23:57:51.000Z",
+  "runtimeMs": 59,
+  "memoryKb": 33485,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.769Z"
+}

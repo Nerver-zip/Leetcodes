@@ -1,0 +1,33 @@
+{
+  "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+  "titleSlug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+  "frontendQuestionId": "2192",
+  "leetcodeUrl": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort",
+    "Directed Acyclic Graph"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1650968620",
+  "submittedAt": "2025-06-01T18:01:15.000Z",
+  "runtimeMs": 321,
+  "memoryKb": 154624,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.768Z"
+}

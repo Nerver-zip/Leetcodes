@@ -1,0 +1,31 @@
+{
+  "title": "Longest Nice Subarray",
+  "titleSlug": "longest-nice-subarray",
+  "frontendQuestionId": "2401",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-nice-subarray/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1578367868",
+  "submittedAt": "2025-03-18T20:17:00.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 62566,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.761Z"
+}

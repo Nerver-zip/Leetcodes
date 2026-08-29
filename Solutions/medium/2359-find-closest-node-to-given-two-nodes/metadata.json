@@ -1,0 +1,30 @@
+{
+  "title": "Find Closest Node to Given Two Nodes",
+  "titleSlug": "find-closest-node-to-given-two-nodes",
+  "frontendQuestionId": "2359",
+  "leetcodeUrl": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1649097484",
+  "submittedAt": "2025-05-30T17:23:24.000Z",
+  "runtimeMs": 24,
+  "memoryKb": 104346,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.766Z"
+}

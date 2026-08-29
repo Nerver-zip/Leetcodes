@@ -1,0 +1,29 @@
+{
+  "title": "Adjacent Increasing Subarrays Detection I",
+  "titleSlug": "adjacent-increasing-subarrays-detection-i",
+  "frontendQuestionId": "3349",
+  "leetcodeUrl": "https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1801797016",
+  "submittedAt": "2025-10-14T20:09:50.000Z",
+  "runtimeMs": 15,
+  "memoryKb": 42291,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:34.528Z"
+}

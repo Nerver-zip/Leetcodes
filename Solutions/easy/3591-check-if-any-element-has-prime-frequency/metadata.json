@@ -1,0 +1,33 @@
+{
+  "title": "Check if Any Element Has Prime Frequency",
+  "titleSlug": "check-if-any-element-has-prime-frequency",
+  "frontendQuestionId": "3591",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-any-element-has-prime-frequency/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1672131845",
+  "submittedAt": "2025-06-22T02:36:59.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 24883,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.780Z"
+}

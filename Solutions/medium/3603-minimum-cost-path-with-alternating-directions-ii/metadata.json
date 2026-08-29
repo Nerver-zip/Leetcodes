@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Cost Path with Alternating Directions II",
+  "titleSlug": "minimum-cost-path-with-alternating-directions-ii",
+  "frontendQuestionId": "3603",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1687528191",
+  "submittedAt": "2025-07-05T17:11:49.000Z",
+  "runtimeMs": 541,
+  "memoryKb": 187904,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:19.577Z"
+}

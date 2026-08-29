@@ -1,0 +1,30 @@
+{
+  "title": "Compute Decimal Representation",
+  "titleSlug": "compute-decimal-representation",
+  "frontendQuestionId": "3697",
+  "leetcodeUrl": "https://leetcode.com/problems/compute-decimal-representation/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1784782954",
+  "submittedAt": "2025-09-28T02:41:59.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10240,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:21.216Z"
+}

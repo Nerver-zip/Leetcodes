@@ -1,0 +1,31 @@
+{
+  "title": "Find the K-th Character in String Game II",
+  "titleSlug": "find-the-k-th-character-in-string-game-ii",
+  "frontendQuestionId": "3307",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1685587341",
+  "submittedAt": "2025-07-04T00:45:55.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 29082,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:17.916Z"
+}

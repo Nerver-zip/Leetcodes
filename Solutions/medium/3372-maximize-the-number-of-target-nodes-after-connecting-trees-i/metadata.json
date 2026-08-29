@@ -1,0 +1,31 @@
+{
+  "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+  "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+  "frontendQuestionId": "3372",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1647158483",
+  "submittedAt": "2025-05-28T16:08:07.000Z",
+  "runtimeMs": 174,
+  "memoryKb": 64614,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.766Z"
+}

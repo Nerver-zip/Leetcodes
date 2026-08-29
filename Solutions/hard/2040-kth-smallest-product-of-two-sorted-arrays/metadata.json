@@ -1,0 +1,30 @@
+{
+  "title": "Kth Smallest Product of Two Sorted Arrays",
+  "titleSlug": "kth-smallest-product-of-two-sorted-arrays",
+  "frontendQuestionId": "2040",
+  "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1676252563",
+  "submittedAt": "2025-06-25T16:18:58.000Z",
+  "runtimeMs": 713,
+  "memoryKb": 100352,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.782Z"
+}

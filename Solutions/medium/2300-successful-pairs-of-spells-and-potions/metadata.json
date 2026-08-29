@@ -1,0 +1,32 @@
+{
+  "title": "Successful Pairs of Spells and Potions",
+  "titleSlug": "successful-pairs-of-spells-and-potions",
+  "frontendQuestionId": "2300",
+  "leetcodeUrl": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1795814391",
+  "submittedAt": "2025-10-08T22:34:35.000Z",
+  "runtimeMs": 44,
+  "memoryKb": 131482,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:28.370Z"
+}

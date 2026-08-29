@@ -1,0 +1,31 @@
+{
+  "title": "Sum of Elements With Frequency Divisible by K",
+  "titleSlug": "sum-of-elements-with-frequency-divisible-by-k",
+  "frontendQuestionId": "3712",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1798860348",
+  "submittedAt": "2025-10-12T02:33:40.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 26726,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:33.287Z"
+}

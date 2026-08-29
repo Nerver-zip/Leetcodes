@@ -1,0 +1,29 @@
+{
+  "title": "K-th Smallest in Lexicographical Order",
+  "titleSlug": "k-th-smallest-in-lexicographical-order",
+  "frontendQuestionId": "440",
+  "leetcodeUrl": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/",
+  "difficulty": "Hard",
+  "topics": [
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1658702692",
+  "submittedAt": "2025-06-09T14:11:42.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 7885,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.772Z"
+}

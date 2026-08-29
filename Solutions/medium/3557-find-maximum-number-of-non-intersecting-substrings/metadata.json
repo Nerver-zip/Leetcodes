@@ -1,0 +1,32 @@
+{
+  "title": "Find Maximum Number of Non Intersecting Substrings",
+  "titleSlug": "find-maximum-number-of-non-intersecting-substrings",
+  "frontendQuestionId": "3557",
+  "leetcodeUrl": "https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1644511122",
+  "submittedAt": "2025-05-26T00:43:58.000Z",
+  "runtimeMs": 187,
+  "memoryKb": 66662,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.764Z"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Longest Fibonacci Subarray",
+  "titleSlug": "longest-fibonacci-subarray",
+  "frontendQuestionId": "3708",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-fibonacci-subarray/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1798370911",
+  "submittedAt": "2025-10-11T14:53:02.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 105267,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:31.252Z"
+}

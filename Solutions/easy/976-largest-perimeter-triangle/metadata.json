@@ -1,0 +1,34 @@
+{
+  "title": "Largest Perimeter Triangle",
+  "titleSlug": "largest-perimeter-triangle",
+  "frontendQuestionId": "976",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-perimeter-triangle/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Sorting",
+    "Quicksort",
+    "Polygons"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1785537750",
+  "submittedAt": "2025-09-28T17:12:11.000Z",
+  "runtimeMs": 10,
+  "memoryKb": 26317,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:22.444Z"
+}

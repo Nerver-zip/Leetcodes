@@ -1,0 +1,32 @@
+{
+  "title": "Subarray Product Less Than K",
+  "titleSlug": "subarray-product-less-than-k",
+  "frontendQuestionId": "713",
+  "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1578573981",
+  "submittedAt": "2025-03-19T02:46:31.000Z",
+  "runtimeMs": 5,
+  "memoryKb": 66867,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.762Z"
+}

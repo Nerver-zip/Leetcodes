@@ -1,0 +1,30 @@
+{
+  "title": "Compute Alternating Sum",
+  "titleSlug": "compute-alternating-sum",
+  "frontendQuestionId": "3701",
+  "leetcodeUrl": "https://leetcode.com/problems/compute-alternating-sum/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1791612198",
+  "submittedAt": "2025-10-05T02:31:25.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 33382,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:26.948Z"
+}

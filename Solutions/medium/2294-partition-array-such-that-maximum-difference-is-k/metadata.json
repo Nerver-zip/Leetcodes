@@ -1,0 +1,31 @@
+{
+  "title": "Partition Array Such That Maximum Difference Is K",
+  "titleSlug": "partition-array-such-that-maximum-difference-is-k",
+  "frontendQuestionId": "2294",
+  "leetcodeUrl": "https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1669710820",
+  "submittedAt": "2025-06-19T17:44:45.000Z",
+  "runtimeMs": 35,
+  "memoryKb": 89088,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.777Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Find the Original Typed String II",
+  "titleSlug": "find-the-original-typed-string-ii",
+  "frontendQuestionId": "3333",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-original-typed-string-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1684007028",
+  "submittedAt": "2025-07-02T15:26:53.000Z",
+  "runtimeMs": 380,
+  "memoryKb": 278733,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.786Z"
+}

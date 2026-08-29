@@ -1,0 +1,35 @@
+{
+  "title": "Maximum Total Damage With Spell Casting",
+  "titleSlug": "maximum-total-damage-with-spell-casting",
+  "frontendQuestionId": "3186",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1798754009",
+  "submittedAt": "2025-10-11T21:46:57.000Z",
+  "runtimeMs": 360,
+  "memoryKb": 232755,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:32.276Z"
+}

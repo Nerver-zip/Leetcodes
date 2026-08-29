@@ -1,0 +1,31 @@
+{
+  "title": "Find the Minimum Amount of Time to Brew Potions",
+  "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions",
+  "frontendQuestionId": "3494",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Simulation",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1796533573",
+  "submittedAt": "2025-10-09T16:25:09.000Z",
+  "runtimeMs": 227,
+  "memoryKb": 46694,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:28.755Z"
+}

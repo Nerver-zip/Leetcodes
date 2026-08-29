@@ -1,0 +1,33 @@
+{
+  "title": "Minimize the Maximum Difference of Pairs",
+  "titleSlug": "minimize-the-maximum-difference-of-pairs",
+  "frontendQuestionId": "2616",
+  "leetcodeUrl": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1663324425",
+  "submittedAt": "2025-06-13T21:11:30.000Z",
+  "runtimeMs": 22,
+  "memoryKb": 88883,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.775Z"
+}

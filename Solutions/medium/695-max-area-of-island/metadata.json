@@ -1,0 +1,33 @@
+{
+  "title": "Max Area of Island",
+  "titleSlug": "max-area-of-island",
+  "frontendQuestionId": "695",
+  "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1684098139",
+  "submittedAt": "2025-07-02T16:47:48.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 30208,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.786Z"
+}

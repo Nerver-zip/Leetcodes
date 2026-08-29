@@ -1,0 +1,30 @@
+{
+  "title": "Generate Tag for Video Caption",
+  "titleSlug": "generate-tag-for-video-caption",
+  "frontendQuestionId": "3582",
+  "leetcodeUrl": "https://leetcode.com/problems/generate-tag-for-video-caption/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1665467276",
+  "submittedAt": "2025-06-16T01:50:58.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9216,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.776Z"
+}

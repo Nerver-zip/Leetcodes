@@ -1,0 +1,32 @@
+{
+  "title": "Design Exam Scores Tracker",
+  "titleSlug": "design-exam-scores-tracker",
+  "frontendQuestionId": "3709",
+  "leetcodeUrl": "https://leetcode.com/problems/design-exam-scores-tracker/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Design",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1798482676",
+  "submittedAt": "2025-10-11T15:57:04.000Z",
+  "runtimeMs": 89,
+  "memoryKb": 299622,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:31.667Z"
+}

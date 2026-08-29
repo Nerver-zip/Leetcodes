@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Deletions to Make String K-Special",
+  "titleSlug": "minimum-deletions-to-make-string-k-special",
+  "frontendQuestionId": "3085",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1671957152",
+  "submittedAt": "2025-06-21T19:54:15.000Z",
+  "runtimeMs": 15,
+  "memoryKb": 19968,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.779Z"
+}

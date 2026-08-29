@@ -1,0 +1,33 @@
+{
+  "title": "Loud and Rich",
+  "titleSlug": "loud-and-rich",
+  "frontendQuestionId": "851",
+  "leetcodeUrl": "https://leetcode.com/problems/loud-and-rich/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Graph Theory",
+    "Topological Sort",
+    "Directed Acyclic Graph"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1682001654",
+  "submittedAt": "2025-07-01T00:01:24.000Z",
+  "runtimeMs": 13,
+  "memoryKb": 48230,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.785Z"
+}

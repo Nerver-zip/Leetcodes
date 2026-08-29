@@ -1,0 +1,31 @@
+{
+  "title": "Find the Lexicographically Largest String From the Box I",
+  "titleSlug": "find-the-lexicographically-largest-string-from-the-box-i",
+  "frontendQuestionId": "3403",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1653787834",
+  "submittedAt": "2025-06-04T14:18:40.000Z",
+  "runtimeMs": 74,
+  "memoryKb": 173363,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.769Z"
+}

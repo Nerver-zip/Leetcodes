@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Difference Between Even and Odd Frequency I",
+  "titleSlug": "maximum-difference-between-even-and-odd-frequency-i",
+  "frontendQuestionId": "3442",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1659166553",
+  "submittedAt": "2025-06-10T00:44:04.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9626,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.774Z"
+}

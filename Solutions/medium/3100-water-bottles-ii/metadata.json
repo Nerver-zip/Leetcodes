@@ -1,0 +1,30 @@
+{
+  "title": "Water Bottles II",
+  "titleSlug": "water-bottles-ii",
+  "frontendQuestionId": "3100",
+  "leetcodeUrl": "https://leetcode.com/problems/water-bottles-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1789299166",
+  "submittedAt": "2025-10-02T14:49:09.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8806,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:25.073Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Lexicographical Numbers",
+  "titleSlug": "lexicographical-numbers",
+  "frontendQuestionId": "386",
+  "leetcodeUrl": "https://leetcode.com/problems/lexicographical-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1657938102",
+  "submittedAt": "2025-06-08T18:30:53.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15360,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.772Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Course Schedule III",
+  "titleSlug": "course-schedule-iii",
+  "frontendQuestionId": "630",
+  "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1670790525",
+  "submittedAt": "2025-06-20T17:49:59.000Z",
+  "runtimeMs": 29,
+  "memoryKb": 61952,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.779Z"
+}

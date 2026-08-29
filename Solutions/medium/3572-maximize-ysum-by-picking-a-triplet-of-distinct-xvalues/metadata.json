@@ -1,0 +1,33 @@
+{
+  "title": "Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values",
+  "titleSlug": "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+  "frontendQuestionId": "3572",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1656667563",
+  "submittedAt": "2025-06-07T14:41:44.000Z",
+  "runtimeMs": 33,
+  "memoryKb": 195584,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.770Z"
+}

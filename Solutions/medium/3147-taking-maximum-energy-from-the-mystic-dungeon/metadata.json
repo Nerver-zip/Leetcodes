@@ -1,0 +1,31 @@
+{
+  "title": "Taking Maximum Energy From the Mystic Dungeon",
+  "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+  "frontendQuestionId": "3147",
+  "leetcodeUrl": "https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1797603926",
+  "submittedAt": "2025-10-10T18:08:07.000Z",
+  "runtimeMs": 159,
+  "memoryKb": 161485,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:29.289Z"
+}

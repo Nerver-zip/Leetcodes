@@ -1,0 +1,32 @@
+{
+  "title": "Smallest Missing Non-negative Integer After Operations",
+  "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+  "frontendQuestionId": "2598",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1803673606",
+  "submittedAt": "2025-10-16T19:03:50.000Z",
+  "runtimeMs": 74,
+  "memoryKb": 138957,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:35.322Z"
+}

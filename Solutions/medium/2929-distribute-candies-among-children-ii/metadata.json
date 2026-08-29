@@ -1,0 +1,31 @@
+{
+  "title": "Distribute Candies Among Children II",
+  "titleSlug": "distribute-candies-among-children-ii",
+  "frontendQuestionId": "2929",
+  "leetcodeUrl": "https://leetcode.com/problems/distribute-candies-among-children-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Combinatorics",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1650279957",
+  "submittedAt": "2025-06-01T03:14:39.000Z",
+  "runtimeMs": 31,
+  "memoryKb": 9114,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.768Z"
+}

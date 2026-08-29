@@ -1,0 +1,33 @@
+{
+  "title": "Avoid Flood in The City",
+  "titleSlug": "avoid-flood-in-the-city",
+  "frontendQuestionId": "1488",
+  "leetcodeUrl": "https://leetcode.com/problems/avoid-flood-in-the-city/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1794392025",
+  "submittedAt": "2025-10-07T16:18:02.000Z",
+  "runtimeMs": 107,
+  "memoryKb": 117248,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:27.971Z"
+}

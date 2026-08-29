@@ -1,0 +1,30 @@
+{
+  "title": "Sum of k-Mirror Numbers",
+  "titleSlug": "sum-of-k-mirror-numbers",
+  "frontendQuestionId": "2081",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-k-mirror-numbers/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1673857204",
+  "submittedAt": "2025-06-23T15:13:47.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8090,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:15.781Z"
+}
