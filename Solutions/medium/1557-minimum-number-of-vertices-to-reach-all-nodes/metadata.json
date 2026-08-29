@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Number of Vertices to Reach All Nodes",
+  "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes",
+  "frontendQuestionId": "1557",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Graph Theory",
+    "Directed Acyclic Graph"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1924909529",
+  "submittedAt": "2026-02-20T01:54:46.000Z",
+  "runtimeMs": 25,
+  "memoryKb": 107930,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.541Z"
+}

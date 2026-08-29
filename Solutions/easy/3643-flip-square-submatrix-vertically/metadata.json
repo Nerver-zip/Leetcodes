@@ -1,0 +1,31 @@
+{
+  "title": "Flip Square Submatrix Vertically",
+  "titleSlug": "flip-square-submatrix-vertically",
+  "frontendQuestionId": "3643",
+  "leetcodeUrl": "https://leetcode.com/problems/flip-square-submatrix-vertically/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1954850353",
+  "submittedAt": "2026-03-21T15:05:30.000Z",
+  "runtimeMs": 6,
+  "memoryKb": 34816,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.522Z"
+}

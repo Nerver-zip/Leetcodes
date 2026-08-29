@@ -1,0 +1,31 @@
+{
+  "title": "Smallest Integer Divisible by K",
+  "titleSlug": "smallest-integer-divisible-by-k",
+  "frontendQuestionId": "1015",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-integer-divisible-by-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Pigeonhole Principle"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1920509985",
+  "submittedAt": "2026-02-16T00:27:40.000Z",
+  "runtimeMs": 43,
+  "memoryKb": 23962,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.544Z"
+}

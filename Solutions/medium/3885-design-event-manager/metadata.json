@@ -1,0 +1,33 @@
+{
+  "title": "Design Event Manager",
+  "titleSlug": "design-event-manager",
+  "frontendQuestionId": "3885",
+  "leetcodeUrl": "https://leetcode.com/problems/design-event-manager/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1962375779",
+  "submittedAt": "2026-03-29T02:55:33.000Z",
+  "runtimeMs": 243,
+  "memoryKb": 323174,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.516Z"
+}

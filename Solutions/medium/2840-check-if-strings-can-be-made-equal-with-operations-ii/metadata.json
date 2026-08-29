@@ -1,0 +1,31 @@
+{
+  "title": "Check if Strings Can be Made Equal With Operations II",
+  "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii",
+  "frontendQuestionId": "2840",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1963938718",
+  "submittedAt": "2026-03-30T14:59:46.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 20480,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.515Z"
+}

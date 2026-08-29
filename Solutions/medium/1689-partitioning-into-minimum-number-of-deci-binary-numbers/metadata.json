@@ -1,0 +1,30 @@
+{
+  "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+  "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+  "frontendQuestionId": "1689",
+  "leetcodeUrl": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1934782334",
+  "submittedAt": "2026-03-01T13:58:48.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 16998,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.534Z"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Minimum Operations to Sort a String",
+  "titleSlug": "minimum-operations-to-sort-a-string",
+  "frontendQuestionId": "3863",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1941495345",
+  "submittedAt": "2026-03-08T03:36:53.000Z",
+  "runtimeMs": 15,
+  "memoryKb": 28570,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.531Z"
+}

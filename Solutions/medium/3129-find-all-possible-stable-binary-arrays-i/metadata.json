@@ -1,0 +1,30 @@
+{
+  "title": "Find All Possible Stable Binary Arrays I",
+  "titleSlug": "find-all-possible-stable-binary-arrays-i",
+  "frontendQuestionId": "3129",
+  "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1943364442",
+  "submittedAt": "2026-03-09T23:28:53.000Z",
+  "runtimeMs": 115,
+  "memoryKb": 52224,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.530Z"
+}

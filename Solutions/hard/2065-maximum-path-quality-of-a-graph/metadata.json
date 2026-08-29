@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Path Quality of a Graph",
+  "titleSlug": "maximum-path-quality-of-a-graph",
+  "frontendQuestionId": "2065",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-path-quality-of-a-graph/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1938933332",
+  "submittedAt": "2026-03-05T16:14:43.000Z",
+  "runtimeMs": 52,
+  "memoryKb": 26112,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.533Z"
+}

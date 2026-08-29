@@ -1,0 +1,32 @@
+{
+  "title": "Robot Collisions",
+  "titleSlug": "robot-collisions",
+  "frontendQuestionId": "2751",
+  "leetcodeUrl": "https://leetcode.com/problems/robot-collisions/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Stack",
+    "Sorting",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1966247254",
+  "submittedAt": "2026-04-01T20:27:47.000Z",
+  "runtimeMs": 51,
+  "memoryKb": 199373,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.514Z"
+}

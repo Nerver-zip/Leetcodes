@@ -1,0 +1,31 @@
+{
+  "title": "Find Kth Bit in Nth Binary String",
+  "titleSlug": "find-kth-bit-in-nth-binary-string",
+  "frontendQuestionId": "1545",
+  "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Recursion",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1936172991",
+  "submittedAt": "2026-03-03T00:32:06.000Z",
+  "runtimeMs": 14,
+  "memoryKb": 15667,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.534Z"
+}

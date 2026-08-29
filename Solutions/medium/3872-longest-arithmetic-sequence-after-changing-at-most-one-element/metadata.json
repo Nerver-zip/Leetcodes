@@ -1,0 +1,30 @@
+{
+  "title": "Longest Arithmetic Sequence After Changing At Most One Element",
+  "titleSlug": "longest-arithmetic-sequence-after-changing-at-most-one-element",
+  "frontendQuestionId": "3872",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-sequence-after-changing-at-most-one-element/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1948703314",
+  "submittedAt": "2026-03-15T04:15:06.000Z",
+  "runtimeMs": 28,
+  "memoryKb": 249958,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.525Z"
+}

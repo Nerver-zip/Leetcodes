@@ -1,0 +1,29 @@
+{
+  "title": "Ugly Number",
+  "titleSlug": "ugly-number",
+  "frontendQuestionId": "263",
+  "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1920508949",
+  "submittedAt": "2026-02-16T00:24:40.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8090,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.544Z"
+}

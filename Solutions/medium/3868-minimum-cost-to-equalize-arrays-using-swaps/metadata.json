@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Cost to Equalize Arrays Using Swaps",
+  "titleSlug": "minimum-cost-to-equalize-arrays-using-swaps",
+  "frontendQuestionId": "3868",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1948170575",
+  "submittedAt": "2026-03-14T16:10:21.000Z",
+  "runtimeMs": 159,
+  "memoryKb": 260813,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.527Z"
+}

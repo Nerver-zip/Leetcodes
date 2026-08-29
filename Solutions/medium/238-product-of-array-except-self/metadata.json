@@ -1,0 +1,30 @@
+{
+  "title": "Product of Array Except Self",
+  "titleSlug": "product-of-array-except-self",
+  "frontendQuestionId": "238",
+  "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1957943748",
+  "submittedAt": "2026-03-24T16:07:43.000Z",
+  "runtimeMs": 5,
+  "memoryKb": 43213,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.520Z"
+}

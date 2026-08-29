@@ -1,0 +1,30 @@
+{
+  "title": "Find the Smallest Balanced Index",
+  "titleSlug": "find-the-smallest-balanced-index",
+  "frontendQuestionId": "3862",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-balanced-index/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1941372776",
+  "submittedAt": "2026-03-08T02:54:40.000Z",
+  "runtimeMs": 1,
+  "memoryKb": 196915,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.531Z"
+}

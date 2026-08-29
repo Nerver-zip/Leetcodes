@@ -1,0 +1,31 @@
+{
+  "title": "Count Subarrays With Cost Less Than or Equal to K",
+  "titleSlug": "count-subarrays-with-cost-less-than-or-equal-to-k",
+  "frontendQuestionId": "3835",
+  "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Queue",
+    "Monotonic Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1912009899",
+  "submittedAt": "2026-02-08T04:05:55.000Z",
+  "runtimeMs": 495,
+  "memoryKb": 308122,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.551Z"
+}

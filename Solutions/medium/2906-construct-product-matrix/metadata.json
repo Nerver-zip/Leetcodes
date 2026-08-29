@@ -1,0 +1,31 @@
+{
+  "title": "Construct Product Matrix",
+  "titleSlug": "construct-product-matrix",
+  "frontendQuestionId": "2906",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-product-matrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1957977676",
+  "submittedAt": "2026-03-24T16:36:18.000Z",
+  "runtimeMs": 35,
+  "memoryKb": 152474,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.519Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Count Sequences to K",
+  "titleSlug": "count-sequences-to-k",
+  "frontendQuestionId": "3850",
+  "leetcodeUrl": "https://leetcode.com/problems/count-sequences-to-k/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Memoization",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1927477497",
+  "submittedAt": "2026-02-22T13:48:16.000Z",
+  "runtimeMs": 526,
+  "memoryKb": 161485,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.538Z"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Check if Binary String Has at Most One Segment of Ones",
+  "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+  "frontendQuestionId": "1784",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1939302239",
+  "submittedAt": "2026-03-06T02:54:58.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8499,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.532Z"
+}

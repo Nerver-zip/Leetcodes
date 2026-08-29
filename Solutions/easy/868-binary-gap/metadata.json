@@ -1,0 +1,29 @@
+{
+  "title": "Binary Gap",
+  "titleSlug": "binary-gap",
+  "frontendQuestionId": "868",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-gap/",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1927496192",
+  "submittedAt": "2026-02-22T14:10:51.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8090,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.538Z"
+}

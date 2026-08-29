@@ -1,0 +1,29 @@
+{
+  "title": "Self Dividing Numbers",
+  "titleSlug": "self-dividing-numbers",
+  "frontendQuestionId": "728",
+  "leetcodeUrl": "https://leetcode.com/problems/self-dividing-numbers/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1920513156",
+  "submittedAt": "2026-02-16T00:36:53.000Z",
+  "runtimeMs": 23,
+  "memoryKb": 14541,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.543Z"
+}

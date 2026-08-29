@@ -1,0 +1,32 @@
+{
+  "title": "Equal Sum Grid Partition I",
+  "titleSlug": "equal-sum-grid-partition-i",
+  "frontendQuestionId": "3546",
+  "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Enumeration",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1959008868",
+  "submittedAt": "2026-03-25T15:40:36.000Z",
+  "runtimeMs": 14,
+  "memoryKb": 136397,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.519Z"
+}

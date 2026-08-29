@@ -1,0 +1,31 @@
+{
+  "title": "Lexicographically Smallest Generated String",
+  "titleSlug": "lexicographically-smallest-generated-string",
+  "frontendQuestionId": "3474",
+  "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Greedy",
+    "String Matching"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1965056196",
+  "submittedAt": "2026-03-31T16:32:28.000Z",
+  "runtimeMs": 15,
+  "memoryKb": 11469,
+  "complexity": {
+    "time": "O(n^5)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.515Z"
+}

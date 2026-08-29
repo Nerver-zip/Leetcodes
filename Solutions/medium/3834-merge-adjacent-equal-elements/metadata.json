@@ -1,0 +1,31 @@
+{
+  "title": "Merge Adjacent Equal Elements",
+  "titleSlug": "merge-adjacent-equal-elements",
+  "frontendQuestionId": "3834",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-adjacent-equal-elements/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1911880688",
+  "submittedAt": "2026-02-08T02:54:28.000Z",
+  "runtimeMs": 67,
+  "memoryKb": 229786,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.552Z"
+}

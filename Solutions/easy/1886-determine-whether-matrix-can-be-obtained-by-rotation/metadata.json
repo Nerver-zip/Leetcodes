@@ -1,0 +1,30 @@
+{
+  "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+  "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation",
+  "frontendQuestionId": "1886",
+  "leetcodeUrl": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1956261728",
+  "submittedAt": "2026-03-23T03:01:36.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 14848,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.520Z"
+}

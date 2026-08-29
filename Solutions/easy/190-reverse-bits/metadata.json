@@ -1,0 +1,30 @@
+{
+  "title": "Reverse Bits",
+  "titleSlug": "reverse-bits",
+  "frontendQuestionId": "190",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+  "difficulty": "Easy",
+  "topics": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1920521210",
+  "submittedAt": "2026-02-16T01:00:03.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8499,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.543Z"
+}

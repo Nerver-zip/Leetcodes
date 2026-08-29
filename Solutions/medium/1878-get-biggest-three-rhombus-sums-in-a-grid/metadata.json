@@ -1,0 +1,34 @@
+{
+  "title": "Get Biggest Three Rhombus Sums in a Grid",
+  "titleSlug": "get-biggest-three-rhombus-sums-in-a-grid",
+  "frontendQuestionId": "1878",
+  "leetcodeUrl": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1950541106",
+  "submittedAt": "2026-03-16T22:30:27.000Z",
+  "runtimeMs": 247,
+  "memoryKb": 63283,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.524Z"
+}

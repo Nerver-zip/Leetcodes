@@ -1,0 +1,32 @@
+{
+  "title": "Matrix Similarity After Cyclic Shifts",
+  "titleSlug": "matrix-similarity-after-cyclic-shifts",
+  "frontendQuestionId": "2946",
+  "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1961022487",
+  "submittedAt": "2026-03-27T15:49:42.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 32154,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.518Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Longest Balanced Subarray II",
+  "titleSlug": "longest-balanced-subarray-ii",
+  "frontendQuestionId": "3721",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1916314919",
+  "submittedAt": "2026-02-11T21:30:18.000Z",
+  "runtimeMs": 761,
+  "memoryKb": 487834,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.548Z"
+}

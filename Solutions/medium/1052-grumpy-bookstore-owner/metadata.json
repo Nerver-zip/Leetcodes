@@ -1,0 +1,30 @@
+{
+  "title": "Grumpy Bookstore Owner",
+  "titleSlug": "grumpy-bookstore-owner",
+  "frontendQuestionId": "1052",
+  "leetcodeUrl": "https://leetcode.com/problems/grumpy-bookstore-owner/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1914035421",
+  "submittedAt": "2026-02-09T23:39:29.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 36659,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.550Z"
+}

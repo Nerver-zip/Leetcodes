@@ -1,0 +1,32 @@
+{
+  "title": "Add Binary",
+  "titleSlug": "add-binary",
+  "frontendQuestionId": "67",
+  "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Bit Manipulation",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1920306844",
+  "submittedAt": "2026-02-15T17:50:54.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9523,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.545Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Find the Score Difference in a Game",
+  "titleSlug": "find-the-score-difference-in-a-game",
+  "frontendQuestionId": "3847",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-score-difference-in-a-game/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1926852460",
+  "submittedAt": "2026-02-22T02:37:28.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 41677,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.539Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "First Element with Unique Frequency",
+  "titleSlug": "first-element-with-unique-frequency",
+  "frontendQuestionId": "3843",
+  "leetcodeUrl": "https://leetcode.com/problems/first-element-with-unique-frequency/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1919534318",
+  "submittedAt": "2026-02-15T02:38:38.000Z",
+  "runtimeMs": 165,
+  "memoryKb": 296653,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.546Z"
+}

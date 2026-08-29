@@ -1,0 +1,32 @@
+{
+  "title": "Find if Path Exists in Graph",
+  "titleSlug": "find-if-path-exists-in-graph",
+  "frontendQuestionId": "1971",
+  "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+  "difficulty": "Easy",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1939181754",
+  "submittedAt": "2026-03-05T21:40:47.000Z",
+  "runtimeMs": 220,
+  "memoryKb": 288563,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.533Z"
+}

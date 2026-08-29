@@ -1,0 +1,31 @@
+{
+  "title": "Longest Balanced Substring II",
+  "titleSlug": "longest-balanced-substring-ii",
+  "frontendQuestionId": "3714",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-substring-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1918335557",
+  "submittedAt": "2026-02-13T18:50:54.000Z",
+  "runtimeMs": 1686,
+  "memoryKb": 252723,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.548Z"
+}

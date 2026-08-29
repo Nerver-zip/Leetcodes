@@ -1,0 +1,33 @@
+{
+  "title": "All Paths From Source to Target",
+  "titleSlug": "all-paths-from-source-to-target",
+  "frontendQuestionId": "797",
+  "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+  "difficulty": "Medium",
+  "topics": [
+    "Backtracking",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Directed Acyclic Graph"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1939194006",
+  "submittedAt": "2026-03-05T22:14:45.000Z",
+  "runtimeMs": 26,
+  "memoryKb": 22835,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.532Z"
+}

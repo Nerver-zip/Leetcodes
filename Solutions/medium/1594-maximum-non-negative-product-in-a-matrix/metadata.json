@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Non Negative Product in a Matrix",
+  "titleSlug": "maximum-non-negative-product-in-a-matrix",
+  "frontendQuestionId": "1594",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1957074980",
+  "submittedAt": "2026-03-23T18:57:48.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 14541,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.520Z"
+}

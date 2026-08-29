@@ -1,0 +1,30 @@
+{
+  "title": "Binary Watch",
+  "titleSlug": "binary-watch",
+  "frontendQuestionId": "401",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+  "difficulty": "Easy",
+  "topics": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1922639557",
+  "submittedAt": "2026-02-17T22:22:43.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10547,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.543Z"
+}

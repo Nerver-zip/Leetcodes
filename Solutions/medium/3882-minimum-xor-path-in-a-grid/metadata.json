@@ -1,0 +1,32 @@
+{
+  "title": "Minimum XOR Path in a Grid",
+  "titleSlug": "minimum-xor-path-in-a-grid",
+  "frontendQuestionId": "3882",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1961964808",
+  "submittedAt": "2026-03-28T15:53:06.000Z",
+  "runtimeMs": 351,
+  "memoryKb": 63488,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.518Z"
+}

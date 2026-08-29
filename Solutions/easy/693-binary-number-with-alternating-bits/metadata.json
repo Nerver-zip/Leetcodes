@@ -1,0 +1,29 @@
+{
+  "title": "Binary Number with Alternating Bits",
+  "titleSlug": "binary-number-with-alternating-bits",
+  "frontendQuestionId": "693",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1923364478",
+  "submittedAt": "2026-02-18T14:39:08.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8090,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.542Z"
+}

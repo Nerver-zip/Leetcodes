@@ -1,0 +1,31 @@
+{
+  "title": "First Unique Even Element",
+  "titleSlug": "first-unique-even-element",
+  "frontendQuestionId": "3866",
+  "leetcodeUrl": "https://leetcode.com/problems/first-unique-even-element/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1947979334",
+  "submittedAt": "2026-03-14T14:32:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 29389,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.528Z"
+}

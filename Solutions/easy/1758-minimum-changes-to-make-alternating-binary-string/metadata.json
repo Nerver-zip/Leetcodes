@@ -1,0 +1,29 @@
+{
+  "title": "Minimum Changes To Make Alternating Binary String",
+  "titleSlug": "minimum-changes-to-make-alternating-binary-string",
+  "frontendQuestionId": "1758",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1938739715",
+  "submittedAt": "2026-03-05T12:22:52.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 10547,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.533Z"
+}

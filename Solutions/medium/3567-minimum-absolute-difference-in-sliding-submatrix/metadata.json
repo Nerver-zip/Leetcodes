@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Absolute Difference in Sliding Submatrix",
+  "titleSlug": "minimum-absolute-difference-in-sliding-submatrix",
+  "frontendQuestionId": "3567",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1954304166",
+  "submittedAt": "2026-03-20T21:34:12.000Z",
+  "runtimeMs": 271,
+  "memoryKb": 28672,
+  "complexity": {
+    "time": "O(n^4)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.522Z"
+}

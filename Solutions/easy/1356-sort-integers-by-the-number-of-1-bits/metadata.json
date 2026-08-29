@@ -1,0 +1,32 @@
+{
+  "title": "Sort Integers by The Number of 1 Bits",
+  "titleSlug": "sort-integers-by-the-number-of-1-bits",
+  "frontendQuestionId": "1356",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1930211456",
+  "submittedAt": "2026-02-25T01:13:12.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 14541,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:08:12.537Z"
+}
