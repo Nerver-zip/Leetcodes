@@ -1,0 +1,32 @@
+{
+  "title": "Number of Sub-arrays With Odd Sum",
+  "titleSlug": "number-of-sub-arrays-with-odd-sum",
+  "frontendQuestionId": "1524",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1555339797",
+  "submittedAt": "2025-02-25T19:34:33.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 120627,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:19.551Z"
+}

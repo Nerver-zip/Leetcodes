@@ -1,0 +1,32 @@
+{
+  "title": "Course Schedule IV",
+  "titleSlug": "course-schedule-iv",
+  "frontendQuestionId": "1462",
+  "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iv/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1521658832",
+  "submittedAt": "2025-01-27T02:48:18.000Z",
+  "runtimeMs": 125,
+  "memoryKb": 71270,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.967Z"
+}

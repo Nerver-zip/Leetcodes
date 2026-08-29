@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Operations to Exceed Threshold Value II",
+  "titleSlug": "minimum-operations-to-exceed-threshold-value-ii",
+  "frontendQuestionId": "3066",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1541856783",
+  "submittedAt": "2025-02-13T14:59:49.000Z",
+  "runtimeMs": 102,
+  "memoryKb": 101478,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.977Z"
+}

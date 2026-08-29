@@ -1,0 +1,33 @@
+{
+  "title": "Product of the Last K Numbers",
+  "titleSlug": "product-of-the-last-k-numbers",
+  "frontendQuestionId": "1352",
+  "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Design",
+    "Data Stream",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1543385509",
+  "submittedAt": "2025-02-15T00:48:46.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 80077,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.977Z"
+}

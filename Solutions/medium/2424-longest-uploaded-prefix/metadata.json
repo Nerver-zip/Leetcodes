@@ -1,0 +1,36 @@
+{
+  "title": "Longest Uploaded Prefix",
+  "titleSlug": "longest-uploaded-prefix",
+  "frontendQuestionId": "2424",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-uploaded-prefix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Binary Search",
+    "Union-Find",
+    "Design",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1520415472",
+  "submittedAt": "2025-01-25T21:01:47.000Z",
+  "runtimeMs": 54,
+  "memoryKb": 172134,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.966Z"
+}

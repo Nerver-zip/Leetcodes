@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Number of Operations to Move All Balls to Each Box",
+  "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+  "frontendQuestionId": "1769",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1499954635",
+  "submittedAt": "2025-01-06T20:12:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12698,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.958Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Recover a Tree From Preorder Traversal",
+  "titleSlug": "recover-a-tree-from-preorder-traversal",
+  "frontendQuestionId": "1028",
+  "leetcodeUrl": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1551699875",
+  "submittedAt": "2025-02-22T12:54:09.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 21914,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:18.235Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Max Chunks To Make Sorted",
+  "titleSlug": "max-chunks-to-make-sorted",
+  "frontendQuestionId": "769",
+  "leetcodeUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Greedy",
+    "Sorting",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1483302975",
+  "submittedAt": "2024-12-19T23:02:37.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9523,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.950Z"
+}

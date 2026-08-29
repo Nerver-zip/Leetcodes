@@ -1,0 +1,32 @@
+{
+  "title": "Letter Tile Possibilities",
+  "titleSlug": "letter-tile-possibilities",
+  "frontendQuestionId": "1079",
+  "leetcodeUrl": "https://leetcode.com/problems/letter-tile-possibilities/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Backtracking",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1545689578",
+  "submittedAt": "2025-02-17T01:31:09.000Z",
+  "runtimeMs": 128,
+  "memoryKb": 18534,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:16.906Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Construct the Lexicographically Largest Valid Sequence",
+  "titleSlug": "construct-the-lexicographically-largest-valid-sequence",
+  "frontendQuestionId": "1718",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1545168147",
+  "submittedAt": "2025-02-16T14:36:49.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 9421,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.978Z"
+}

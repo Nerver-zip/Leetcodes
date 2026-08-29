@@ -1,0 +1,29 @@
+{
+  "title": "Check if Number is a Sum of Powers of Three",
+  "titleSlug": "check-if-number-is-a-sum-of-powers-of-three",
+  "frontendQuestionId": "1780",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1562617196",
+  "submittedAt": "2025-03-04T13:57:01.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 8397,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:24.174Z"
+}

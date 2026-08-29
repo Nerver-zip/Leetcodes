@@ -1,0 +1,32 @@
+{
+  "title": "House Robber IV",
+  "titleSlug": "house-robber-iv",
+  "frontendQuestionId": "2560",
+  "leetcodeUrl": "https://leetcode.com/problems/house-robber-iv/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1574786531",
+  "submittedAt": "2025-03-15T18:00:29.000Z",
+  "runtimeMs": 18,
+  "memoryKb": 62362,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:33.289Z"
+}

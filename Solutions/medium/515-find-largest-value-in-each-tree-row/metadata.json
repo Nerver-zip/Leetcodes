@@ -1,0 +1,32 @@
+{
+  "title": "Find Largest Value in Each Tree Row",
+  "titleSlug": "find-largest-value-in-each-tree-row",
+  "frontendQuestionId": "515",
+  "leetcodeUrl": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1488373291",
+  "submittedAt": "2024-12-25T23:01:47.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 23450,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.953Z"
+}

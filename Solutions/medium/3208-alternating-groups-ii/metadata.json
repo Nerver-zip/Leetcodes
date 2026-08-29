@@ -1,0 +1,30 @@
+{
+  "title": "Alternating Groups II",
+  "titleSlug": "alternating-groups-ii",
+  "frontendQuestionId": "3208",
+  "leetcodeUrl": "https://leetcode.com/problems/alternating-groups-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1568148302",
+  "submittedAt": "2025-03-09T14:16:47.000Z",
+  "runtimeMs": 67,
+  "memoryKb": 105165,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:28.169Z"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+  "titleSlug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+  "frontendQuestionId": "1368",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path",
+    "0-1 BFS",
+    "Dijkstra's Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1512100724",
+  "submittedAt": "2025-01-18T04:57:07.000Z",
+  "runtimeMs": 255,
+  "memoryKb": 75878,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.964Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Adding Spaces to a String",
+  "titleSlug": "adding-spaces-to-a-string",
+  "frontendQuestionId": "2109",
+  "leetcodeUrl": "https://leetcode.com/problems/adding-spaces-to-a-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1486708360",
+  "submittedAt": "2024-12-23T23:51:51.000Z",
+  "runtimeMs": 20,
+  "memoryKb": 87757,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.953Z"
+}

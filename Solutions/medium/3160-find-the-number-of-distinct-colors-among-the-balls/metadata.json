@@ -1,0 +1,31 @@
+{
+  "title": "Find the Number of Distinct Colors Among the Balls",
+  "titleSlug": "find-the-number-of-distinct-colors-among-the-balls",
+  "frontendQuestionId": "3160",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1534800277",
+  "submittedAt": "2025-02-07T14:14:34.000Z",
+  "runtimeMs": 106,
+  "memoryKb": 161280,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.972Z"
+}

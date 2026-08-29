@@ -1,0 +1,32 @@
+{
+  "title": "Redundant Connection",
+  "titleSlug": "redundant-connection",
+  "frontendQuestionId": "684",
+  "leetcodeUrl": "https://leetcode.com/problems/redundant-connection/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1524864665",
+  "submittedAt": "2025-01-29T23:51:14.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13107,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.967Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Unique Paths II",
+  "titleSlug": "unique-paths-ii",
+  "frontendQuestionId": "63",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1561682344",
+  "submittedAt": "2025-03-03T17:18:31.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12083,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:23.746Z"
+}

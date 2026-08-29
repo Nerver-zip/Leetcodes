@@ -1,0 +1,31 @@
+{
+  "title": "Letter Combinations of a Phone Number",
+  "titleSlug": "letter-combinations-of-a-phone-number",
+  "frontendQuestionId": "17",
+  "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Backtracking"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1529142525",
+  "submittedAt": "2025-02-02T23:14:26.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9933,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.970Z"
+}

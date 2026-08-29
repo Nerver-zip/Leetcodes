@@ -1,0 +1,31 @@
+{
+  "title": "First Completely Painted Row or Column",
+  "titleSlug": "first-completely-painted-row-or-column",
+  "frontendQuestionId": "2661",
+  "leetcodeUrl": "https://leetcode.com/problems/first-completely-painted-row-or-column/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1514702290",
+  "submittedAt": "2025-01-20T15:17:54.000Z",
+  "runtimeMs": 142,
+  "memoryKb": 182784,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.964Z"
+}

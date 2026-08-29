@@ -1,0 +1,31 @@
+{
+  "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+  "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+  "frontendQuestionId": "3306",
+  "leetcodeUrl": "https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1569546145",
+  "submittedAt": "2025-03-10T20:09:45.000Z",
+  "runtimeMs": 230,
+  "memoryKb": 32154,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:28.928Z"
+}

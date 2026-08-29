@@ -1,0 +1,30 @@
+{
+  "title": "Partition List",
+  "titleSlug": "partition-list",
+  "frontendQuestionId": "86",
+  "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1566435341",
+  "submittedAt": "2025-03-07T22:23:47.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15360,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:26.427Z"
+}

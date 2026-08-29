@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Time to Repair Cars",
+  "titleSlug": "minimum-time-to-repair-cars",
+  "frontendQuestionId": "2594",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-repair-cars/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1575648416",
+  "submittedAt": "2025-03-16T12:42:46.000Z",
+  "runtimeMs": 25,
+  "memoryKb": 60723,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:33.903Z"
+}

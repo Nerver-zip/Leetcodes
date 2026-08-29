@@ -1,0 +1,30 @@
+{
+  "title": "Maximum Candies Allocated to K Children",
+  "titleSlug": "maximum-candies-allocated-to-k-children",
+  "frontendQuestionId": "2226",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1573972486",
+  "submittedAt": "2025-03-14T23:18:17.000Z",
+  "runtimeMs": 10,
+  "memoryKb": 90214,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:31.821Z"
+}

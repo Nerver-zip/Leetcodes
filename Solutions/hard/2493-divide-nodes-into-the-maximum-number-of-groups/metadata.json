@@ -1,0 +1,32 @@
+{
+  "title": "Divide Nodes Into the Maximum Number of Groups",
+  "titleSlug": "divide-nodes-into-the-maximum-number-of-groups",
+  "frontendQuestionId": "2493",
+  "leetcodeUrl": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/",
+  "difficulty": "Hard",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1525861088",
+  "submittedAt": "2025-01-30T22:14:22.000Z",
+  "runtimeMs": 912,
+  "memoryKb": 157901,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.968Z"
+}

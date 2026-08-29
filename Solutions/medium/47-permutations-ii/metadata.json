@@ -1,0 +1,31 @@
+{
+  "title": "Permutations II",
+  "titleSlug": "permutations-ii",
+  "frontendQuestionId": "47",
+  "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1532508517",
+  "submittedAt": "2025-02-05T15:51:43.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 12698,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.971Z"
+}

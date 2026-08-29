@@ -1,0 +1,31 @@
+{
+  "title": "Check if One String Swap Can Make Strings Equal",
+  "titleSlug": "check-if-one-string-swap-can-make-strings-equal",
+  "frontendQuestionId": "1790",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1531695308",
+  "submittedAt": "2025-02-05T01:50:18.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8909,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.970Z"
+}

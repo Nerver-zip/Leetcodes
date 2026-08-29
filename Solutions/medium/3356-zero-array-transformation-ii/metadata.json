@@ -1,0 +1,32 @@
+{
+  "title": "Zero Array Transformation II",
+  "titleSlug": "zero-array-transformation-ii",
+  "frontendQuestionId": "3356",
+  "leetcodeUrl": "https://leetcode.com/problems/zero-array-transformation-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1572896254",
+  "submittedAt": "2025-03-13T20:37:32.000Z",
+  "runtimeMs": 71,
+  "memoryKb": 378573,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:30.564Z"
+}

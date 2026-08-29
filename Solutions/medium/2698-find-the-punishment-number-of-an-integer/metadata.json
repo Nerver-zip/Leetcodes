@@ -1,0 +1,30 @@
+{
+  "title": "Find the Punishment Number of an Integer",
+  "titleSlug": "find-the-punishment-number-of-an-integer",
+  "frontendQuestionId": "2698",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-punishment-number-of-an-integer/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Backtracking"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1544436735",
+  "submittedAt": "2025-02-15T23:58:19.000Z",
+  "runtimeMs": 254,
+  "memoryKb": 11469,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.978Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Return Length of Arguments Passed",
+  "titleSlug": "return-length-of-arguments-passed",
+  "frontendQuestionId": "2703",
+  "leetcodeUrl": "https://leetcode.com/problems/return-length-of-arguments-passed/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "javascript",
+  "verdict": "Accepted",
+  "submissionId": "1487526130",
+  "submittedAt": "2024-12-24T22:18:31.000Z",
+  "runtimeMs": 59,
+  "memoryKb": 49766,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from javascript control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.953Z"
+}

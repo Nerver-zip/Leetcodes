@@ -1,0 +1,29 @@
+{
+  "title": "Count Total Number of Colored Cells",
+  "titleSlug": "count-total-number-of-colored-cells",
+  "frontendQuestionId": "2579",
+  "leetcodeUrl": "https://leetcode.com/problems/count-total-number-of-colored-cells/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1563154808",
+  "submittedAt": "2025-03-05T01:24:33.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8090,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:24.690Z"
+}

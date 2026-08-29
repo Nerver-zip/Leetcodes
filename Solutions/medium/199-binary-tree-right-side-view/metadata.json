@@ -1,0 +1,32 @@
+{
+  "title": "Binary Tree Right Side View",
+  "titleSlug": "binary-tree-right-side-view",
+  "frontendQuestionId": "199",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1573729204",
+  "submittedAt": "2025-03-14T17:13:29.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15667,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:31.431Z"
+}

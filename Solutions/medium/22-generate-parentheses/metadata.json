@@ -1,0 +1,32 @@
+{
+  "title": "Generate Parentheses",
+  "titleSlug": "generate-parentheses",
+  "frontendQuestionId": "22",
+  "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1545419960",
+  "submittedAt": "2025-02-16T18:51:04.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13619,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:16.392Z"
+}

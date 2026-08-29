@@ -1,0 +1,30 @@
+{
+  "title": "Minimize XOR",
+  "titleSlug": "minimize-xor",
+  "frontendQuestionId": "2429",
+  "leetcodeUrl": "https://leetcode.com/problems/minimize-xor/",
+  "difficulty": "Medium",
+  "topics": [
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1508971726",
+  "submittedAt": "2025-01-15T03:41:41.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8090,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.962Z"
+}

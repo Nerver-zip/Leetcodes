@@ -1,0 +1,30 @@
+{
+  "title": "Merge Strings Alternately",
+  "titleSlug": "merge-strings-alternately",
+  "frontendQuestionId": "1768",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1571630907",
+  "submittedAt": "2025-03-12T17:12:08.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8704,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:30.180Z"
+}

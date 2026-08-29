@@ -1,0 +1,32 @@
+{
+  "title": "Check if a Parentheses String Can Be Valid",
+  "titleSlug": "check-if-a-parentheses-string-can-be-valid",
+  "frontendQuestionId": "2116",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1505711321",
+  "submittedAt": "2025-01-12T03:22:11.000Z",
+  "runtimeMs": 17,
+  "memoryKb": 35635,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.961Z"
+}

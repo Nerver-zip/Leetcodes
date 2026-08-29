@@ -1,0 +1,32 @@
+{
+  "title": "Invert Binary Tree",
+  "titleSlug": "invert-binary-tree",
+  "frontendQuestionId": "226",
+  "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1485832836",
+  "submittedAt": "2024-12-22T23:54:24.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12595,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.952Z"
+}

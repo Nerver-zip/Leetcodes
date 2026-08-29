@@ -1,0 +1,31 @@
+{
+  "title": "Shortest Common Supersequence ",
+  "titleSlug": "shortest-common-supersequence",
+  "frontendQuestionId": "1092",
+  "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1558325234",
+  "submittedAt": "2025-02-28T16:12:20.000Z",
+  "runtimeMs": 23,
+  "memoryKb": 27443,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:20.999Z"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Find Elements in a Contaminated Binary Tree",
+  "titleSlug": "find-elements-in-a-contaminated-binary-tree",
+  "frontendQuestionId": "1261",
+  "leetcodeUrl": "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Design",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1550228286",
+  "submittedAt": "2025-02-21T01:57:09.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 35430,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:17.825Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Neighboring Bitwise XOR",
+  "titleSlug": "neighboring-bitwise-xor",
+  "frontendQuestionId": "2683",
+  "leetcodeUrl": "https://leetcode.com/problems/neighboring-bitwise-xor/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1511158936",
+  "submittedAt": "2025-01-17T05:19:26.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 270336,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.963Z"
+}

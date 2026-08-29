@@ -1,0 +1,33 @@
+{
+  "title": "Design HashSet",
+  "titleSlug": "design-hashset",
+  "frontendQuestionId": "705",
+  "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1492614152",
+  "submittedAt": "2024-12-30T16:39:18.000Z",
+  "runtimeMs": 39,
+  "memoryKb": 84070,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.956Z"
+}

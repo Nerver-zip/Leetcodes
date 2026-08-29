@@ -1,0 +1,33 @@
+{
+  "title": "Maximum Number of Fish in a Grid",
+  "titleSlug": "maximum-number-of-fish-in-a-grid",
+  "frontendQuestionId": "2658",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1523758760",
+  "submittedAt": "2025-01-28T22:31:55.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 96461,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.967Z"
+}

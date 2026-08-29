@@ -1,0 +1,31 @@
+{
+  "title": "String Matching in an Array",
+  "titleSlug": "string-matching-in-an-array",
+  "frontendQuestionId": "1408",
+  "leetcodeUrl": "https://leetcode.com/problems/string-matching-in-an-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "String Matching"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1501116980",
+  "submittedAt": "2025-01-07T20:04:42.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 11571,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.959Z"
+}

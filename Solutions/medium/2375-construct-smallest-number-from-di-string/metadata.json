@@ -1,0 +1,32 @@
+{
+  "title": "Construct Smallest Number From DI String",
+  "titleSlug": "construct-smallest-number-from-di-string",
+  "frontendQuestionId": "2375",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-smallest-number-from-di-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Stack",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1547917048",
+  "submittedAt": "2025-02-18T23:01:21.000Z",
+  "runtimeMs": 2220,
+  "memoryKb": 291533,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:17.415Z"
+}

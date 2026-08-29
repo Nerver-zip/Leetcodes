@@ -1,0 +1,33 @@
+{
+  "title": "Unique Paths III",
+  "titleSlug": "unique-paths-iii",
+  "frontendQuestionId": "980",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-paths-iii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation",
+    "Matrix",
+    "Hamiltonian Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1558698067",
+  "submittedAt": "2025-03-01T02:36:05.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 9830,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:21.922Z"
+}

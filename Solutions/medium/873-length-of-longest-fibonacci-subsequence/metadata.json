@@ -1,0 +1,31 @@
+{
+  "title": "Length of Longest Fibonacci Subsequence",
+  "titleSlug": "length-of-longest-fibonacci-subsequence",
+  "frontendQuestionId": "873",
+  "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1557511909",
+  "submittedAt": "2025-02-27T19:29:54.000Z",
+  "runtimeMs": 296,
+  "memoryKb": 16077,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:20.385Z"
+}

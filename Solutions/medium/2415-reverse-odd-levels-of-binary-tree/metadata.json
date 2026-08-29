@@ -1,0 +1,32 @@
+{
+  "title": "Reverse Odd Levels of Binary Tree",
+  "titleSlug": "reverse-odd-levels-of-binary-tree",
+  "frontendQuestionId": "2415",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1484937172",
+  "submittedAt": "2024-12-21T22:30:05.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 79053,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.951Z"
+}

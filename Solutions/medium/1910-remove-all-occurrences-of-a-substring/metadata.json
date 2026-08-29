@@ -1,0 +1,31 @@
+{
+  "title": "Remove All Occurrences of a Substring",
+  "titleSlug": "remove-all-occurrences-of-a-substring",
+  "frontendQuestionId": "1910",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1539780275",
+  "submittedAt": "2025-02-11T21:36:58.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11776,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.975Z"
+}

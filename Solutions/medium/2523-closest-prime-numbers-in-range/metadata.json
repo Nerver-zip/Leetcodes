@@ -1,0 +1,33 @@
+{
+  "title": "Closest Prime Numbers in Range",
+  "titleSlug": "closest-prime-numbers-in-range",
+  "frontendQuestionId": "2523",
+  "leetcodeUrl": "https://leetcode.com/problems/closest-prime-numbers-in-range/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Number Theory",
+    "Primality Test",
+    "Sieve Theory",
+    "Prime Number Sieve"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1566173881",
+  "submittedAt": "2025-03-07T16:45:23.000Z",
+  "runtimeMs": 283,
+  "memoryKb": 23654,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:26.017Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Shifting Letters II",
+  "titleSlug": "shifting-letters-ii",
+  "frontendQuestionId": "2381",
+  "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1498885830",
+  "submittedAt": "2025-01-05T20:13:19.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 100864,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.958Z"
+}

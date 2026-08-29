@@ -1,0 +1,30 @@
+{
+  "title": "Pascal's Triangle II",
+  "titleSlug": "pascals-triangle-ii",
+  "frontendQuestionId": "119",
+  "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1493574835",
+  "submittedAt": "2024-12-31T19:17:24.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9523,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:15.956Z"
+}
