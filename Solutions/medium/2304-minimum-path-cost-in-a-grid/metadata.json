@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Path Cost in a Grid",
+  "titleSlug": "minimum-path-cost-in-a-grid",
+  "frontendQuestionId": "2304",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-path-cost-in-a-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1631211861",
+  "submittedAt": "2025-05-11T16:55:52.000Z",
+  "runtimeMs": 866,
+  "memoryKb": 151654,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.646Z"
+}

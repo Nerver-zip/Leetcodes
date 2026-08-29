@@ -1,0 +1,32 @@
+{
+  "title": "Grid Teleportation Traversal",
+  "titleSlug": "grid-teleportation-traversal",
+  "frontendQuestionId": "3552",
+  "leetcodeUrl": "https://leetcode.com/problems/grid-teleportation-traversal/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1636969144",
+  "submittedAt": "2025-05-18T04:25:51.000Z",
+  "runtimeMs": 1663,
+  "memoryKb": 160973,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.643Z"
+}

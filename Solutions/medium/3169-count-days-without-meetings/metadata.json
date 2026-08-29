@@ -1,0 +1,30 @@
+{
+  "title": "Count Days Without Meetings",
+  "titleSlug": "count-days-without-meetings",
+  "frontendQuestionId": "3169",
+  "leetcodeUrl": "https://leetcode.com/problems/count-days-without-meetings/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1584690901",
+  "submittedAt": "2025-03-24T17:31:19.000Z",
+  "runtimeMs": 74,
+  "memoryKb": 137830,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.678Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Count Largest Group",
+  "titleSlug": "count-largest-group",
+  "frontendQuestionId": "1399",
+  "leetcodeUrl": "https://leetcode.com/problems/count-largest-group/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1615907088",
+  "submittedAt": "2025-04-23T17:44:40.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 8499,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.659Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Number of Ways to Arrive at Destination",
+  "titleSlug": "number-of-ways-to-arrive-at-destination",
+  "frontendQuestionId": "1976",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Shortest Path",
+    "Dijkstra's Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1583369919",
+  "submittedAt": "2025-03-23T14:20:14.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 35840,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.679Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Sort Colors",
+  "titleSlug": "sort-colors",
+  "frontendQuestionId": "75",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting",
+    "Quicksort",
+    "Bubble Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1636023829",
+  "submittedAt": "2025-05-17T03:43:17.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11878,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.644Z"
+}

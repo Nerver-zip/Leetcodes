@@ -1,0 +1,33 @@
+{
+  "title": "Longest Palindrome by Concatenating Two Letter Words",
+  "titleSlug": "longest-palindrome-by-concatenating-two-letter-words",
+  "frontendQuestionId": "2131",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1644144675",
+  "submittedAt": "2025-05-25T14:44:42.000Z",
+  "runtimeMs": 151,
+  "memoryKb": 177254,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.638Z"
+}

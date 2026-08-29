@@ -1,0 +1,30 @@
+{
+  "title": "Count Good Triplets",
+  "titleSlug": "count-good-triplets",
+  "frontendQuestionId": "1534",
+  "leetcodeUrl": "https://leetcode.com/problems/count-good-triplets/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1606187379",
+  "submittedAt": "2025-04-14T04:03:52.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 11264,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.664Z"
+}

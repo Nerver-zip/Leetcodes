@@ -1,0 +1,30 @@
+{
+  "title": "Find Peak Element",
+  "titleSlug": "find-peak-element",
+  "frontendQuestionId": "162",
+  "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1589435272",
+  "submittedAt": "2025-03-28T18:48:07.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12698,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.676Z"
+}

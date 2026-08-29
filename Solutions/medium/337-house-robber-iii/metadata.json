@@ -1,0 +1,33 @@
+{
+  "title": "House Robber III",
+  "titleSlug": "house-robber-iii",
+  "frontendQuestionId": "337",
+  "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1602336725",
+  "submittedAt": "2025-04-10T05:11:08.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 26624,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.670Z"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Count and Say",
+  "titleSlug": "count-and-say",
+  "frontendQuestionId": "38",
+  "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1610076662",
+  "submittedAt": "2025-04-18T03:54:47.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 11571,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.662Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Make Array Non-decreasing",
+  "titleSlug": "make-array-non-decreasing",
+  "frontendQuestionId": "3523",
+  "leetcodeUrl": "https://leetcode.com/problems/make-array-non-decreasing/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1612067159",
+  "submittedAt": "2025-04-20T03:20:23.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 211251,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.661Z"
+}

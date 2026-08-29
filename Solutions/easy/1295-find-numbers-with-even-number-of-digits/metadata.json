@@ -1,0 +1,30 @@
+{
+  "title": "Find Numbers with Even Number of Digits",
+  "titleSlug": "find-numbers-with-even-number-of-digits",
+  "frontendQuestionId": "1295",
+  "leetcodeUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1621571305",
+  "submittedAt": "2025-04-30T02:26:59.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 13517,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.655Z"
+}

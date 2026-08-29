@@ -1,0 +1,32 @@
+{
+  "title": "Rabbits in Forest",
+  "titleSlug": "rabbits-in-forest",
+  "frontendQuestionId": "781",
+  "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1612950477",
+  "submittedAt": "2025-04-20T23:16:51.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12595,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.660Z"
+}

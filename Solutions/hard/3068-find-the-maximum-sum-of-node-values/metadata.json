@@ -1,0 +1,34 @@
+{
+  "title": "Find the Maximum Sum of Node Values",
+  "titleSlug": "find-the-maximum-sum-of-node-values",
+  "frontendQuestionId": "3068",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Tree",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1642369532",
+  "submittedAt": "2025-05-23T17:57:13.000Z",
+  "runtimeMs": 75,
+  "memoryKb": 156877,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.640Z"
+}

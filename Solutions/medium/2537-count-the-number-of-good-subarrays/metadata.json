@@ -1,0 +1,31 @@
+{
+  "title": "Count the Number of Good Subarrays",
+  "titleSlug": "count-the-number-of-good-subarrays",
+  "frontendQuestionId": "2537",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-good-subarrays/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1608172278",
+  "submittedAt": "2025-04-16T04:38:46.000Z",
+  "runtimeMs": 106,
+  "memoryKb": 85811,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.663Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Find Minimum Time to Reach Last Room II",
+  "titleSlug": "find-minimum-time-to-reach-last-room-ii",
+  "frontendQuestionId": "3342",
+  "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1628209343",
+  "submittedAt": "2025-05-08T01:31:04.000Z",
+  "runtimeMs": 450,
+  "memoryKb": 106086,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.649Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+  "frontendQuestionId": "34",
+  "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1603939322",
+  "submittedAt": "2025-04-11T18:52:13.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 17920,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.666Z"
+}

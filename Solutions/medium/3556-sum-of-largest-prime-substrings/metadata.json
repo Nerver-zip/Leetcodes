@@ -1,0 +1,33 @@
+{
+  "title": "Sum of Largest Prime Substrings",
+  "titleSlug": "sum-of-largest-prime-substrings",
+  "frontendQuestionId": "3556",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-largest-prime-substrings/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Sorting",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1643246845",
+  "submittedAt": "2025-05-24T16:22:29.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 10240,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.639Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Second Minimum Time to Reach Destination",
+  "titleSlug": "second-minimum-time-to-reach-destination",
+  "frontendQuestionId": "2045",
+  "leetcodeUrl": "https://leetcode.com/problems/second-minimum-time-to-reach-destination/",
+  "difficulty": "Hard",
+  "topics": [
+    "Breadth-First Search",
+    "Graph Theory",
+    "Shortest Path",
+    "Dijkstra's Algorithm",
+    "K Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1636005128",
+  "submittedAt": "2025-05-17T02:59:13.000Z",
+  "runtimeMs": 187,
+  "memoryKb": 193536,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.644Z"
+}

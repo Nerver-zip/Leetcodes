@@ -1,0 +1,29 @@
+{
+  "title": "Count Subarrays of Length Three With a Condition",
+  "titleSlug": "count-subarrays-of-length-three-with-a-condition",
+  "frontendQuestionId": "3392",
+  "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1619654142",
+  "submittedAt": "2025-04-27T19:56:34.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 49664,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.657Z"
+}

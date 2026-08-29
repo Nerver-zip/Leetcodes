@@ -1,0 +1,34 @@
+{
+  "title": "Count the Number of Ideal Arrays",
+  "titleSlug": "count-the-number-of-ideal-arrays",
+  "frontendQuestionId": "2338",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-ideal-arrays/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics",
+    "Number Theory",
+    "Prime Factorization",
+    "Fermat's Little Theorem"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1614108786",
+  "submittedAt": "2025-04-22T01:59:26.000Z",
+  "runtimeMs": 97,
+  "memoryKb": 34304,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.660Z"
+}

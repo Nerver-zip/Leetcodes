@@ -1,0 +1,32 @@
+{
+  "title": "Find the Count of Good Integers",
+  "titleSlug": "find-the-count-of-good-integers",
+  "frontendQuestionId": "3272",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-count-of-good-integers/",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Combinatorics",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1604994798",
+  "submittedAt": "2025-04-12T21:35:09.000Z",
+  "runtimeMs": 1718,
+  "memoryKb": 356250,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.666Z"
+}

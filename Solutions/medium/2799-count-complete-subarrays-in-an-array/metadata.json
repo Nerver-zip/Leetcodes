@@ -1,0 +1,31 @@
+{
+  "title": "Count Complete Subarrays in an Array",
+  "titleSlug": "count-complete-subarrays-in-an-array",
+  "frontendQuestionId": "2799",
+  "leetcodeUrl": "https://leetcode.com/problems/count-complete-subarrays-in-an-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1617000368",
+  "submittedAt": "2025-04-24T20:30:40.000Z",
+  "runtimeMs": 16,
+  "memoryKb": 44544,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.659Z"
+}

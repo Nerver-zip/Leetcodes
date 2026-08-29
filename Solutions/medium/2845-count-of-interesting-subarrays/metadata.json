@@ -1,0 +1,31 @@
+{
+  "title": "Count of Interesting Subarrays",
+  "titleSlug": "count-of-interesting-subarrays",
+  "frontendQuestionId": "2845",
+  "leetcodeUrl": "https://leetcode.com/problems/count-of-interesting-subarrays/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1617966309",
+  "submittedAt": "2025-04-25T23:02:48.000Z",
+  "runtimeMs": 64,
+  "memoryKb": 134451,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.658Z"
+}

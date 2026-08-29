@@ -1,0 +1,33 @@
+{
+  "title": "Most Profit Assigning Work",
+  "titleSlug": "most-profit-assigning-work",
+  "frontendQuestionId": "826",
+  "leetcodeUrl": "https://leetcode.com/problems/most-profit-assigning-work/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1626506622",
+  "submittedAt": "2025-05-05T22:44:39.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 42803,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.651Z"
+}

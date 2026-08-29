@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Index of a Valid Split",
+  "titleSlug": "minimum-index-of-a-valid-split",
+  "frontendQuestionId": "2780",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-index-of-a-valid-split/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1588593891",
+  "submittedAt": "2025-03-27T21:29:32.000Z",
+  "runtimeMs": 63,
+  "memoryKb": 105370,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.677Z"
+}

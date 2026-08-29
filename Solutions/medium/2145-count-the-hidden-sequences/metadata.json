@@ -1,0 +1,30 @@
+{
+  "title": "Count the Hidden Sequences",
+  "titleSlug": "count-the-hidden-sequences",
+  "frontendQuestionId": "2145",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-hidden-sequences/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1613960184",
+  "submittedAt": "2025-04-21T20:27:10.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 138240,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.660Z"
+}

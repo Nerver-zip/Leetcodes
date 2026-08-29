@@ -1,0 +1,33 @@
+{
+  "title": "Stock Price Fluctuation ",
+  "titleSlug": "stock-price-fluctuation",
+  "frontendQuestionId": "2034",
+  "leetcodeUrl": "https://leetcode.com/problems/stock-price-fluctuation/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Design",
+    "Heap (Priority Queue)",
+    "Data Stream",
+    "Ordered Set"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1583834109",
+  "submittedAt": "2025-03-24T01:20:56.000Z",
+  "runtimeMs": 99,
+  "memoryKb": 175104,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.678Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Maximum Number of Points From Grid Queries",
+  "titleSlug": "maximum-number-of-points-from-grid-queries",
+  "frontendQuestionId": "2503",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Breadth-First Search",
+    "Union-Find",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1589316936",
+  "submittedAt": "2025-03-28T16:30:41.000Z",
+  "runtimeMs": 113,
+  "memoryKb": 40858,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.677Z"
+}

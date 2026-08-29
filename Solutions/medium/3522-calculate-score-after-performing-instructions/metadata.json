@@ -1,0 +1,32 @@
+{
+  "title": "Calculate Score After Performing Instructions",
+  "titleSlug": "calculate-score-after-performing-instructions",
+  "frontendQuestionId": "3522",
+  "leetcodeUrl": "https://leetcode.com/problems/calculate-score-after-performing-instructions/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1612019252",
+  "submittedAt": "2025-04-20T02:47:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 171213,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.661Z"
+}

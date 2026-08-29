@@ -1,0 +1,30 @@
+{
+  "title": "Smallest Index With Digit Sum Equal to Index",
+  "titleSlug": "smallest-index-with-digit-sum-equal-to-index",
+  "frontendQuestionId": "3550",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1636853429",
+  "submittedAt": "2025-05-18T02:32:28.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 31846,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.643Z"
+}

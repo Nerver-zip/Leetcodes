@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Weighted K-Edge Path",
+  "titleSlug": "maximum-weighted-k-edge-path",
+  "frontendQuestionId": "3543",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-weighted-k-edge-path/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Dynamic Programming",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1630362325",
+  "submittedAt": "2025-05-10T18:10:07.000Z",
+  "runtimeMs": 1278,
+  "memoryKb": 552653,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.648Z"
+}

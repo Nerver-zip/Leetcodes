@@ -1,0 +1,32 @@
+{
+  "title": "Count Subarrays With Score Less Than K",
+  "titleSlug": "count-subarrays-with-score-less-than-k",
+  "frontendQuestionId": "2302",
+  "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1620606486",
+  "submittedAt": "2025-04-28T22:24:17.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 101478,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.656Z"
+}

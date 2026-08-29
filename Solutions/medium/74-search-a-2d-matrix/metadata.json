@@ -1,0 +1,31 @@
+{
+  "title": "Search a 2D Matrix",
+  "titleSlug": "search-a-2d-matrix",
+  "frontendQuestionId": "74",
+  "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1605019091",
+  "submittedAt": "2025-04-12T22:29:07.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13619,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.665Z"
+}

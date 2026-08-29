@@ -1,0 +1,32 @@
+{
+  "title": "Put Marbles in Bags",
+  "titleSlug": "put-marbles-in-bags",
+  "frontendQuestionId": "2551",
+  "leetcodeUrl": "https://leetcode.com/problems/put-marbles-in-bags/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1591568469",
+  "submittedAt": "2025-03-31T01:52:38.000Z",
+  "runtimeMs": 116,
+  "memoryKb": 86835,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.674Z"
+}

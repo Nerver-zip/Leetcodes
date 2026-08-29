@@ -1,0 +1,31 @@
+{
+  "title": "Sqrt(x)",
+  "titleSlug": "sqrtx",
+  "frontendQuestionId": "69",
+  "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search",
+    "Newton's Method"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1606703753",
+  "submittedAt": "2025-04-14T15:20:32.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8806,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.664Z"
+}

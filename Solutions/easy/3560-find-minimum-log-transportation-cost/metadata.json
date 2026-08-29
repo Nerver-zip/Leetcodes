@@ -1,0 +1,29 @@
+{
+  "title": "Find Minimum Log Transportation Cost",
+  "titleSlug": "find-minimum-log-transportation-cost",
+  "frontendQuestionId": "3560",
+  "leetcodeUrl": "https://leetcode.com/problems/find-minimum-log-transportation-cost/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1643581522",
+  "submittedAt": "2025-05-25T02:42:17.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9011,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.639Z"
+}

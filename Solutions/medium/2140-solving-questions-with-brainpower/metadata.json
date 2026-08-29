@@ -1,0 +1,30 @@
+{
+  "title": "Solving Questions With Brainpower",
+  "titleSlug": "solving-questions-with-brainpower",
+  "frontendQuestionId": "2140",
+  "leetcodeUrl": "https://leetcode.com/problems/solving-questions-with-brainpower/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1593697475",
+  "submittedAt": "2025-04-01T22:46:50.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 130662,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.674Z"
+}

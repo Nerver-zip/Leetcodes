@@ -1,0 +1,35 @@
+{
+  "title": "Apply Operations to Maximize Score",
+  "titleSlug": "apply-operations-to-maximize-score",
+  "frontendQuestionId": "2818",
+  "leetcodeUrl": "https://leetcode.com/problems/apply-operations-to-maximize-score/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Stack",
+    "Greedy",
+    "Sorting",
+    "Monotonic Stack",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1590525697",
+  "submittedAt": "2025-03-29T23:15:51.000Z",
+  "runtimeMs": 309,
+  "memoryKb": 148992,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.675Z"
+}

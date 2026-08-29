@@ -1,0 +1,31 @@
+{
+  "title": "Longest Unequal Adjacent Groups Subsequence II",
+  "titleSlug": "longest-unequal-adjacent-groups-subsequence-ii",
+  "frontendQuestionId": "2901",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1635784904",
+  "submittedAt": "2025-05-16T18:07:33.000Z",
+  "runtimeMs": 60,
+  "memoryKb": 35226,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.645Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Build Array from Permutation",
+  "titleSlug": "build-array-from-permutation",
+  "frontendQuestionId": "1920",
+  "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1627099372",
+  "submittedAt": "2025-05-06T15:29:50.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 20890,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.649Z"
+}

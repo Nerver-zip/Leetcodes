@@ -1,0 +1,35 @@
+{
+  "title": "Maximum Number of Tasks You Can Assign",
+  "titleSlug": "maximum-number-of-tasks-you-can-assign",
+  "frontendQuestionId": "2071",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Queue",
+    "Sorting",
+    "Monotonic Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1623095916",
+  "submittedAt": "2025-05-01T19:38:30.000Z",
+  "runtimeMs": 757,
+  "memoryKb": 293274,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.655Z"
+}

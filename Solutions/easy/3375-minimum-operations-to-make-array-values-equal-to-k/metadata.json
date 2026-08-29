@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Operations to Make Array Values Equal to K",
+  "titleSlug": "minimum-operations-to-make-array-values-equal-to-k",
+  "frontendQuestionId": "3375",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1602017099",
+  "submittedAt": "2025-04-09T19:01:54.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 33075,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.671Z"
+}

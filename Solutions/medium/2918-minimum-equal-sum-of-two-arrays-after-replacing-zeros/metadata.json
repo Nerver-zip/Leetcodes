@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+  "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+  "frontendQuestionId": "2918",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1630435768",
+  "submittedAt": "2025-05-10T19:59:58.000Z",
+  "runtimeMs": 121,
+  "memoryKb": 138752,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.647Z"
+}

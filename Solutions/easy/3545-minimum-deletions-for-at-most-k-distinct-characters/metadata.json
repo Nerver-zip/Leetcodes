@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Deletions for At Most K Distinct Characters",
+  "titleSlug": "minimum-deletions-for-at-most-k-distinct-characters",
+  "frontendQuestionId": "3545",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1630603992",
+  "submittedAt": "2025-05-11T02:44:10.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9318,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.647Z"
+}

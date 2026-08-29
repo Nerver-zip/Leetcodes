@@ -1,0 +1,30 @@
+{
+  "title": "  Count Symmetric Integers",
+  "titleSlug": "count-symmetric-integers",
+  "frontendQuestionId": "2843",
+  "leetcodeUrl": "https://leetcode.com/problems/count-symmetric-integers/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1604016141",
+  "submittedAt": "2025-04-11T20:56:05.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 9728,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.666Z"
+}

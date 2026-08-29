@@ -1,0 +1,32 @@
+{
+  "title": "Identify the Largest Outlier in an Array",
+  "titleSlug": "identify-the-largest-outlier-in-an-array",
+  "frontendQuestionId": "3371",
+  "leetcodeUrl": "https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1582793183",
+  "submittedAt": "2025-03-23T02:02:34.000Z",
+  "runtimeMs": 123,
+  "memoryKb": 189030,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.679Z"
+}

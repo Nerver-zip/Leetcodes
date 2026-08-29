@@ -1,0 +1,33 @@
+{
+  "title": "Finding 3-Digit Even Numbers",
+  "titleSlug": "finding-3-digit-even-numbers",
+  "frontendQuestionId": "2094",
+  "leetcodeUrl": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Sorting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1631465127",
+  "submittedAt": "2025-05-12T01:07:00.000Z",
+  "runtimeMs": 6,
+  "memoryKb": 15565,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.646Z"
+}

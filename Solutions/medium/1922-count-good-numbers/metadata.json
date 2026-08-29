@@ -1,0 +1,30 @@
+{
+  "title": "Count Good Numbers",
+  "titleSlug": "count-good-numbers",
+  "frontendQuestionId": "1922",
+  "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1605277656",
+  "submittedAt": "2025-04-13T05:16:35.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 7987,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.665Z"
+}

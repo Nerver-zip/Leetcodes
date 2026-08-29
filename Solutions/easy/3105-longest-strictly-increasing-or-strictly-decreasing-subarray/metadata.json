@@ -1,0 +1,29 @@
+{
+  "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+  "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+  "frontendQuestionId": "3105",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1584505386",
+  "submittedAt": "2025-03-24T14:51:43.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 28672,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.678Z"
+}

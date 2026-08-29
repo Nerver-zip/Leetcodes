@@ -1,0 +1,33 @@
+{
+  "title": "Trapping Rain Water",
+  "titleSlug": "trapping-rain-water",
+  "frontendQuestionId": "42",
+  "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1589490630",
+  "submittedAt": "2025-03-28T20:11:06.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 27443,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.676Z"
+}

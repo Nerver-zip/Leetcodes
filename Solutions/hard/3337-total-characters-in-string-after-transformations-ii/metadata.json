@@ -1,0 +1,33 @@
+{
+  "title": "Total Characters in String After Transformations II",
+  "titleSlug": "total-characters-in-string-after-transformations-ii",
+  "frontendQuestionId": "3337",
+  "leetcodeUrl": "https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Dynamic Programming",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1633918365",
+  "submittedAt": "2025-05-14T16:54:29.000Z",
+  "runtimeMs": 180,
+  "memoryKb": 78336,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.645Z"
+}

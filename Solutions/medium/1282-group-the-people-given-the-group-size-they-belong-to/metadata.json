@@ -1,0 +1,31 @@
+{
+  "title": "Group the People Given the Group Size They Belong To",
+  "titleSlug": "group-the-people-given-the-group-size-they-belong-to",
+  "frontendQuestionId": "1282",
+  "leetcodeUrl": "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1612133922",
+  "submittedAt": "2025-04-20T04:27:54.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 17818,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:22.661Z"
+}
