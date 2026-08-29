@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Energy to Maintain Brightness",
+  "titleSlug": "minimum-energy-to-maintain-brightness",
+  "frontendQuestionId": "3951",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-energy-to-maintain-brightness/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2024540211",
+  "submittedAt": "2026-06-06T16:35:18.000Z",
+  "runtimeMs": 126,
+  "memoryKb": 234189,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.881Z"
+}

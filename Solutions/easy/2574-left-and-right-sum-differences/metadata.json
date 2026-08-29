@@ -1,0 +1,30 @@
+{
+  "title": "Left and Right Sum Differences",
+  "titleSlug": "left-and-right-sum-differences",
+  "frontendQuestionId": "2574",
+  "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2024778061",
+  "submittedAt": "2026-06-06T22:56:07.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15258,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.880Z"
+}

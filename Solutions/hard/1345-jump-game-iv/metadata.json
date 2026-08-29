@@ -1,0 +1,31 @@
+{
+  "title": "Jump Game IV",
+  "titleSlug": "jump-game-iv",
+  "frontendQuestionId": "1345",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2006536942",
+  "submittedAt": "2026-05-18T16:20:58.000Z",
+  "runtimeMs": 80,
+  "memoryKb": 81510,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.897Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Twin Sum of a Linked List",
+  "titleSlug": "maximum-twin-sum-of-a-linked-list",
+  "frontendQuestionId": "2130",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2033231576",
+  "submittedAt": "2026-06-14T21:06:50.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 141619,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.874Z"
+}

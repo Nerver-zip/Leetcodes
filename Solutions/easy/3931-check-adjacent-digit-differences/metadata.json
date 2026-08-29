@@ -1,0 +1,29 @@
+{
+  "title": "Check Adjacent Digit Differences",
+  "titleSlug": "check-adjacent-digit-differences",
+  "frontendQuestionId": "3931",
+  "leetcodeUrl": "https://leetcode.com/problems/check-adjacent-digit-differences/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2005026544",
+  "submittedAt": "2026-05-17T02:35:16.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8704,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.899Z"
+}

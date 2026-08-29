@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Swaps to Move Zeros to End",
+  "titleSlug": "minimum-swaps-to-move-zeros-to-end",
+  "frontendQuestionId": "3936",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2010826820",
+  "submittedAt": "2026-05-23T14:36:00.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 32461,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.894Z"
+}

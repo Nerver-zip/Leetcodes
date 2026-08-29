@@ -1,0 +1,29 @@
+{
+  "title": "Print FooBar Alternately",
+  "titleSlug": "print-foobar-alternately",
+  "frontendQuestionId": "1115",
+  "leetcodeUrl": "https://leetcode.com/problems/print-foobar-alternately/",
+  "difficulty": "Medium",
+  "topics": [
+    "Concurrency"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2005611979",
+  "submittedAt": "2026-05-17T14:27:58.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 11366,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.898Z"
+}

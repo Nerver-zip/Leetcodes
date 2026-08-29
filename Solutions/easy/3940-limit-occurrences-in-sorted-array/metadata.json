@@ -1,0 +1,30 @@
+{
+  "title": "Limit Occurrences in Sorted Array",
+  "titleSlug": "limit-occurrences-in-sorted-array",
+  "frontendQuestionId": "3940",
+  "leetcodeUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2011247859",
+  "submittedAt": "2026-05-24T02:32:24.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 34509,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.892Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Moves to Make Array Complementary",
+  "titleSlug": "minimum-moves-to-make-array-complementary",
+  "frontendQuestionId": "1674",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2002263980",
+  "submittedAt": "2026-05-13T15:47:49.000Z",
+  "runtimeMs": 9,
+  "memoryKb": 95744,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.901Z"
+}

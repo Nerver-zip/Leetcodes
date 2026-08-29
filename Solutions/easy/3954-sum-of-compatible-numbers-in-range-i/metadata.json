@@ -1,0 +1,31 @@
+{
+  "title": "Sum of Compatible Numbers in Range I",
+  "titleSlug": "sum-of-compatible-numbers-in-range-i",
+  "frontendQuestionId": "3954",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2024855436",
+  "submittedAt": "2026-06-07T02:39:34.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8806,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.880Z"
+}

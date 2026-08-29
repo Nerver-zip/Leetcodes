@@ -1,0 +1,32 @@
+{
+  "title": "Create Binary Tree From Descriptions",
+  "titleSlug": "create-binary-tree-from-descriptions",
+  "frontendQuestionId": "2196",
+  "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2025468447",
+  "submittedAt": "2026-06-07T15:04:08.000Z",
+  "runtimeMs": 114,
+  "memoryKb": 265523,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.879Z"
+}

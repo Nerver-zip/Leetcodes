@@ -1,0 +1,30 @@
+{
+  "title": "Count the Number of Special Characters II",
+  "titleSlug": "count-the-number-of-special-characters-ii",
+  "frontendQuestionId": "3121",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2014942034",
+  "submittedAt": "2026-05-27T20:51:22.000Z",
+  "runtimeMs": 64,
+  "memoryKb": 25088,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.888Z"
+}

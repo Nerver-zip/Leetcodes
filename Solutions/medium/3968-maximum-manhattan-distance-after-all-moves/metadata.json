@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Manhattan Distance After All Moves",
+  "titleSlug": "maximum-manhattan-distance-after-all-moves",
+  "frontendQuestionId": "3968",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2040394616",
+  "submittedAt": "2026-06-21T02:41:57.000Z",
+  "runtimeMs": 23,
+  "memoryKb": 22733,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.869Z"
+}

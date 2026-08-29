@@ -1,0 +1,32 @@
+{
+  "title": "Jump Game VII",
+  "titleSlug": "jump-game-vii",
+  "frontendQuestionId": "1871",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2012786901",
+  "submittedAt": "2026-05-25T16:17:53.000Z",
+  "runtimeMs": 17,
+  "memoryKb": 24371,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.890Z"
+}

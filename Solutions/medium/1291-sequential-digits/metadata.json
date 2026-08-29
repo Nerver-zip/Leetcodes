@@ -1,0 +1,29 @@
+{
+  "title": "Sequential Digits",
+  "titleSlug": "sequential-digits",
+  "frontendQuestionId": "1291",
+  "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+  "difficulty": "Medium",
+  "topics": [
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2066625441",
+  "submittedAt": "2026-07-13T20:01:55.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8602,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.854Z"
+}

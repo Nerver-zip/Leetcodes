@@ -1,0 +1,30 @@
+{
+  "title": "Sum of Integers with Maximum Digit Range",
+  "titleSlug": "sum-of-integers-with-maximum-digit-range",
+  "frontendQuestionId": "3982",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2056346653",
+  "submittedAt": "2026-07-05T02:35:30.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 33178,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.860Z"
+}

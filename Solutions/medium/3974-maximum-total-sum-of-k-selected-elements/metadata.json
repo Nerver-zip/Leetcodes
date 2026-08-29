@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Total Sum of K Selected Elements",
+  "titleSlug": "maximum-total-sum-of-k-selected-elements",
+  "frontendQuestionId": "3974",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2048362463",
+  "submittedAt": "2026-06-28T02:35:17.000Z",
+  "runtimeMs": 145,
+  "memoryKb": 199578,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.865Z"
+}

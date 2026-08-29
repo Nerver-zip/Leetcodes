@@ -1,0 +1,31 @@
+{
+  "title": "Weighted Word Mapping",
+  "titleSlug": "weighted-word-mapping",
+  "frontendQuestionId": "3838",
+  "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2032037583",
+  "submittedAt": "2026-06-13T17:45:07.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 46182,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.875Z"
+}

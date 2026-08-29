@@ -1,0 +1,31 @@
+{
+  "title": "Number of Substrings Containing All Three Characters",
+  "titleSlug": "number-of-substrings-containing-all-three-characters",
+  "frontendQuestionId": "1358",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2051347134",
+  "submittedAt": "2026-06-30T15:02:42.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 11162,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.863Z"
+}

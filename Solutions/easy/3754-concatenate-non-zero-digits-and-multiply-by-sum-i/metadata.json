@@ -1,0 +1,29 @@
+{
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+  "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+  "frontendQuestionId": "3754",
+  "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2059202337",
+  "submittedAt": "2026-07-07T11:17:39.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9421,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.858Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Path Existence Queries in a Graph I",
+  "titleSlug": "path-existence-queries-in-a-graph-i",
+  "frontendQuestionId": "3532",
+  "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2061130735",
+  "submittedAt": "2026-07-09T02:08:34.000Z",
+  "runtimeMs": 9,
+  "memoryKb": 234496,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.857Z"
+}

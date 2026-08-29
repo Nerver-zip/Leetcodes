@@ -1,0 +1,31 @@
+{
+  "title": "Longest Common Suffix Queries",
+  "titleSlug": "longest-common-suffix-queries",
+  "frontendQuestionId": "3093",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2015907259",
+  "submittedAt": "2026-05-28T22:51:45.000Z",
+  "runtimeMs": 731,
+  "memoryKb": 331264,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.887Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Network Recovery Pathways",
+  "titleSlug": "network-recovery-pathways",
+  "frontendQuestionId": "3620",
+  "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2054833388",
+  "submittedAt": "2026-07-03T15:51:42.000Z",
+  "runtimeMs": 707,
+  "memoryKb": 409395,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.861Z"
+}

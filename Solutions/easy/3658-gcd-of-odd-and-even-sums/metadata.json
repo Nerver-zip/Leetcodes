@@ -1,0 +1,30 @@
+{
+  "title": "GCD of Odd and Even Sums",
+  "titleSlug": "gcd-of-odd-and-even-sums",
+  "frontendQuestionId": "3658",
+  "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2068975342",
+  "submittedAt": "2026-07-15T17:49:06.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8806,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.853Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Count K-th Roots in a Range",
+  "titleSlug": "count-k-th-roots-in-a-range",
+  "frontendQuestionId": "3932",
+  "leetcodeUrl": "https://leetcode.com/problems/count-k-th-roots-in-a-range/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2005104137",
+  "submittedAt": "2026-05-17T03:09:26.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 9011,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.899Z"
+}

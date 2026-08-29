@@ -1,0 +1,33 @@
+{
+  "title": "Earliest Finish Time for Land and Water Rides I",
+  "titleSlug": "earliest-finish-time-for-land-and-water-rides-i",
+  "frontendQuestionId": "3633",
+  "leetcodeUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2020345895",
+  "submittedAt": "2026-06-02T15:50:02.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 94003,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.884Z"
+}

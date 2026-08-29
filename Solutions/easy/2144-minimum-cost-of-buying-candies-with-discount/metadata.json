@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Cost of Buying Candies With Discount",
+  "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+  "frontendQuestionId": "2144",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2019594002",
+  "submittedAt": "2026-06-01T23:39:32.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 14541,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.884Z"
+}

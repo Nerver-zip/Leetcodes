@@ -1,0 +1,32 @@
+{
+  "title": "Valid Binary Strings With Cost Limit",
+  "titleSlug": "valid-binary-strings-with-cost-limit",
+  "frontendQuestionId": "3955",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-binary-strings-with-cost-limit/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2024878264",
+  "submittedAt": "2026-06-07T02:51:21.000Z",
+  "runtimeMs": 12,
+  "memoryKb": 34714,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.880Z"
+}

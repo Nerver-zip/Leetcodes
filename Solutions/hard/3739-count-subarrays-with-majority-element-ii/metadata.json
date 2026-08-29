@@ -1,0 +1,34 @@
+{
+  "title": "Count Subarrays With Majority Element II",
+  "titleSlug": "count-subarrays-with-majority-element-ii",
+  "frontendQuestionId": "3739",
+  "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2047288021",
+  "submittedAt": "2026-06-26T23:49:42.000Z",
+  "runtimeMs": 55,
+  "memoryKb": 101478,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.866Z"
+}

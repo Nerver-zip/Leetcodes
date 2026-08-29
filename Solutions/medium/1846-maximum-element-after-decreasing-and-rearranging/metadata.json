@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Element After Decreasing and Rearranging",
+  "titleSlug": "maximum-element-after-decreasing-and-rearranging",
+  "frontendQuestionId": "1846",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2049406976",
+  "submittedAt": "2026-06-28T23:45:45.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 56422,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.864Z"
+}

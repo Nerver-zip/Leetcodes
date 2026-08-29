@@ -1,0 +1,27 @@
+{
+  "title": "Create Grid With Exactly One Path",
+  "titleSlug": "create-grid-with-exactly-one-path",
+  "frontendQuestionId": "3963",
+  "leetcodeUrl": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2039859561",
+  "submittedAt": "2026-06-20T14:36:53.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11162,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.871Z"
+}

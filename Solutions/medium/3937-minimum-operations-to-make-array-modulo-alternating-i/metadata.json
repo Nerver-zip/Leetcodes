@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Operations to Make Array Modulo Alternating I",
+  "titleSlug": "minimum-operations-to-make-array-modulo-alternating-i",
+  "frontendQuestionId": "3937",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2010940345",
+  "submittedAt": "2026-05-23T15:54:14.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 24781,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.893Z"
+}

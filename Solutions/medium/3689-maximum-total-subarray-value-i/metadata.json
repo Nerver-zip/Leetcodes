@@ -1,0 +1,30 @@
+{
+  "title": "Maximum Total Subarray Value I",
+  "titleSlug": "maximum-total-subarray-value-i",
+  "frontendQuestionId": "3689",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2027935747",
+  "submittedAt": "2026-06-09T19:51:45.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 106291,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.878Z"
+}

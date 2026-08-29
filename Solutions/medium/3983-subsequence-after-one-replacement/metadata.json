@@ -1,0 +1,30 @@
+{
+  "title": "Subsequence After One Replacement",
+  "titleSlug": "subsequence-after-one-replacement",
+  "frontendQuestionId": "3983",
+  "leetcodeUrl": "https://leetcode.com/problems/subsequence-after-one-replacement/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2058480932",
+  "submittedAt": "2026-07-06T19:06:42.000Z",
+  "runtimeMs": 31,
+  "memoryKb": 42906,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.859Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Total Waviness of Numbers in Range I",
+  "titleSlug": "total-waviness-of-numbers-in-range-i",
+  "frontendQuestionId": "3751",
+  "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2021848895",
+  "submittedAt": "2026-06-04T04:34:46.000Z",
+  "runtimeMs": 59,
+  "memoryKb": 10547,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.883Z"
+}

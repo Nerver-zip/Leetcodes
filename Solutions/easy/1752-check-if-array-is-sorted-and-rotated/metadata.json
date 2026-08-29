@@ -1,0 +1,29 @@
+{
+  "title": "Check if Array Is Sorted and Rotated",
+  "titleSlug": "check-if-array-is-sorted-and-rotated",
+  "frontendQuestionId": "1752",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2011027398",
+  "submittedAt": "2026-05-23T17:29:20.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11469,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.893Z"
+}

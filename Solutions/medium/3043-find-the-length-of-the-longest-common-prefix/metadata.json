@@ -1,0 +1,32 @@
+{
+  "title": "Find the Length of the Longest Common Prefix",
+  "titleSlug": "find-the-length-of-the-longest-common-prefix",
+  "frontendQuestionId": "3043",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2009430200",
+  "submittedAt": "2026-05-21T23:35:43.000Z",
+  "runtimeMs": 127,
+  "memoryKb": 137830,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.895Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Score of a Path Between Two Cities",
+  "titleSlug": "minimum-score-of-a-path-between-two-cities",
+  "frontendQuestionId": "2492",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2056043636",
+  "submittedAt": "2026-07-04T16:48:59.000Z",
+  "runtimeMs": 14,
+  "memoryKb": 110080,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.861Z"
+}

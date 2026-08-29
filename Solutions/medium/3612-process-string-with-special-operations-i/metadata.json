@@ -1,0 +1,30 @@
+{
+  "title": "Process String with Special Operations I",
+  "titleSlug": "process-string-with-special-operations-i",
+  "frontendQuestionId": "3612",
+  "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2035675131",
+  "submittedAt": "2026-06-16T22:15:22.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 40653,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:45:01.873Z"
+}
