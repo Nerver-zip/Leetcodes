@@ -1,0 +1,32 @@
+{
+  "title": "Lexicographically Smallest String After Applying Operations",
+  "titleSlug": "lexicographically-smallest-string-after-applying-operations",
+  "frontendQuestionId": "1625",
+  "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1806294147",
+  "submittedAt": "2025-10-19T23:37:00.000Z",
+  "runtimeMs": 217,
+  "memoryKb": 106496,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:36.780Z"
+}

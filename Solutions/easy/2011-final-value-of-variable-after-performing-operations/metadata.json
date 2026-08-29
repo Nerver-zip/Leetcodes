@@ -1,0 +1,31 @@
+{
+  "title": "Final Value of Variable After Performing Operations",
+  "titleSlug": "final-value-of-variable-after-performing-operations",
+  "frontendQuestionId": "2011",
+  "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1807063431",
+  "submittedAt": "2025-10-20T21:42:38.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 18125,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:16:37.290Z"
+}
