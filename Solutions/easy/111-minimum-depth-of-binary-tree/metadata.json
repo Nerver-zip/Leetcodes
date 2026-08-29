@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Depth of Binary Tree",
+  "titleSlug": "minimum-depth-of-binary-tree",
+  "frontendQuestionId": "111",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1443128233",
+  "submittedAt": "2024-11-04T20:10:58.000Z",
+  "runtimeMs": 16,
+  "memoryKb": 82534,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.107Z"
+}

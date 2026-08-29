@@ -1,0 +1,32 @@
+{
+  "title": "Design Circular Deque",
+  "titleSlug": "design-circular-deque",
+  "frontendQuestionId": "641",
+  "leetcodeUrl": "https://leetcode.com/problems/design-circular-deque/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Linked List",
+    "Design",
+    "Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1465416189",
+  "submittedAt": "2024-11-29T00:58:06.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 25088,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.097Z"
+}

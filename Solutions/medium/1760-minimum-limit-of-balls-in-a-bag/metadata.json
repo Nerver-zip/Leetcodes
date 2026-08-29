@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Limit of Balls in a Bag",
+  "titleSlug": "minimum-limit-of-balls-in-a-bag",
+  "frontendQuestionId": "1760",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1473027456",
+  "submittedAt": "2024-12-07T23:49:02.000Z",
+  "runtimeMs": 47,
+  "memoryKb": 61235,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.094Z"
+}

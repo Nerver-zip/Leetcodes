@@ -1,0 +1,35 @@
+{
+  "title": "Two Sum IV - Input is a BST",
+  "titleSlug": "two-sum-iv-input-is-a-bst",
+  "frontendQuestionId": "653",
+  "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1450143806",
+  "submittedAt": "2024-11-12T02:47:24.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 36659,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.104Z"
+}

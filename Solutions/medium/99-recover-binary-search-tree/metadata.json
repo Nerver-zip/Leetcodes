@@ -1,0 +1,32 @@
+{
+  "title": "Recover Binary Search Tree",
+  "titleSlug": "recover-binary-search-tree",
+  "frontendQuestionId": "99",
+  "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1457720564",
+  "submittedAt": "2024-11-19T23:32:19.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 62054,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.099Z"
+}

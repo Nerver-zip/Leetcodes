@@ -1,0 +1,33 @@
+{
+  "title": "Check If N and Its Double Exist",
+  "titleSlug": "check-if-n-and-its-double-exist",
+  "frontendQuestionId": "1346",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1467818073",
+  "submittedAt": "2024-12-01T23:11:10.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 15155,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.096Z"
+}

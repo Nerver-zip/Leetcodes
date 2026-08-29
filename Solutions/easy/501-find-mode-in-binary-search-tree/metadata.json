@@ -1,0 +1,32 @@
+{
+  "title": "Find Mode in Binary Search Tree",
+  "titleSlug": "find-mode-in-binary-search-tree",
+  "frontendQuestionId": "501",
+  "leetcodeUrl": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1441209289",
+  "submittedAt": "2024-11-02T23:52:26.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13926,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.109Z"
+}

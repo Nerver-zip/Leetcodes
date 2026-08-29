@@ -1,0 +1,31 @@
+{
+  "title": "Intersection of Two Linked Lists",
+  "titleSlug": "intersection-of-two-linked-lists",
+  "frontendQuestionId": "160",
+  "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1443175001",
+  "submittedAt": "2024-11-04T21:24:00.000Z",
+  "runtimeMs": 431,
+  "memoryKb": 17510,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.107Z"
+}

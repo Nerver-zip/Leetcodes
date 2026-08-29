@@ -1,0 +1,31 @@
+{
+  "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+  "titleSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+  "frontendQuestionId": "1455",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "String Matching"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1468750246",
+  "submittedAt": "2024-12-02T23:49:35.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8294,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.095Z"
+}

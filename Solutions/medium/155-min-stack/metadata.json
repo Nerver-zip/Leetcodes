@@ -1,0 +1,30 @@
+{
+  "title": "Min Stack",
+  "titleSlug": "min-stack",
+  "frontendQuestionId": "155",
+  "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Design"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1479032394",
+  "submittedAt": "2024-12-15T02:55:54.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 24371,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.091Z"
+}

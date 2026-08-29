@@ -1,0 +1,33 @@
+{
+  "title": "Construct String With Repeat Limit",
+  "titleSlug": "construct-string-with-repeat-limit",
+  "frontendQuestionId": "2182",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-string-with-repeat-limit/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1481539633",
+  "submittedAt": "2024-12-17T23:59:28.000Z",
+  "runtimeMs": 81,
+  "memoryKb": 28774,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.091Z"
+}

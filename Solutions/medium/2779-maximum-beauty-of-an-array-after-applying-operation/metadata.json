@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Beauty of an Array After Applying Operation",
+  "titleSlug": "maximum-beauty-of-an-array-after-applying-operation",
+  "frontendQuestionId": "2779",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1476562717",
+  "submittedAt": "2024-12-12T01:01:32.000Z",
+  "runtimeMs": 42,
+  "memoryKb": 107622,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.092Z"
+}

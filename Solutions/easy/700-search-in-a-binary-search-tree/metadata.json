@@ -1,0 +1,31 @@
+{
+  "title": "Search in a Binary Search Tree",
+  "titleSlug": "search-in-a-binary-search-tree",
+  "frontendQuestionId": "700",
+  "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1438685297",
+  "submittedAt": "2024-10-31T01:49:09.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 19046,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.111Z"
+}

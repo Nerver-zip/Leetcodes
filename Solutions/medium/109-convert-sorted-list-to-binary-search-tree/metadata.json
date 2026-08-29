@@ -1,0 +1,33 @@
+{
+  "title": "Convert Sorted List to Binary Search Tree",
+  "titleSlug": "convert-sorted-list-to-binary-search-tree",
+  "frontendQuestionId": "109",
+  "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1453084369",
+  "submittedAt": "2024-11-15T01:48:50.000Z",
+  "runtimeMs": 6,
+  "memoryKb": 33690,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.101Z"
+}

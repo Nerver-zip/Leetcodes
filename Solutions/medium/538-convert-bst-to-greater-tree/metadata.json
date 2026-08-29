@@ -1,0 +1,32 @@
+{
+  "title": "Convert BST to Greater Tree",
+  "titleSlug": "convert-bst-to-greater-tree",
+  "frontendQuestionId": "538",
+  "leetcodeUrl": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1452070641",
+  "submittedAt": "2024-11-13T23:56:56.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 35328,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.102Z"
+}

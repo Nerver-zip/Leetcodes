@@ -1,0 +1,31 @@
+{
+  "title": "Insert into a Binary Search Tree",
+  "titleSlug": "insert-into-a-binary-search-tree",
+  "frontendQuestionId": "701",
+  "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1469666778",
+  "submittedAt": "2024-12-03T23:10:18.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 60621,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.095Z"
+}

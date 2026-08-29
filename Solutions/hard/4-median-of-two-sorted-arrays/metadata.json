@@ -1,0 +1,31 @@
+{
+  "title": "Median of Two Sorted Arrays",
+  "titleSlug": "median-of-two-sorted-arrays",
+  "frontendQuestionId": "4",
+  "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1462051368",
+  "submittedAt": "2024-11-25T00:45:34.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 97280,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.098Z"
+}

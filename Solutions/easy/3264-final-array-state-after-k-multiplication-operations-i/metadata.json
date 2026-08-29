@@ -1,0 +1,32 @@
+{
+  "title": "Final Array State After K Multiplication Operations I",
+  "titleSlug": "final-array-state-after-k-multiplication-operations-i",
+  "frontendQuestionId": "3264",
+  "leetcodeUrl": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1480612978",
+  "submittedAt": "2024-12-16T21:59:32.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 28570,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.091Z"
+}

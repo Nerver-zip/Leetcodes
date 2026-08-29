@@ -1,0 +1,32 @@
+{
+  "title": "Binary Tree Inorder Traversal",
+  "titleSlug": "binary-tree-inorder-traversal",
+  "frontendQuestionId": "94",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1435599839",
+  "submittedAt": "2024-10-27T21:30:55.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8909,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.112Z"
+}

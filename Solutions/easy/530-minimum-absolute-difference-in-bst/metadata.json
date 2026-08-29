@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Absolute Difference in BST",
+  "titleSlug": "minimum-absolute-difference-in-bst",
+  "frontendQuestionId": "530",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1451057423",
+  "submittedAt": "2024-11-12T23:09:08.000Z",
+  "runtimeMs": 47,
+  "memoryKb": 24986,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.104Z"
+}

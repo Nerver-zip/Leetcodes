@@ -1,0 +1,31 @@
+{
+  "title": "Implement Stack using Queues",
+  "titleSlug": "implement-stack-using-queues",
+  "frontendQuestionId": "225",
+  "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Design",
+    "Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1454821464",
+  "submittedAt": "2024-11-17T02:45:40.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8704,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.100Z"
+}

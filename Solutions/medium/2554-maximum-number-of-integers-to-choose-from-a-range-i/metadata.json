@@ -1,0 +1,33 @@
+{
+  "title": "Maximum Number of Integers to Choose From a Range I",
+  "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i",
+  "frontendQuestionId": "2554",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1471490996",
+  "submittedAt": "2024-12-06T03:04:48.000Z",
+  "runtimeMs": 192,
+  "memoryKb": 182170,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.095Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Palindrome Linked List",
+  "titleSlug": "palindrome-linked-list",
+  "frontendQuestionId": "234",
+  "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1467848084",
+  "submittedAt": "2024-12-02T00:21:35.000Z",
+  "runtimeMs": 9,
+  "memoryKb": 129638,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.096Z"
+}

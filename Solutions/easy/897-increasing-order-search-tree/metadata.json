@@ -1,0 +1,33 @@
+{
+  "title": "Increasing Order Search Tree",
+  "titleSlug": "increasing-order-search-tree",
+  "frontendQuestionId": "897",
+  "leetcodeUrl": "https://leetcode.com/problems/increasing-order-search-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1437754724",
+  "submittedAt": "2024-10-30T01:14:22.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9318,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.112Z"
+}

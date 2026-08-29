@@ -1,0 +1,32 @@
+{
+  "title": "Same Tree",
+  "titleSlug": "same-tree",
+  "frontendQuestionId": "100",
+  "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1445135594",
+  "submittedAt": "2024-11-06T20:05:38.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8499,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.106Z"
+}

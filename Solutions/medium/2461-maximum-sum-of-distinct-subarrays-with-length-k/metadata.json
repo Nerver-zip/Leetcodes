@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Sum of Distinct Subarrays With Length K",
+  "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+  "frontendQuestionId": "2461",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1459655947",
+  "submittedAt": "2024-11-22T02:05:02.000Z",
+  "runtimeMs": 99,
+  "memoryKb": 100557,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.098Z"
+}

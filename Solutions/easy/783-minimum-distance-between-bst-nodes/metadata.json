@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Distance Between BST Nodes",
+  "titleSlug": "minimum-distance-between-bst-nodes",
+  "frontendQuestionId": "783",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1455730312",
+  "submittedAt": "2024-11-18T00:00:19.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12083,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.100Z"
+}

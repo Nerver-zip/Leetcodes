@@ -1,0 +1,30 @@
+{
+  "title": "Remove Duplicates from Sorted Array",
+  "titleSlug": "remove-duplicates-from-sorted-array",
+  "frontendQuestionId": "26",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1434814931",
+  "submittedAt": "2024-10-27T03:09:14.000Z",
+  "runtimeMs": 13,
+  "memoryKb": 12698,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.113Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Range Sum of BST",
+  "titleSlug": "range-sum-of-bst",
+  "frontendQuestionId": "938",
+  "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-bst/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1455735858",
+  "submittedAt": "2024-11-18T00:12:52.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 64922,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.100Z"
+}

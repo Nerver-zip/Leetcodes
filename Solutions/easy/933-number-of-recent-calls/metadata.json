@@ -1,0 +1,31 @@
+{
+  "title": "Number of Recent Calls",
+  "titleSlug": "number-of-recent-calls",
+  "frontendQuestionId": "933",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+  "difficulty": "Easy",
+  "topics": [
+    "Design",
+    "Queue",
+    "Data Stream"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1458690960",
+  "submittedAt": "2024-11-20T23:55:02.000Z",
+  "runtimeMs": 20,
+  "memoryKb": 63898,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.098Z"
+}

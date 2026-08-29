@@ -1,0 +1,33 @@
+{
+  "title": "Find Score of an Array After Marking All Elements",
+  "titleSlug": "find-score-of-an-array-after-marking-all-elements",
+  "frontendQuestionId": "2593",
+  "leetcodeUrl": "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1478183716",
+  "submittedAt": "2024-12-13T23:02:02.000Z",
+  "runtimeMs": 258,
+  "memoryKb": 154010,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.092Z"
+}

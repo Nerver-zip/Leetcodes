@@ -1,0 +1,30 @@
+{
+  "title": "Search Insert Position",
+  "titleSlug": "search-insert-position",
+  "frontendQuestionId": "35",
+  "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1436584413",
+  "submittedAt": "2024-10-28T19:51:11.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8294,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.112Z"
+}

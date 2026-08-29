@@ -1,0 +1,35 @@
+{
+  "title": "Serialize and Deserialize BST",
+  "titleSlug": "serialize-and-deserialize-bst",
+  "frontendQuestionId": "449",
+  "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-bst/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Design",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1462936852",
+  "submittedAt": "2024-11-26T02:30:56.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 28672,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.097Z"
+}

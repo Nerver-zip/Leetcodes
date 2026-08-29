@@ -1,0 +1,34 @@
+{
+  "title": "Closest Nodes Queries in a Binary Search Tree",
+  "titleSlug": "closest-nodes-queries-in-a-binary-search-tree",
+  "frontendQuestionId": "2476",
+  "leetcodeUrl": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1454011747",
+  "submittedAt": "2024-11-16T04:35:32.000Z",
+  "runtimeMs": 179,
+  "memoryKb": 235008,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.101Z"
+}

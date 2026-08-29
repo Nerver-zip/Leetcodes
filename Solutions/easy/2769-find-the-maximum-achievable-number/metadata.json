@@ -1,0 +1,29 @@
+{
+  "title": "Find the Maximum Achievable Number",
+  "titleSlug": "find-the-maximum-achievable-number",
+  "frontendQuestionId": "2769",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-achievable-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "python",
+  "verdict": "Accepted",
+  "submissionId": "1466211720",
+  "submittedAt": "2024-11-30T03:47:19.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12288,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from python control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.097Z"
+}

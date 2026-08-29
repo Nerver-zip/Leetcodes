@@ -1,0 +1,33 @@
+{
+  "title": "Find Longest Special Substring That Occurs Thrice I",
+  "titleSlug": "find-longest-special-substring-that-occurs-thrice-i",
+  "frontendQuestionId": "2981",
+  "leetcodeUrl": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Binary Search",
+    "Sliding Window",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1475697060",
+  "submittedAt": "2024-12-11T00:59:32.000Z",
+  "runtimeMs": 79,
+  "memoryKb": 51712,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.093Z"
+}

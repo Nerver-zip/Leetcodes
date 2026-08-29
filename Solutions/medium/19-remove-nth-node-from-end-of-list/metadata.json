@@ -1,0 +1,30 @@
+{
+  "title": "Remove Nth Node From End of List",
+  "titleSlug": "remove-nth-node-from-end-of-list",
+  "frontendQuestionId": "19",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1466853718",
+  "submittedAt": "2024-11-30T23:31:13.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15258,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.096Z"
+}

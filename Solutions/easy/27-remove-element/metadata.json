@@ -1,0 +1,30 @@
+{
+  "title": "Remove Element",
+  "titleSlug": "remove-element",
+  "frontendQuestionId": "27",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "c",
+  "verdict": "Accepted",
+  "submissionId": "1436530655",
+  "submittedAt": "2024-10-28T18:44:25.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10035,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:24:57.112Z"
+}
