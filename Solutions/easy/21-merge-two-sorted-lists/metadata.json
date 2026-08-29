@@ -1,0 +1,30 @@
+{
+  "title": "Merge Two Sorted Lists",
+  "titleSlug": "merge-two-sorted-lists",
+  "frontendQuestionId": "21",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1907115465",
+  "submittedAt": "2026-02-03T18:17:16.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 19968,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:28.749Z"
+}

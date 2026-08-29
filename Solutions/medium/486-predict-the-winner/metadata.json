@@ -1,0 +1,35 @@
+{
+  "title": "Predict the Winner",
+  "titleSlug": "predict-the-winner",
+  "frontendQuestionId": "486",
+  "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2090600509",
+  "submittedAt": "2026-08-01T22:49:25.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10445,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:35.676Z"
+}

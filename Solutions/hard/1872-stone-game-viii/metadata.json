@@ -1,0 +1,35 @@
+{
+  "title": "Stone Game VIII",
+  "titleSlug": "stone-game-viii",
+  "frontendQuestionId": "1872",
+  "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2118998461",
+  "submittedAt": "2026-08-24T22:47:49.000Z",
+  "runtimeMs": 109,
+  "memoryKb": 89498,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:50.229Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Smallest Divisible Digit Product II",
+  "titleSlug": "smallest-divisible-digit-product-ii",
+  "frontendQuestionId": "3348",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "String",
+    "Backtracking",
+    "Greedy",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2098101937",
+  "submittedAt": "2026-08-07T15:13:52.000Z",
+  "runtimeMs": 23,
+  "memoryKb": 35328,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:38.244Z"
+}

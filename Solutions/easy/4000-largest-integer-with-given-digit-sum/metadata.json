@@ -1,0 +1,30 @@
+{
+  "title": "Largest Integer With Given Digit Sum",
+  "titleSlug": "largest-integer-with-given-digit-sum",
+  "frontendQuestionId": "4000",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-integer-with-given-digit-sum/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2081381836",
+  "submittedAt": "2026-07-26T02:54:18.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8806,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:32.709Z"
+}

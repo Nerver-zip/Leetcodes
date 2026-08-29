@@ -1,0 +1,38 @@
+{
+  "title": "Sorted GCD Pair Queries",
+  "titleSlug": "sorted-gcd-pair-queries",
+  "frontendQuestionId": "3312",
+  "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Combinatorics",
+    "Counting",
+    "Number Theory",
+    "Prefix Sum",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2071248273",
+  "submittedAt": "2026-07-17T15:06:30.000Z",
+  "runtimeMs": 47,
+  "memoryKb": 132608,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:28.762Z"
+}

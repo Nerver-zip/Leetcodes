@@ -1,0 +1,30 @@
+{
+  "title": "Aggregate Two Time Series",
+  "titleSlug": "aggregate-two-time-series",
+  "frontendQuestionId": "4001",
+  "leetcodeUrl": "https://leetcode.com/problems/aggregate-two-time-series/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2082195495",
+  "submittedAt": "2026-07-26T15:08:24.000Z",
+  "runtimeMs": 106,
+  "memoryKb": 367616,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:33.116Z"
+}

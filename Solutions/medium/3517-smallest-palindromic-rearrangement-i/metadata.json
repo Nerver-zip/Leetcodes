@@ -1,0 +1,31 @@
+{
+  "title": "Smallest Palindromic Rearrangement I",
+  "titleSlug": "smallest-palindromic-rearrangement-i",
+  "frontendQuestionId": "3517",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2086111308",
+  "submittedAt": "2026-07-29T12:41:42.000Z",
+  "runtimeMs": 32,
+  "memoryKb": 76698,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:33.961Z"
+}

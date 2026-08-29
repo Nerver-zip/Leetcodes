@@ -1,0 +1,35 @@
+{
+  "title": "Stone Game IV",
+  "titleSlug": "stone-game-iv",
+  "frontendQuestionId": "1510",
+  "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Nim Game",
+    "Sprague–Grundy Theorem",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2102120883",
+  "submittedAt": "2026-08-11T00:01:40.000Z",
+  "runtimeMs": 34,
+  "memoryKb": 9114,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:41.215Z"
+}

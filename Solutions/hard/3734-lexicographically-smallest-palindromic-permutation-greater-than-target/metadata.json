@@ -1,0 +1,31 @@
+{
+  "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+  "titleSlug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+  "frontendQuestionId": "3734",
+  "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+  "difficulty": "Hard",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2123314675",
+  "submittedAt": "2026-08-28T21:57:29.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11469,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:53.347Z"
+}

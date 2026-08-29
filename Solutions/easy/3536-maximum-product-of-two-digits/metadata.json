@@ -1,0 +1,30 @@
+{
+  "title": "Maximum Product of Two Digits",
+  "titleSlug": "maximum-product-of-two-digits",
+  "frontendQuestionId": "3536",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2081191952",
+  "submittedAt": "2026-07-25T19:44:40.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9216,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:31.698Z"
+}

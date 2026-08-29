@@ -1,0 +1,30 @@
+{
+  "title": "Even Number of Knight Moves",
+  "titleSlug": "even-number-of-knight-moves",
+  "frontendQuestionId": "3996",
+  "leetcodeUrl": "https://leetcode.com/problems/even-number-of-knight-moves/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2072906373",
+  "submittedAt": "2026-07-19T02:40:58.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 50995,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:28.767Z"
+}

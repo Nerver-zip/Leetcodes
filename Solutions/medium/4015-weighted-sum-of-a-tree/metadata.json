@@ -1,0 +1,31 @@
+{
+  "title": "Weighted Sum of a Tree",
+  "titleSlug": "weighted-sum-of-a-tree",
+  "frontendQuestionId": "4015",
+  "leetcodeUrl": "https://leetcode.com/problems/weighted-sum-of-a-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2099753943",
+  "submittedAt": "2026-08-09T02:58:38.000Z",
+  "runtimeMs": 243,
+  "memoryKb": 295424,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:40.274Z"
+}

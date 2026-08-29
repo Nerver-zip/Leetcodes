@@ -1,0 +1,29 @@
+{
+  "title": "Trionic Array I",
+  "titleSlug": "trionic-array-i",
+  "frontendQuestionId": "3637",
+  "leetcodeUrl": "https://leetcode.com/problems/trionic-array-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1907099673",
+  "submittedAt": "2026-02-03T18:06:24.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 28262,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:28.748Z"
+}

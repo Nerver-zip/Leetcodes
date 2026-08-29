@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Product of Two Elements in an Array",
+  "titleSlug": "maximum-product-of-two-elements-in-an-array",
+  "frontendQuestionId": "1464",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2082647663",
+  "submittedAt": "2026-07-27T00:55:59.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13722,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:33.504Z"
+}

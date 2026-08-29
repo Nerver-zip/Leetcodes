@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Number of Pushes to Type Word I",
+  "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+  "frontendQuestionId": "3014",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2086952696",
+  "submittedAt": "2026-07-30T05:07:00.000Z",
+  "runtimeMs": 1,
+  "memoryKb": 8602,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:34.837Z"
+}
