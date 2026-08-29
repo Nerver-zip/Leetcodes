@@ -1,0 +1,31 @@
+{
+  "title": "3Sum",
+  "titleSlug": "3sum",
+  "frontendQuestionId": "15",
+  "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1576845452",
+  "submittedAt": "2025-03-17T14:26:11.000Z",
+  "runtimeMs": 175,
+  "memoryKb": 30822,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:34.926Z"
+}

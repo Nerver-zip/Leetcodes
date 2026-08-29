@@ -1,0 +1,29 @@
+{
+  "title": "Add Two Integers",
+  "titleSlug": "add-two-integers",
+  "frontendQuestionId": "2235",
+  "leetcodeUrl": "https://leetcode.com/problems/add-two-integers/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1577316926",
+  "submittedAt": "2025-03-17T23:23:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8294,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:35.745Z"
+}
