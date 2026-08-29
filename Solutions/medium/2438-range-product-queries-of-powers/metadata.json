@@ -1,0 +1,31 @@
+{
+  "title": "Range Product Queries of Powers",
+  "titleSlug": "range-product-queries-of-powers",
+  "frontendQuestionId": "2438",
+  "leetcodeUrl": "https://leetcode.com/problems/range-product-queries-of-powers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1731300174",
+  "submittedAt": "2025-08-11T14:12:59.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 151245,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.396Z"
+}

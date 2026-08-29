@@ -1,0 +1,33 @@
+{
+  "title": "Number of Closed Islands",
+  "titleSlug": "number-of-closed-islands",
+  "frontendQuestionId": "1254",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1700606868",
+  "submittedAt": "2025-07-16T21:37:02.000Z",
+  "runtimeMs": 1,
+  "memoryKb": 14643,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.409Z"
+}

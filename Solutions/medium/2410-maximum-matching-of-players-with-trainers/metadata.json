@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Matching of Players With Trainers",
+  "titleSlug": "maximum-matching-of-players-with-trainers",
+  "frontendQuestionId": "2410",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1695763904",
+  "submittedAt": "2025-07-13T01:16:45.000Z",
+  "runtimeMs": 29,
+  "memoryKb": 82125,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.410Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Count Submatrices With All Ones",
+  "titleSlug": "count-submatrices-with-all-ones",
+  "frontendQuestionId": "1504",
+  "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-all-ones/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Matrix",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1743656559",
+  "submittedAt": "2025-08-21T19:58:39.000Z",
+  "runtimeMs": 12,
+  "memoryKb": 19968,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.389Z"
+}

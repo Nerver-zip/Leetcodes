@@ -1,0 +1,33 @@
+{
+  "title": "Valid Triangle Number",
+  "titleSlug": "valid-triangle-number",
+  "frontendQuestionId": "611",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1783723283",
+  "submittedAt": "2025-09-26T23:26:32.000Z",
+  "runtimeMs": 166,
+  "memoryKb": 17203,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.373Z"
+}

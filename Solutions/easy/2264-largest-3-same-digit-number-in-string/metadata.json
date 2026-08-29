@@ -1,0 +1,29 @@
+{
+  "title": "Largest 3-Same-Digit Number in String",
+  "titleSlug": "largest-3-same-digit-number-in-string",
+  "frontendQuestionId": "2264",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-3-same-digit-number-in-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1735358065",
+  "submittedAt": "2025-08-14T19:54:46.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9216,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.393Z"
+}

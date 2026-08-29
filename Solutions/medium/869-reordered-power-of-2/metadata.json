@@ -1,0 +1,33 @@
+{
+  "title": "Reordered Power of 2",
+  "titleSlug": "reordered-power-of-2",
+  "frontendQuestionId": "869",
+  "leetcodeUrl": "https://leetcode.com/problems/reordered-power-of-2/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Sorting",
+    "Counting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1730461432",
+  "submittedAt": "2025-08-10T18:31:56.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 8909,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.397Z"
+}

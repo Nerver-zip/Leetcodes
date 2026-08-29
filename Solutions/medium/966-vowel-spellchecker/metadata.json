@@ -1,0 +1,31 @@
+{
+  "title": "Vowel Spellchecker",
+  "titleSlug": "vowel-spellchecker",
+  "frontendQuestionId": "966",
+  "leetcodeUrl": "https://leetcode.com/problems/vowel-spellchecker/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1770954004",
+  "submittedAt": "2025-09-14T21:48:32.000Z",
+  "runtimeMs": 37,
+  "memoryKb": 41677,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.377Z"
+}

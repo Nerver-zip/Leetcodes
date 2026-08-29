@@ -1,0 +1,32 @@
+{
+  "title": "Smallest Subarrays With Maximum Bitwise OR",
+  "titleSlug": "smallest-subarrays-with-maximum-bitwise-or",
+  "frontendQuestionId": "2411",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1716168163",
+  "submittedAt": "2025-07-29T17:48:32.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 62259,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.403Z"
+}

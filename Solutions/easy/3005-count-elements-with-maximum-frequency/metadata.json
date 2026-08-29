@@ -1,0 +1,31 @@
+{
+  "title": "Count Elements With Maximum Frequency",
+  "titleSlug": "count-elements-with-maximum-frequency",
+  "frontendQuestionId": "3005",
+  "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1779564817",
+  "submittedAt": "2025-09-22T21:54:52.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 23654,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.374Z"
+}

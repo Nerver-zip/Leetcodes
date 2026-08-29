@@ -1,0 +1,33 @@
+{
+  "title": "Find the Number of Ways to Place People I",
+  "titleSlug": "find-the-number-of-ways-to-place-people-i",
+  "frontendQuestionId": "3025",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry",
+    "Sorting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1757628528",
+  "submittedAt": "2025-09-02T23:53:27.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 33485,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.383Z"
+}

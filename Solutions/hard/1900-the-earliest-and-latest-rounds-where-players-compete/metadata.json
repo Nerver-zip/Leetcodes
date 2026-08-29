@@ -1,0 +1,30 @@
+{
+  "title": "The Earliest and Latest Rounds Where Players Compete",
+  "titleSlug": "the-earliest-and-latest-rounds-where-players-compete",
+  "frontendQuestionId": "1900",
+  "leetcodeUrl": "https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/",
+  "difficulty": "Hard",
+  "topics": [
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1695724254",
+  "submittedAt": "2025-07-12T23:21:25.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 10138,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.411Z"
+}

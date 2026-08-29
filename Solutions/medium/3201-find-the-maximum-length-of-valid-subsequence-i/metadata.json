@@ -1,0 +1,30 @@
+{
+  "title": "Find the Maximum Length of Valid Subsequence I",
+  "titleSlug": "find-the-maximum-length-of-valid-subsequence-i",
+  "frontendQuestionId": "3201",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1699462889",
+  "submittedAt": "2025-07-16T01:49:26.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 98509,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.409Z"
+}

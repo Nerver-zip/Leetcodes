@@ -1,0 +1,35 @@
+{
+  "title": "Delete Duplicate Folders in System",
+  "titleSlug": "delete-duplicate-folders-in-system",
+  "frontendQuestionId": "1948",
+  "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-folders-in-system/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Depth-First Search",
+    "Trie",
+    "Sorting",
+    "Hash Function"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1704271420",
+  "submittedAt": "2025-07-20T03:29:47.000Z",
+  "runtimeMs": 313,
+  "memoryKb": 329318,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.407Z"
+}

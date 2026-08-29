@@ -1,0 +1,30 @@
+{
+  "title": "Maximum Number of Words You Can Type",
+  "titleSlug": "maximum-number-of-words-you-can-type",
+  "frontendQuestionId": "1935",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-words-you-can-type/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1772122098",
+  "submittedAt": "2025-09-15T23:15:08.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 9114,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.376Z"
+}

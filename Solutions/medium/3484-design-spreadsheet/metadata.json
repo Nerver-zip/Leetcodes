@@ -1,0 +1,33 @@
+{
+  "title": "Design Spreadsheet",
+  "titleSlug": "design-spreadsheet",
+  "frontendQuestionId": "3484",
+  "leetcodeUrl": "https://leetcode.com/problems/design-spreadsheet/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Design",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1776489084",
+  "submittedAt": "2025-09-19T21:44:50.000Z",
+  "runtimeMs": 64,
+  "memoryKb": 163840,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.375Z"
+}

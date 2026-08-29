@@ -1,0 +1,32 @@
+{
+  "title": "Fruits Into Baskets III",
+  "titleSlug": "fruits-into-baskets-iii",
+  "frontendQuestionId": "3479",
+  "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-iii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1725868628",
+  "submittedAt": "2025-08-06T16:10:29.000Z",
+  "runtimeMs": 101,
+  "memoryKb": 193638,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.400Z"
+}

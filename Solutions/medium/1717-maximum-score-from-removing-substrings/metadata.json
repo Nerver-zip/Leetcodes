@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Score From Removing Substrings",
+  "titleSlug": "maximum-score-from-removing-substrings",
+  "frontendQuestionId": "1717",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-removing-substrings/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1709020637",
+  "submittedAt": "2025-07-23T21:13:45.000Z",
+  "runtimeMs": 61,
+  "memoryKb": 32461,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.406Z"
+}

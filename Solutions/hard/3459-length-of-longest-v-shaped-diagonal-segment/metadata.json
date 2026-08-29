@@ -1,0 +1,32 @@
+{
+  "title": "Length of Longest V-Shaped Diagonal Segment",
+  "titleSlug": "length-of-longest-v-shaped-diagonal-segment",
+  "frontendQuestionId": "3459",
+  "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Memoization",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1750667167",
+  "submittedAt": "2025-08-27T21:20:59.000Z",
+  "runtimeMs": 353,
+  "memoryKb": 111821,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.386Z"
+}

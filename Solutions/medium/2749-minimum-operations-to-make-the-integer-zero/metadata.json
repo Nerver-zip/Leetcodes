@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Operations to Make the Integer Zero",
+  "titleSlug": "minimum-operations-to-make-the-integer-zero",
+  "frontendQuestionId": "2749",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/",
+  "difficulty": "Medium",
+  "topics": [
+    "Bit Manipulation",
+    "Brainteaser",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1760883882",
+  "submittedAt": "2025-09-05T20:27:42.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8397,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.382Z"
+}

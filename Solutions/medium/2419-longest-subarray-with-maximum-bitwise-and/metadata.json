@@ -1,0 +1,31 @@
+{
+  "title": "Longest Subarray With Maximum Bitwise AND",
+  "titleSlug": "longest-subarray-with-maximum-bitwise-and",
+  "frontendQuestionId": "2419",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Brainteaser"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1717238168",
+  "submittedAt": "2025-07-30T15:03:47.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 88166,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.403Z"
+}

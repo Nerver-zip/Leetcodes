@@ -1,0 +1,31 @@
+{
+  "title": "Power of Four",
+  "titleSlug": "power-of-four",
+  "frontendQuestionId": "342",
+  "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1736455710",
+  "submittedAt": "2025-08-15T17:55:33.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 7987,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.392Z"
+}

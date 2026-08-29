@@ -1,0 +1,31 @@
+{
+  "title": "24 Game",
+  "titleSlug": "24-game",
+  "frontendQuestionId": "679",
+  "leetcodeUrl": "https://leetcode.com/problems/24-game/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Backtracking"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1739750837",
+  "submittedAt": "2025-08-18T15:05:59.000Z",
+  "runtimeMs": 62,
+  "memoryKb": 31334,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.391Z"
+}

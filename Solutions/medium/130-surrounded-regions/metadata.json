@@ -1,0 +1,33 @@
+{
+  "title": "Surrounded Regions",
+  "titleSlug": "surrounded-regions",
+  "frontendQuestionId": "130",
+  "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1692692588",
+  "submittedAt": "2025-07-10T04:22:56.000Z",
+  "runtimeMs": 17,
+  "memoryKb": 18227,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.412Z"
+}

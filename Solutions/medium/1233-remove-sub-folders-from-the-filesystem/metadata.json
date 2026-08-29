@@ -1,0 +1,32 @@
+{
+  "title": "Remove Sub-Folders from the Filesystem",
+  "titleSlug": "remove-sub-folders-from-the-filesystem",
+  "frontendQuestionId": "1233",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Depth-First Search",
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1704067162",
+  "submittedAt": "2025-07-19T21:36:43.000Z",
+  "runtimeMs": 43,
+  "memoryKb": 47206,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.408Z"
+}

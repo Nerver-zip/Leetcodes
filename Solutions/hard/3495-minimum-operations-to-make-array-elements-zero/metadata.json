@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Operations to Make Array Elements Zero",
+  "titleSlug": "minimum-operations-to-make-array-elements-zero",
+  "frontendQuestionId": "3495",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1761772742",
+  "submittedAt": "2025-09-06T18:02:07.000Z",
+  "runtimeMs": 15,
+  "memoryKb": 187699,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.381Z"
+}

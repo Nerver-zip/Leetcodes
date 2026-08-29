@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Time for K Connected Components",
+  "titleSlug": "minimum-time-for-k-connected-components",
+  "frontendQuestionId": "3608",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-time-for-k-connected-components/",
+  "difficulty": "Medium",
+  "topics": [
+    "Binary Search",
+    "Union-Find",
+    "Graph Theory",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1733157130",
+  "submittedAt": "2025-08-13T03:12:55.000Z",
+  "runtimeMs": 73,
+  "memoryKb": 222413,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.394Z"
+}

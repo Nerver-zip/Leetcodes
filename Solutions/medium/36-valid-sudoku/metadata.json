@@ -1,0 +1,31 @@
+{
+  "title": "Valid Sudoku",
+  "titleSlug": "valid-sudoku",
+  "frontendQuestionId": "36",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1752998575",
+  "submittedAt": "2025-08-30T02:16:44.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 26112,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.385Z"
+}

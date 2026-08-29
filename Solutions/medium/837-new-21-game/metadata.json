@@ -1,0 +1,32 @@
+{
+  "title": "New 21 Game",
+  "titleSlug": "new-21-game",
+  "frontendQuestionId": "837",
+  "leetcodeUrl": "https://leetcode.com/problems/new-21-game/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Probability and Statistics"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1738020783",
+  "submittedAt": "2025-08-17T03:24:35.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 12800,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.392Z"
+}

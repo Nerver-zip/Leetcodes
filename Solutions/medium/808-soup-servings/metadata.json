@@ -1,0 +1,31 @@
+{
+  "title": "Soup Servings",
+  "titleSlug": "soup-servings",
+  "frontendQuestionId": "808",
+  "leetcodeUrl": "https://leetcode.com/problems/soup-servings/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Probability and Statistics"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1727461505",
+  "submittedAt": "2025-08-08T02:05:45.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 13619,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.398Z"
+}

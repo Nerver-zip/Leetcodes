@@ -1,0 +1,32 @@
+{
+  "title": "Fibonacci Number",
+  "titleSlug": "fibonacci-number",
+  "frontendQuestionId": "509",
+  "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1713816121",
+  "submittedAt": "2025-07-27T20:06:45.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 7987,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.404Z"
+}

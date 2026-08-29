@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Erasure Value",
+  "titleSlug": "maximum-erasure-value",
+  "frontendQuestionId": "1695",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-erasure-value/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1707465054",
+  "submittedAt": "2025-07-22T16:19:02.000Z",
+  "runtimeMs": 80,
+  "memoryKb": 105779,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.406Z"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Maximum Area of Longest Diagonal Rectangle",
+  "titleSlug": "maximum-area-of-longest-diagonal-rectangle",
+  "frontendQuestionId": "3000",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1748366696",
+  "submittedAt": "2025-08-26T01:04:26.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 29901,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.387Z"
+}

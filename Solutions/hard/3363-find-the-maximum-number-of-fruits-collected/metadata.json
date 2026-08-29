@@ -1,0 +1,31 @@
+{
+  "title": "Find the Maximum Number of Fruits Collected",
+  "titleSlug": "find-the-maximum-number-of-fruits-collected",
+  "frontendQuestionId": "3363",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1727180282",
+  "submittedAt": "2025-08-07T17:53:07.000Z",
+  "runtimeMs": 64,
+  "memoryKb": 196813,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.399Z"
+}

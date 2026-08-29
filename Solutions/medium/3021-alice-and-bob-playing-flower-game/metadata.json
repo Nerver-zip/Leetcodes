@@ -1,0 +1,29 @@
+{
+  "title": "Alice and Bob Playing Flower Game",
+  "titleSlug": "alice-and-bob-playing-flower-game",
+  "frontendQuestionId": "3021",
+  "leetcodeUrl": "https://leetcode.com/problems/alice-and-bob-playing-flower-game/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1752944759",
+  "submittedAt": "2025-08-29T23:21:43.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8704,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.385Z"
+}

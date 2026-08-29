@@ -1,0 +1,31 @@
+{
+  "title": "Longest Subarray of 1's After Deleting One Element",
+  "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+  "frontendQuestionId": "1493",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1746150734",
+  "submittedAt": "2025-08-24T04:23:11.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 61542,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.387Z"
+}

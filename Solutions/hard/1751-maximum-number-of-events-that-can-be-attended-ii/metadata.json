@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Number of Events That Can Be Attended II",
+  "titleSlug": "maximum-number-of-events-that-can-be-attended-ii",
+  "frontendQuestionId": "1751",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1691251955",
+  "submittedAt": "2025-07-08T20:04:09.000Z",
+  "runtimeMs": 144,
+  "memoryKb": 142848,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.414Z"
+}

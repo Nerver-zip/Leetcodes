@@ -1,0 +1,29 @@
+{
+  "title": "Delete Characters to Make Fancy String",
+  "titleSlug": "delete-characters-to-make-fancy-string",
+  "frontendQuestionId": "1957",
+  "leetcodeUrl": "https://leetcode.com/problems/delete-characters-to-make-fancy-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1706013687",
+  "submittedAt": "2025-07-21T14:02:57.000Z",
+  "runtimeMs": 33,
+  "memoryKb": 45568,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.407Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Find Most Frequent Vowel and Consonant",
+  "titleSlug": "find-most-frequent-vowel-and-consonant",
+  "frontendQuestionId": "3541",
+  "leetcodeUrl": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1768816654",
+  "submittedAt": "2025-09-13T03:06:54.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9728,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.377Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Accounts Merge",
+  "titleSlug": "accounts-merge",
+  "frontendQuestionId": "721",
+  "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1700794351",
+  "submittedAt": "2025-07-17T04:09:16.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 39219,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.408Z"
+}

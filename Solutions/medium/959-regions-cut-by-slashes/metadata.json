@@ -1,0 +1,35 @@
+{
+  "title": "Regions Cut By Slashes",
+  "titleSlug": "regions-cut-by-slashes",
+  "frontendQuestionId": "959",
+  "leetcodeUrl": "https://leetcode.com/problems/regions-cut-by-slashes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix",
+    "Planar Graph"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1732943439",
+  "submittedAt": "2025-08-12T20:08:45.000Z",
+  "runtimeMs": 21,
+  "memoryKb": 18227,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.395Z"
+}

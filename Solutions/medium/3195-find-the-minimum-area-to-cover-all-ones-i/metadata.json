@@ -1,0 +1,30 @@
+{
+  "title": "Find the Minimum Area to Cover All Ones I",
+  "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
+  "frontendQuestionId": "3195",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1744856733",
+  "submittedAt": "2025-08-22T23:27:38.000Z",
+  "runtimeMs": 270,
+  "memoryKb": 136499,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.389Z"
+}

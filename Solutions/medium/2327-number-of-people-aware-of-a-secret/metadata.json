@@ -1,0 +1,31 @@
+{
+  "title": "Number of People Aware of a Secret",
+  "titleSlug": "number-of-people-aware-of-a-secret",
+  "frontendQuestionId": "2327",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-people-aware-of-a-secret/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Queue",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1765379926",
+  "submittedAt": "2025-09-09T20:09:01.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9523,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.379Z"
+}

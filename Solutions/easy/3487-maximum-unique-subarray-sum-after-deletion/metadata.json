@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Unique Subarray Sum After Deletion",
+  "titleSlug": "maximum-unique-subarray-sum-after-deletion",
+  "frontendQuestionId": "3487",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1710328775",
+  "submittedAt": "2025-07-25T01:09:18.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 30515,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.406Z"
+}

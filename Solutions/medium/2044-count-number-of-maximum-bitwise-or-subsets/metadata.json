@@ -1,0 +1,32 @@
+{
+  "title": "Count Number of Maximum Bitwise-OR Subsets",
+  "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+  "frontendQuestionId": "2044",
+  "leetcodeUrl": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1714592129",
+  "submittedAt": "2025-07-28T13:55:40.000Z",
+  "runtimeMs": 392,
+  "memoryKb": 207667,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.404Z"
+}

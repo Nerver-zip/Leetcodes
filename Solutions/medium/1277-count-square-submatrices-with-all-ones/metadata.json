@@ -1,0 +1,31 @@
+{
+  "title": "Count Square Submatrices with All Ones",
+  "titleSlug": "count-square-submatrices-with-all-ones",
+  "frontendQuestionId": "1277",
+  "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1742144740",
+  "submittedAt": "2025-08-20T14:31:25.000Z",
+  "runtimeMs": 15,
+  "memoryKb": 28058,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.390Z"
+}

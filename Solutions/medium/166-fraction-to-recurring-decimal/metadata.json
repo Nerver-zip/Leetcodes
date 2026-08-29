@@ -1,0 +1,31 @@
+{
+  "title": "Fraction to Recurring Decimal",
+  "titleSlug": "fraction-to-recurring-decimal",
+  "frontendQuestionId": "166",
+  "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1781731500",
+  "submittedAt": "2025-09-24T22:51:25.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8602,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.373Z"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Ways to Express an Integer as Sum of Powers",
+  "titleSlug": "ways-to-express-an-integer-as-sum-of-powers",
+  "frontendQuestionId": "2787",
+  "leetcodeUrl": "https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1731886436",
+  "submittedAt": "2025-08-12T02:15:42.000Z",
+  "runtimeMs": 399,
+  "memoryKb": 281088,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.395Z"
+}

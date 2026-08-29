@@ -1,0 +1,31 @@
+{
+  "title": "Finding Pairs With a Certain Sum",
+  "titleSlug": "finding-pairs-with-a-certain-sum",
+  "frontendQuestionId": "1865",
+  "leetcodeUrl": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Design"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1687811581",
+  "submittedAt": "2025-07-06T01:05:29.000Z",
+  "runtimeMs": 91,
+  "memoryKb": 83968,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.416Z"
+}

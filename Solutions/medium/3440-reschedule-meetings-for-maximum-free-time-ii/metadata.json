@@ -1,0 +1,31 @@
+{
+  "title": "Reschedule Meetings for Maximum Free Time II",
+  "titleSlug": "reschedule-meetings-for-maximum-free-time-ii",
+  "frontendQuestionId": "3440",
+  "leetcodeUrl": "https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1693695669",
+  "submittedAt": "2025-07-10T23:41:26.000Z",
+  "runtimeMs": 618,
+  "memoryKb": 271258,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:23:16.412Z"
+}
