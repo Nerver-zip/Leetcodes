@@ -1,0 +1,34 @@
+{
+  "title": "Count Partitions With Max-Min Difference at Most K",
+  "titleSlug": "count-partitions-with-max-min-difference-at-most-k",
+  "frontendQuestionId": "3578",
+  "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Queue",
+    "Sliding Window",
+    "Prefix Sum",
+    "Monotonic Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1848702799",
+  "submittedAt": "2025-12-06T20:30:06.000Z",
+  "runtimeMs": 52,
+  "memoryKb": 164250,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:45.900Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Continuous Subarray Sum",
+  "titleSlug": "continuous-subarray-sum",
+  "frontendQuestionId": "523",
+  "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Prefix Sum",
+    "Pigeonhole Principle"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1847899752",
+  "submittedAt": "2025-12-05T20:14:14.000Z",
+  "runtimeMs": 80,
+  "memoryKb": 149709,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:44.352Z"
+}
