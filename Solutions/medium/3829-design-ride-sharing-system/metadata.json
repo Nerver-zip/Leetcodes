@@ -1,0 +1,32 @@
+{
+  "title": "Design Ride Sharing System",
+  "titleSlug": "design-ride-sharing-system",
+  "frontendQuestionId": "3829",
+  "leetcodeUrl": "https://leetcode.com/problems/design-ride-sharing-system/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Design",
+    "Queue",
+    "Data Stream"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1903814162",
+  "submittedAt": "2026-02-01T03:07:44.000Z",
+  "runtimeMs": 61,
+  "memoryKb": 154726,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:55.639Z"
+}
