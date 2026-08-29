@@ -1,0 +1,27 @@
+{
+  "title": "Minimum Bishop Moves to Reach Target",
+  "titleSlug": "minimum-bishop-moves-to-reach-target",
+  "frontendQuestionId": "4034",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2123977438",
+  "submittedAt": "2026-08-29T15:00:22.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 51712,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:53.749Z"
+}

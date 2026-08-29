@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Deletions to Make String Balanced",
+  "titleSlug": "minimum-deletions-to-make-string-balanced",
+  "frontendQuestionId": "1653",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1911730512",
+  "submittedAt": "2026-02-07T22:13:00.000Z",
+  "runtimeMs": 35,
+  "memoryKb": 41677,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:28.759Z"
+}

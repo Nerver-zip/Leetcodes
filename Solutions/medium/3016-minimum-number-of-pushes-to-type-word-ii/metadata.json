@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Number of Pushes to Type Word II",
+  "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+  "frontendQuestionId": "3016",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2088152086",
+  "submittedAt": "2026-07-31T02:13:04.000Z",
+  "runtimeMs": 23,
+  "memoryKb": 26829,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:35.210Z"
+}

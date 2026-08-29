@@ -1,0 +1,31 @@
+{
+  "title": "Shift 2D Grid",
+  "titleSlug": "shift-2d-grid",
+  "frontendQuestionId": "1260",
+  "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2075086663",
+  "submittedAt": "2026-07-20T21:00:34.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 18534,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:29.659Z"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Stone Game III",
+  "titleSlug": "stone-game-iii",
+  "frontendQuestionId": "1406",
+  "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2093250156",
+  "submittedAt": "2026-08-03T23:02:10.000Z",
+  "runtimeMs": 67,
+  "memoryKb": 145920,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:36.550Z"
+}

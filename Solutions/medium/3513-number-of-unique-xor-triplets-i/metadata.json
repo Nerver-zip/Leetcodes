@@ -1,0 +1,31 @@
+{
+  "title": "Number of Unique XOR Triplets I",
+  "titleSlug": "number-of-unique-xor-triplets-i",
+  "frontendQuestionId": "3513",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2078931076",
+  "submittedAt": "2026-07-23T23:58:29.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 203469,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:30.900Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Total Price After Applying Discounts",
+  "titleSlug": "minimum-total-price-after-applying-discounts",
+  "frontendQuestionId": "4014",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-total-price-after-applying-discounts/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2099708819",
+  "submittedAt": "2026-08-09T02:36:27.000Z",
+  "runtimeMs": 56,
+  "memoryKb": 229069,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:39.665Z"
+}

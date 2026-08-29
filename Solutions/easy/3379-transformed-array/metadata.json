@@ -1,0 +1,30 @@
+{
+  "title": "Transformed Array",
+  "titleSlug": "transformed-array",
+  "frontendQuestionId": "3379",
+  "leetcodeUrl": "https://leetcode.com/problems/transformed-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1909452621",
+  "submittedAt": "2026-02-05T18:02:42.000Z",
+  "runtimeMs": 6,
+  "memoryKb": 26214,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:28.752Z"
+}

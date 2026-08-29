@@ -1,0 +1,31 @@
+{
+  "title": "Remove Methods From Project",
+  "titleSlug": "remove-methods-from-project",
+  "frontendQuestionId": "3310",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2094731654",
+  "submittedAt": "2026-08-05T03:18:07.000Z",
+  "runtimeMs": 173,
+  "memoryKb": 309248,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:37.423Z"
+}

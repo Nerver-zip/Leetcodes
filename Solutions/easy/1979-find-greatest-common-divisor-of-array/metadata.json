@@ -1,0 +1,33 @@
+{
+  "title": "Find Greatest Common Divisor of Array",
+  "titleSlug": "find-greatest-common-divisor-of-array",
+  "frontendQuestionId": "1979",
+  "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Number Theory",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2072842145",
+  "submittedAt": "2026-07-18T23:28:12.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 16384,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:28.765Z"
+}

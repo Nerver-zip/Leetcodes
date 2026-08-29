@@ -1,0 +1,36 @@
+{
+  "title": "Stone Game IX",
+  "titleSlug": "stone-game-ix",
+  "frontendQuestionId": "2029",
+  "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Minimax",
+    "Counting",
+    "Game Theory",
+    "Nim Game",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2109531405",
+  "submittedAt": "2026-08-16T23:56:52.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 134554,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:19:44.073Z"
+}
