@@ -1,0 +1,34 @@
+{
+  "title": "Kth Largest Element in a Stream",
+  "titleSlug": "kth-largest-element-in-a-stream",
+  "frontendQuestionId": "703",
+  "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Design",
+    "Binary Search Tree",
+    "Heap (Priority Queue)",
+    "Binary Tree",
+    "Data Stream"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1981738983",
+  "submittedAt": "2026-04-18T12:52:11.000Z",
+  "runtimeMs": 2379,
+  "memoryKb": 37786,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.270Z"
+}

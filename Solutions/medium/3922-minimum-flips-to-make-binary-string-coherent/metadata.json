@@ -1,0 +1,29 @@
+{
+  "title": "Minimum Flips to Make Binary String Coherent",
+  "titleSlug": "minimum-flips-to-make-binary-string-coherent",
+  "frontendQuestionId": "3922",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1998936990",
+  "submittedAt": "2026-05-09T14:59:34.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 20173,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.248Z"
+}

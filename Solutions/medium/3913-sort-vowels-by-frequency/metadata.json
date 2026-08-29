@@ -1,0 +1,31 @@
+{
+  "title": "Sort Vowels by Frequency",
+  "titleSlug": "sort-vowels-by-frequency",
+  "frontendQuestionId": "3913",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-vowels-by-frequency/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1988241687",
+  "submittedAt": "2026-04-26T02:58:18.000Z",
+  "runtimeMs": 159,
+  "memoryKb": 22938,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.263Z"
+}

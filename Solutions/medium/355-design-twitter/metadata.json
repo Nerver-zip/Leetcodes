@@ -1,0 +1,32 @@
+{
+  "title": "Design Twitter",
+  "titleSlug": "design-twitter",
+  "frontendQuestionId": "355",
+  "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1994605198",
+  "submittedAt": "2026-05-04T02:55:55.000Z",
+  "runtimeMs": 12,
+  "memoryKb": 58880,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.252Z"
+}

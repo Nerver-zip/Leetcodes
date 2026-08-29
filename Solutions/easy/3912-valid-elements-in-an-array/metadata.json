@@ -1,0 +1,29 @@
+{
+  "title": "Valid Elements in an Array",
+  "titleSlug": "valid-elements-in-an-array",
+  "frontendQuestionId": "3912",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-elements-in-an-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1988227315",
+  "submittedAt": "2026-04-26T02:48:42.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 32358,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.263Z"
+}

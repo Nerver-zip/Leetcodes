@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Total Distance Traveled",
+  "titleSlug": "minimum-total-distance-traveled",
+  "frontendQuestionId": "2463",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-total-distance-traveled/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1978418766",
+  "submittedAt": "2026-04-14T15:58:48.000Z",
+  "runtimeMs": 65,
+  "memoryKb": 70554,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.275Z"
+}

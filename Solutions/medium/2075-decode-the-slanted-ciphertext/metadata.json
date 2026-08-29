@@ -1,0 +1,30 @@
+{
+  "title": "Decode the Slanted Ciphertext",
+  "titleSlug": "decode-the-slanted-ciphertext",
+  "frontendQuestionId": "2075",
+  "leetcodeUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1968956789",
+  "submittedAt": "2026-04-04T20:21:18.000Z",
+  "runtimeMs": 87,
+  "memoryKb": 67379,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.290Z"
+}

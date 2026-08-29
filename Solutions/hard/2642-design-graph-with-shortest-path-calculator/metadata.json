@@ -1,0 +1,32 @@
+{
+  "title": "Design Graph With Shortest Path Calculator",
+  "titleSlug": "design-graph-with-shortest-path-calculator",
+  "frontendQuestionId": "2642",
+  "leetcodeUrl": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator/",
+  "difficulty": "Hard",
+  "topics": [
+    "Graph Theory",
+    "Design",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1974828875",
+  "submittedAt": "2026-04-10T21:19:41.000Z",
+  "runtimeMs": 83,
+  "memoryKb": 87142,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.283Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Rotate Image",
+  "titleSlug": "rotate-image",
+  "frontendQuestionId": "48",
+  "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1994568470",
+  "submittedAt": "2026-05-04T00:58:31.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10240,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.253Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Sum of Primes Between Number and Its Reverse",
+  "titleSlug": "sum-of-primes-between-number-and-its-reverse",
+  "frontendQuestionId": "3918",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1993747481",
+  "submittedAt": "2026-05-03T02:39:50.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10035,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.256Z"
+}

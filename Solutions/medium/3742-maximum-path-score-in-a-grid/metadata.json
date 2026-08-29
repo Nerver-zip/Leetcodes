@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Path Score in a Grid",
+  "titleSlug": "maximum-path-score-in-a-grid",
+  "frontendQuestionId": "3742",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1992061949",
+  "submittedAt": "2026-04-30T18:50:21.000Z",
+  "runtimeMs": 778,
+  "memoryKb": 400691,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.259Z"
+}

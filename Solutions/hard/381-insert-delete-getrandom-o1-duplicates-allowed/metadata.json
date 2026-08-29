@@ -1,0 +1,33 @@
+{
+  "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+  "titleSlug": "insert-delete-getrandom-o1-duplicates-allowed",
+  "frontendQuestionId": "381",
+  "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Design",
+    "Randomized"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1987981418",
+  "submittedAt": "2026-04-25T17:36:06.000Z",
+  "runtimeMs": 47,
+  "memoryKb": 114995,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.264Z"
+}

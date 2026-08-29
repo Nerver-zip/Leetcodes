@@ -1,0 +1,34 @@
+{
+  "title": "Minimum Operations to Transform Array into Alternating Prime",
+  "titleSlug": "minimum-operations-to-transform-array-into-alternating-prime",
+  "frontendQuestionId": "3896",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1975455319",
+  "submittedAt": "2026-04-11T15:00:13.000Z",
+  "runtimeMs": 438,
+  "memoryKb": 270336,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.281Z"
+}

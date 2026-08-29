@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Distance Between Three Equal Elements I",
+  "titleSlug": "minimum-distance-between-three-equal-elements-i",
+  "frontendQuestionId": "3740",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1974570798",
+  "submittedAt": "2026-04-10T15:19:00.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 29286,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.284Z"
+}

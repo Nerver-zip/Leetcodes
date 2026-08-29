@@ -1,0 +1,31 @@
+{
+  "title": "Rotating the Box",
+  "titleSlug": "rotating-the-box",
+  "frontendQuestionId": "1861",
+  "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1996953268",
+  "submittedAt": "2026-05-06T23:01:34.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 58266,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.250Z"
+}

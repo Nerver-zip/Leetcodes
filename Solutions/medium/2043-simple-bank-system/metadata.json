@@ -1,0 +1,32 @@
+{
+  "title": "Simple Bank System",
+  "titleSlug": "simple-bank-system",
+  "frontendQuestionId": "2043",
+  "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1994583141",
+  "submittedAt": "2026-05-04T01:50:48.000Z",
+  "runtimeMs": 15,
+  "memoryKb": 123597,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.252Z"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Mirror Distance of an Integer",
+  "titleSlug": "mirror-distance-of-an-integer",
+  "frontendQuestionId": "3783",
+  "leetcodeUrl": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1981356296",
+  "submittedAt": "2026-04-18T01:55:39.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9626,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.272Z"
+}

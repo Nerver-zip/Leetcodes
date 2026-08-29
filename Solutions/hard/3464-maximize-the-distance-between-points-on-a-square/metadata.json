@@ -1,0 +1,33 @@
+{
+  "title": "Maximize the Distance Between Points on a Square",
+  "titleSlug": "maximize-the-distance-between-points-on-a-square",
+  "frontendQuestionId": "3464",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Geometry",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1988126534",
+  "submittedAt": "2026-04-25T21:37:53.000Z",
+  "runtimeMs": 164,
+  "memoryKb": 48947,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.264Z"
+}

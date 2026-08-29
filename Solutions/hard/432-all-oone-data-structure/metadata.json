@@ -1,0 +1,32 @@
+{
+  "title": "All O`one Data Structure",
+  "titleSlug": "all-oone-data-structure",
+  "frontendQuestionId": "432",
+  "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure/",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1994433111",
+  "submittedAt": "2026-05-03T18:42:53.000Z",
+  "runtimeMs": 92,
+  "memoryKb": 97178,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.255Z"
+}

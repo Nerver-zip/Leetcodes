@@ -1,0 +1,30 @@
+{
+  "title": "Two Furthest Houses With Different Colors",
+  "titleSlug": "two-furthest-houses-with-different-colors",
+  "frontendQuestionId": "2078",
+  "leetcodeUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1984000776",
+  "submittedAt": "2026-04-20T23:09:03.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12390,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.267Z"
+}

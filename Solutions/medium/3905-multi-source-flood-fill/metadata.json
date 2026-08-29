@@ -1,0 +1,31 @@
+{
+  "title": "Multi Source Flood Fill",
+  "titleSlug": "multi-source-flood-fill",
+  "frontendQuestionId": "3905",
+  "leetcodeUrl": "https://leetcode.com/problems/multi-source-flood-fill/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1986372966",
+  "submittedAt": "2026-04-23T17:29:27.000Z",
+  "runtimeMs": 251,
+  "memoryKb": 255386,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.265Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Mirror Frequency Distance",
+  "titleSlug": "mirror-frequency-distance",
+  "frontendQuestionId": "3889",
+  "leetcodeUrl": "https://leetcode.com/problems/mirror-frequency-distance/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1969232251",
+  "submittedAt": "2026-04-05T04:03:36.000Z",
+  "runtimeMs": 131,
+  "memoryKb": 61440,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.290Z"
+}

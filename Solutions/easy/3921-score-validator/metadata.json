@@ -1,0 +1,31 @@
+{
+  "title": "Score Validator",
+  "titleSlug": "score-validator",
+  "frontendQuestionId": "3921",
+  "leetcodeUrl": "https://leetcode.com/problems/score-validator/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1998888760",
+  "submittedAt": "2026-05-09T14:38:31.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 54886,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.248Z"
+}

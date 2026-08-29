@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Value of Concatenated Binary Segments",
+  "titleSlug": "maximum-value-of-concatenated-binary-segments",
+  "frontendQuestionId": "3897",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1975613843",
+  "submittedAt": "2026-04-11T16:59:56.000Z",
+  "runtimeMs": 234,
+  "memoryKb": 155238,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.280Z"
+}

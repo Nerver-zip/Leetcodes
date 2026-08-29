@@ -1,0 +1,31 @@
+{
+  "title": "Sum of Distances",
+  "titleSlug": "sum-of-distances",
+  "frontendQuestionId": "2615",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1986362954",
+  "submittedAt": "2026-04-23T17:18:42.000Z",
+  "runtimeMs": 44,
+  "memoryKb": 112128,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.265Z"
+}

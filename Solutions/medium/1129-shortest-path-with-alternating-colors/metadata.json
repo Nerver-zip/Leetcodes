@@ -1,0 +1,30 @@
+{
+  "title": "Shortest Path with Alternating Colors",
+  "titleSlug": "shortest-path-with-alternating-colors",
+  "frontendQuestionId": "1129",
+  "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-alternating-colors/",
+  "difficulty": "Medium",
+  "topics": [
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1972023823",
+  "submittedAt": "2026-04-07T21:46:18.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 19354,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.286Z"
+}

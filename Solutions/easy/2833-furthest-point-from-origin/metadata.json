@@ -1,0 +1,30 @@
+{
+  "title": "Furthest Point From Origin",
+  "titleSlug": "furthest-point-from-origin",
+  "frontendQuestionId": "2833",
+  "leetcodeUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1987133179",
+  "submittedAt": "2026-04-24T16:24:06.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 10547,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.264Z"
+}

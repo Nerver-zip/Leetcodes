@@ -1,0 +1,31 @@
+{
+  "title": "Closest Equal Element Queries",
+  "titleSlug": "closest-equal-element-queries",
+  "frontendQuestionId": "3488",
+  "leetcodeUrl": "https://leetcode.com/problems/closest-equal-element-queries/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1980250880",
+  "submittedAt": "2026-04-16T16:51:27.000Z",
+  "runtimeMs": 233,
+  "memoryKb": 218829,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.274Z"
+}

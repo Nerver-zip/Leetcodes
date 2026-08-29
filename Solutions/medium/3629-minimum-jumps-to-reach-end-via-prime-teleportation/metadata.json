@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Jumps to Reach End via Prime Teleportation",
+  "titleSlug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+  "frontendQuestionId": "3629",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Breadth-First Search",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1998253529",
+  "submittedAt": "2026-05-08T16:12:48.000Z",
+  "runtimeMs": 830,
+  "memoryKb": 387379,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.249Z"
+}

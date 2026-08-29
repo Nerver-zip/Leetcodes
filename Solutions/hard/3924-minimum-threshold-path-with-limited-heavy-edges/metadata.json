@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Threshold Path With Limited Heavy Edges",
+  "titleSlug": "minimum-threshold-path-with-limited-heavy-edges",
+  "frontendQuestionId": "3924",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/",
+  "difficulty": "Hard",
+  "topics": [
+    "Binary Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1999205616",
+  "submittedAt": "2026-05-09T20:10:36.000Z",
+  "runtimeMs": 102,
+  "memoryKb": 142234,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.247Z"
+}

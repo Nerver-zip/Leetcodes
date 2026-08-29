@@ -1,0 +1,33 @@
+{
+  "title": "Get Watched Videos by Your Friends",
+  "titleSlug": "get-watched-videos-by-your-friends",
+  "frontendQuestionId": "1311",
+  "leetcodeUrl": "https://leetcode.com/problems/get-watched-videos-by-your-friends/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1969794710",
+  "submittedAt": "2026-04-05T16:23:22.000Z",
+  "runtimeMs": 74,
+  "memoryKb": 41677,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.288Z"
+}

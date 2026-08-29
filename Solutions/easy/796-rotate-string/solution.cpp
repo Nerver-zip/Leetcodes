@@ -1,0 +1,135 @@
+class Solution {
+public:
+    Solution(){
+        PolyHash::init(200); 
+    }
+    
+    bool rotateString(string s, string goal) {
+        const int n = s.size();
+
+        if(n != goal.size())
+            return false;
+
+        PolyHash goalHash(goal);
+        PolyHash hash("");
+        
+        s += s;
+
+        for(int left = 0, right = 0; right < s.size(); ++right){
+            hash.push_back(s[right]);
+            
+            if(right - left + 1 > n){
+                hash.pop_front();
+                ++left;
+            }
+
+            if(hash.get() == goalHash.get())
+                return true;
+        }
+        return false;
+    }
+
+private:
+    struct PolyHash {
+        using ll = long long;
+        static constexpr int MOD = 1'000'000'007;
+        static constexpr int BASE = 91138233;
+
+        static inline std::vector<ll> powers = {1};
+
+        std::deque<int> dq;
+        ll hash = 0;
+        
+        static void init(int maxN) {
+            ensure_powers(maxN);
+        }
+
+        static void ensure_powers(int n) {
+            if ((int)powers.size() > n) return;
+            int cur = powers.size();
+            powers.resize(n + 1);
+            for (int i = cur; i <= n; ++i)
+                powers[i] = (powers[i-1] * BASE) % MOD;
+        }
+
+        PolyHash(const string& s) {
+            ensure_powers(s.size());
+            for(char c : s) {
+                int x = c - 'a' + 1;
+                hash = (hash * BASE + x) % MOD;
+                dq.push_back(x);
+            }
+        }
+
+        int size() const {
+            return dq.size();
+        }
+
+        void push_back(char c) {
+            int x = c - 'a' + 1;
+            ensure_powers(size());
+
+            hash = (hash * BASE + x) % MOD;
+            dq.push_back(x);
+        }
+
+        void push_front(char c) {
+            int x = c - 'a' + 1;
+            ensure_powers(size());
+
+            hash = (hash + x * powers[size()] % MOD) % MOD;
+            dq.push_front(x);
+        }
+
+        void pop_back() {
+            if (dq.empty()) return;
+
+            int x = dq.back();
+            dq.pop_back();
+
+            hash = (hash - x + MOD) % MOD;
+            hash = (hash * mod_inv(BASE)) % MOD;
+        }
+
+        void pop_front() {
+            if (dq.empty()) return;
+
+            int x = dq.front();
+            dq.pop_front();
+
+            ensure_powers(size());
+
+            ll rem = x * powers[size()] % MOD;
+            hash = (hash - rem + MOD) % MOD;
+        }
+
+        ll get() const {
+            return hash;
+        }
+
+        // (O(n))
+        ll get(int l, int r) {
+            ll h = 0;
+            for (int i = l; i < r; ++i) {
+                h = (h * BASE + dq[i]) % MOD;
+            }
+            return h;
+        }
+
+    private:
+        // --- modular inverse ---
+        static ll modexp(ll a, ll e) {
+            ll r = 1;
+            while (e) {
+                if (e & 1) r = r * a % MOD;
+                a = a * a % MOD;
+                e >>= 1;
+            }
+            return r;
+        }
+
+        static ll mod_inv(ll x) {
+            return modexp(x, MOD - 2);
+        }
+    };
+};

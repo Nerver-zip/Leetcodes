@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Score From Grid Operations",
+  "titleSlug": "maximum-score-from-grid-operations",
+  "frontendQuestionId": "3225",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-grid-operations/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1991120361",
+  "submittedAt": "2026-04-29T15:25:26.000Z",
+  "runtimeMs": 105,
+  "memoryKb": 45056,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.259Z"
+}

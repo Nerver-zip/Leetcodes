@@ -1,0 +1,30 @@
+{
+  "title": "Separate the Digits in an Array",
+  "titleSlug": "separate-the-digits-in-an-array",
+  "frontendQuestionId": "2553",
+  "leetcodeUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2000876130",
+  "submittedAt": "2026-05-11T21:43:50.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 16486,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.244Z"
+}

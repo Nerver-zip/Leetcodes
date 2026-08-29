@@ -1,0 +1,31 @@
+{
+  "title": "Walking Robot Simulation",
+  "titleSlug": "walking-robot-simulation",
+  "frontendQuestionId": "874",
+  "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1970981333",
+  "submittedAt": "2026-04-06T20:47:27.000Z",
+  "runtimeMs": 163,
+  "memoryKb": 37786,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.287Z"
+}

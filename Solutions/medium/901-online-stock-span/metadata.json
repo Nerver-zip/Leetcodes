@@ -1,0 +1,32 @@
+{
+  "title": "Online Stock Span",
+  "titleSlug": "online-stock-span",
+  "frontendQuestionId": "901",
+  "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Design",
+    "Monotonic Stack",
+    "Data Stream"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1982089056",
+  "submittedAt": "2026-04-18T21:33:30.000Z",
+  "runtimeMs": 34,
+  "memoryKb": 94413,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.269Z"
+}

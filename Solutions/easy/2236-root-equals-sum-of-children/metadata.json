@@ -1,0 +1,30 @@
+{
+  "title": "Root Equals Sum of Children",
+  "titleSlug": "root-equals-sum-of-children",
+  "frontendQuestionId": "2236",
+  "leetcodeUrl": "https://leetcode.com/problems/root-equals-sum-of-children/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1981375945",
+  "submittedAt": "2026-04-18T03:00:00.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15667,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.271Z"
+}

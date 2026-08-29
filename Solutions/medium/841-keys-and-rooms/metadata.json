@@ -1,0 +1,31 @@
+{
+  "title": "Keys and Rooms",
+  "titleSlug": "keys-and-rooms",
+  "frontendQuestionId": "841",
+  "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1976829393",
+  "submittedAt": "2026-04-13T00:43:29.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 16077,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.278Z"
+}

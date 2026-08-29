@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Walls Destroyed by Robots",
+  "titleSlug": "maximum-walls-destroyed-by-robots",
+  "frontendQuestionId": "3661",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-walls-destroyed-by-robots/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1967979998",
+  "submittedAt": "2026-04-03T18:05:28.000Z",
+  "runtimeMs": 310,
+  "memoryKb": 244224,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.291Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Generations to Target Point",
+  "titleSlug": "minimum-generations-to-target-point",
+  "frontendQuestionId": "3923",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-generations-to-target-point/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1999083663",
+  "submittedAt": "2026-05-09T17:01:29.000Z",
+  "runtimeMs": 2309,
+  "memoryKb": 73011,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.247Z"
+}

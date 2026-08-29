@@ -1,0 +1,31 @@
+{
+  "title": "Bus Routes",
+  "titleSlug": "bus-routes",
+  "frontendQuestionId": "815",
+  "leetcodeUrl": "https://leetcode.com/problems/bus-routes/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1973847923",
+  "submittedAt": "2026-04-09T18:16:44.000Z",
+  "runtimeMs": 127,
+  "memoryKb": 76186,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.285Z"
+}

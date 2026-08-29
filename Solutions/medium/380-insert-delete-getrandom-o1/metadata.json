@@ -1,0 +1,33 @@
+{
+  "title": "Insert Delete GetRandom O(1)",
+  "titleSlug": "insert-delete-getrandom-o1",
+  "frontendQuestionId": "380",
+  "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Design",
+    "Randomized"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1982108639",
+  "submittedAt": "2026-04-18T22:35:00.000Z",
+  "runtimeMs": 43,
+  "memoryKb": 116019,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.269Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Shortest Distance to Target String in a Circular Array",
+  "titleSlug": "shortest-distance-to-target-string-in-a-circular-array",
+  "frontendQuestionId": "2515",
+  "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1979440782",
+  "submittedAt": "2026-04-15T17:57:44.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 18842,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.274Z"
+}

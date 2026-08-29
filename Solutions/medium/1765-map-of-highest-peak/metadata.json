@@ -1,0 +1,31 @@
+{
+  "title": "Map of Highest Peak",
+  "titleSlug": "map-of-highest-peak",
+  "frontendQuestionId": "1765",
+  "leetcodeUrl": "https://leetcode.com/problems/map-of-highest-peak/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1969724394",
+  "submittedAt": "2026-04-05T14:53:26.000Z",
+  "runtimeMs": 81,
+  "memoryKb": 116122,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.289Z"
+}

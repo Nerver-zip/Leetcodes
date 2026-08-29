@@ -1,0 +1,31 @@
+{
+  "title": "XOR After Range Multiplication Queries II",
+  "titleSlug": "xor-after-range-multiplication-queries-ii",
+  "frontendQuestionId": "3655",
+  "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1973715978",
+  "submittedAt": "2026-04-09T16:15:38.000Z",
+  "runtimeMs": 665,
+  "memoryKb": 767590,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.285Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Weighted Subgraph With the Required Paths",
+  "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+  "frontendQuestionId": "2203",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/",
+  "difficulty": "Hard",
+  "topics": [
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1974709175",
+  "submittedAt": "2026-04-10T18:00:51.000Z",
+  "runtimeMs": 200,
+  "memoryKb": 193024,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.283Z"
+}

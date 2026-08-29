@@ -1,0 +1,31 @@
+{
+  "title": "Words Within Two Edits of Dictionary",
+  "titleSlug": "words-within-two-edits-of-dictionary",
+  "frontendQuestionId": "2452",
+  "leetcodeUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1985681672",
+  "submittedAt": "2026-04-22T20:47:09.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12902,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.266Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Cost to Move Between Indices",
+  "titleSlug": "minimum-cost-to-move-between-indices",
+  "frontendQuestionId": "3919",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-move-between-indices/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1993849817",
+  "submittedAt": "2026-05-03T04:12:14.000Z",
+  "runtimeMs": 12,
+  "memoryKb": 240947,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.256Z"
+}

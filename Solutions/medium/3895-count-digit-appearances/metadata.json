@@ -1,0 +1,30 @@
+{
+  "title": "Count Digit Appearances",
+  "titleSlug": "count-digit-appearances",
+  "frontendQuestionId": "3895",
+  "leetcodeUrl": "https://leetcode.com/problems/count-digit-appearances/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1975395716",
+  "submittedAt": "2026-04-11T14:37:38.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 37888,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.281Z"
+}

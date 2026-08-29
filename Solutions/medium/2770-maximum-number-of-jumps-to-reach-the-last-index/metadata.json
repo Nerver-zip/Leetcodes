@@ -1,0 +1,30 @@
+{
+  "title": "Maximum Number of Jumps to Reach the Last Index",
+  "titleSlug": "maximum-number-of-jumps-to-reach-the-last-index",
+  "frontendQuestionId": "2770",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2000038896",
+  "submittedAt": "2026-05-10T21:31:33.000Z",
+  "runtimeMs": 20,
+  "memoryKb": 70144,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T17:49:40.244Z"
+}
