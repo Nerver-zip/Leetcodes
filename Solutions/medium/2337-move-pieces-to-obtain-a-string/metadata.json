@@ -1,0 +1,30 @@
+{
+  "title": "Move Pieces to Obtain a String",
+  "titleSlug": "move-pieces-to-obtain-a-string",
+  "frontendQuestionId": "2337",
+  "leetcodeUrl": "https://leetcode.com/problems/move-pieces-to-obtain-a-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1577331408",
+  "submittedAt": "2025-03-17T23:54:50.000Z",
+  "runtimeMs": 22,
+  "memoryKb": 26010,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:15:36.258Z"
+}
