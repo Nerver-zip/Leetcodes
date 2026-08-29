@@ -1,0 +1,33 @@
+{
+  "title": "Next Greater Numerically Balanced Number",
+  "titleSlug": "next-greater-numerically-balanced-number",
+  "frontendQuestionId": "2048",
+  "leetcodeUrl": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Backtracking",
+    "Counting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1810433699",
+  "submittedAt": "2025-10-24T14:59:07.000Z",
+  "runtimeMs": 58,
+  "memoryKb": 9318,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.249Z"
+}

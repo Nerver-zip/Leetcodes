@@ -1,0 +1,30 @@
+{
+  "title": "Can Make Arithmetic Progression From Sequence",
+  "titleSlug": "can-make-arithmetic-progression-from-sequence",
+  "frontendQuestionId": "1502",
+  "leetcodeUrl": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838035033",
+  "submittedAt": "2025-11-23T23:09:48.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13005,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:19.632Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Ones and Zeroes",
+  "titleSlug": "ones-and-zeroes",
+  "frontendQuestionId": "474",
+  "leetcodeUrl": "https://leetcode.com/problems/ones-and-zeroes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1827023573",
+  "submittedAt": "2025-11-11T15:43:49.000Z",
+  "runtimeMs": 47,
+  "memoryKb": 14234,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.266Z"
+}

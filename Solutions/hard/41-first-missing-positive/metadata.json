@@ -1,0 +1,30 @@
+{
+  "title": "First Missing Positive",
+  "titleSlug": "first-missing-positive",
+  "frontendQuestionId": "41",
+  "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1842045224",
+  "submittedAt": "2025-11-28T21:16:14.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 56320,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:38.425Z"
+}

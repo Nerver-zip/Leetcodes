@@ -1,0 +1,30 @@
+{
+  "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
+  "titleSlug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element",
+  "frontendQuestionId": "3738",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1824342771",
+  "submittedAt": "2025-11-08T17:20:35.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 213197,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.264Z"
+}

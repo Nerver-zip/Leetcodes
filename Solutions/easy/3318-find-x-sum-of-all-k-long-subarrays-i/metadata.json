@@ -1,0 +1,32 @@
+{
+  "title": "Find X-Sum of All K-Long Subarrays I",
+  "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+  "frontendQuestionId": "3318",
+  "leetcodeUrl": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1820986845",
+  "submittedAt": "2025-11-04T23:38:10.000Z",
+  "runtimeMs": 16,
+  "memoryKb": 35942,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.259Z"
+}

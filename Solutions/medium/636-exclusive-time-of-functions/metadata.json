@@ -1,0 +1,30 @@
+{
+  "title": "Exclusive Time of Functions",
+  "titleSlug": "exclusive-time-of-functions",
+  "frontendQuestionId": "636",
+  "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1835681288",
+  "submittedAt": "2025-11-21T04:09:28.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 18432,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.281Z"
+}

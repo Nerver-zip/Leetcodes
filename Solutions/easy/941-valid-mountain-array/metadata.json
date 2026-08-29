@@ -1,0 +1,29 @@
+{
+  "title": "Valid Mountain Array",
+  "titleSlug": "valid-mountain-array",
+  "frontendQuestionId": "941",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-mountain-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1837211191",
+  "submittedAt": "2025-11-23T01:15:28.000Z",
+  "runtimeMs": 16,
+  "memoryKb": 27034,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:16.157Z"
+}

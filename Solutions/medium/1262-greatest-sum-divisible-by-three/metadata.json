@@ -1,0 +1,32 @@
+{
+  "title": "Greatest Sum Divisible by Three",
+  "titleSlug": "greatest-sum-divisible-by-three",
+  "frontendQuestionId": "1262",
+  "leetcodeUrl": "https://leetcode.com/problems/greatest-sum-divisible-by-three/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1837937343",
+  "submittedAt": "2025-11-23T19:25:08.000Z",
+  "runtimeMs": 43,
+  "memoryKb": 43418,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:19.076Z"
+}

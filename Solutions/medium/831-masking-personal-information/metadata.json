@@ -1,0 +1,29 @@
+{
+  "title": "Masking Personal Information",
+  "titleSlug": "masking-personal-information",
+  "frontendQuestionId": "831",
+  "leetcodeUrl": "https://leetcode.com/problems/masking-personal-information/",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838912637",
+  "submittedAt": "2025-11-24T22:30:12.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8192,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:28.184Z"
+}

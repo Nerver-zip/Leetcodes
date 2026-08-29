@@ -1,0 +1,31 @@
+{
+  "title": "Increment Submatrices by One",
+  "titleSlug": "increment-submatrices-by-one",
+  "frontendQuestionId": "2536",
+  "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1829287208",
+  "submittedAt": "2025-11-14T04:19:57.000Z",
+  "runtimeMs": 49,
+  "memoryKb": 88576,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.270Z"
+}

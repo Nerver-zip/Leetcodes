@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Repeating Substring",
+  "titleSlug": "maximum-repeating-substring",
+  "frontendQuestionId": "1668",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "String Matching"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1840669700",
+  "submittedAt": "2025-11-27T02:02:45.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8602,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:32.280Z"
+}

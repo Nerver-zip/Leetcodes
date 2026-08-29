@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+  "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+  "frontendQuestionId": "1526",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1816365484",
+  "submittedAt": "2025-10-30T22:46:30.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 78746,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.255Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Construct Target Array With Multiple Sums",
+  "titleSlug": "construct-target-array-with-multiple-sums",
+  "frontendQuestionId": "1354",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838076843",
+  "submittedAt": "2025-11-24T01:04:33.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 34714,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:21.634Z"
+}

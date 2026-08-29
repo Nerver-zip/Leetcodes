@@ -1,0 +1,29 @@
+{
+  "title": "1-bit and 2-bit Characters",
+  "titleSlug": "1-bit-and-2-bit-characters",
+  "frontendQuestionId": "717",
+  "leetcodeUrl": "https://leetcode.com/problems/1-bit-and-2-bit-characters/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1833301837",
+  "submittedAt": "2025-11-18T15:11:02.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13517,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.273Z"
+}

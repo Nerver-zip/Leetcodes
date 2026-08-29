@@ -1,0 +1,32 @@
+{
+  "title": "Count Number of Trapezoids II",
+  "titleSlug": "count-number-of-trapezoids-ii",
+  "frontendQuestionId": "3625",
+  "leetcodeUrl": "https://leetcode.com/problems/count-number-of-trapezoids-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Geometry"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1846263339",
+  "submittedAt": "2025-12-03T20:44:47.000Z",
+  "runtimeMs": 1139,
+  "memoryKb": 333210,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:42.009Z"
+}

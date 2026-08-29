@@ -1,0 +1,32 @@
+{
+  "title": "How Many Numbers Are Smaller Than the Current Number",
+  "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+  "frontendQuestionId": "1365",
+  "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1835360641",
+  "submittedAt": "2025-11-20T17:36:40.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 14643,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.278Z"
+}

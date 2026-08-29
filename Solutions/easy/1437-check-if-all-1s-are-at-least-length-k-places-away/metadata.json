@@ -1,0 +1,29 @@
+{
+  "title": "Check If All 1's Are at Least Length K Places Away",
+  "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+  "frontendQuestionId": "1437",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1831813320",
+  "submittedAt": "2025-11-17T00:51:25.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 62771,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.272Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Paths in Matrix Whose Sum Is Divisible by K",
+  "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+  "frontendQuestionId": "2435",
+  "leetcodeUrl": "https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1840607390",
+  "submittedAt": "2025-11-26T22:35:49.000Z",
+  "runtimeMs": 274,
+  "memoryKb": 142438,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:30.950Z"
+}

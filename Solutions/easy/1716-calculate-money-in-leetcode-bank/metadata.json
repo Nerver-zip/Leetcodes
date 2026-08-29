@@ -1,0 +1,29 @@
+{
+  "title": "Calculate Money in Leetcode Bank",
+  "titleSlug": "calculate-money-in-leetcode-bank",
+  "frontendQuestionId": "1716",
+  "leetcodeUrl": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1811559091",
+  "submittedAt": "2025-10-25T19:28:06.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 7987,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.252Z"
+}

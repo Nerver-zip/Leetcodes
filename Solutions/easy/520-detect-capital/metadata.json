@@ -1,0 +1,29 @@
+{
+  "title": "Detect Capital",
+  "titleSlug": "detect-capital",
+  "frontendQuestionId": "520",
+  "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838879096",
+  "submittedAt": "2025-11-24T21:05:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8294,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:24.499Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Count Operations to Obtain Zero",
+  "titleSlug": "count-operations-to-obtain-zero",
+  "frontendQuestionId": "2169",
+  "leetcodeUrl": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1825452715",
+  "submittedAt": "2025-11-09T20:57:01.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 8192,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.265Z"
+}

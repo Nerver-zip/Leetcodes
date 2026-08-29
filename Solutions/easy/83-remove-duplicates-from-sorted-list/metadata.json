@@ -1,0 +1,29 @@
+{
+  "title": "Remove Duplicates from Sorted List",
+  "titleSlug": "remove-duplicates-from-sorted-list",
+  "frontendQuestionId": "83",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1841163752",
+  "submittedAt": "2025-11-27T16:31:42.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 16486,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:34.130Z"
+}

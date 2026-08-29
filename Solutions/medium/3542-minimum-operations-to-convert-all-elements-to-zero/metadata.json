@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Operations to Convert All Elements to Zero",
+  "titleSlug": "minimum-operations-to-convert-all-elements-to-zero",
+  "frontendQuestionId": "3542",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1826369757",
+  "submittedAt": "2025-11-10T21:19:13.000Z",
+  "runtimeMs": 58,
+  "memoryKb": 227533,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.266Z"
+}

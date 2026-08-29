@@ -1,0 +1,31 @@
+{
+  "title": "Minimum String Length After Balanced Removals",
+  "titleSlug": "minimum-string-length-after-balanced-removals",
+  "frontendQuestionId": "3746",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-string-length-after-balanced-removals/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1830846643",
+  "submittedAt": "2025-11-16T02:39:54.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 15155,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.272Z"
+}

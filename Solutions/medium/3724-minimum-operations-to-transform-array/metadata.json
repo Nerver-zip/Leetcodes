@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Operations to Transform Array",
+  "titleSlug": "minimum-operations-to-transform-array",
+  "frontendQuestionId": "3724",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-transform-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1811445438",
+  "submittedAt": "2025-10-25T17:04:51.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 259072,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.251Z"
+}

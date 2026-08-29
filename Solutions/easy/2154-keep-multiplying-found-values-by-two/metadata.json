@@ -1,0 +1,32 @@
+{
+  "title": "Keep Multiplying Found Values by Two",
+  "titleSlug": "keep-multiplying-found-values-by-two",
+  "frontendQuestionId": "2154",
+  "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1834650130",
+  "submittedAt": "2025-11-19T21:54:28.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 14234,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.273Z"
+}

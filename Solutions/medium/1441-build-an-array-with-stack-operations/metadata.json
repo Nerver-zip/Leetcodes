@@ -1,0 +1,31 @@
+{
+  "title": "Build an Array With Stack Operations",
+  "titleSlug": "build-an-array-with-stack-operations",
+  "frontendQuestionId": "1441",
+  "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1835503440",
+  "submittedAt": "2025-11-20T20:58:12.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11059,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.279Z"
+}

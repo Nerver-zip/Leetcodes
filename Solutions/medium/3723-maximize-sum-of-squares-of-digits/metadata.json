@@ -1,0 +1,30 @@
+{
+  "title": "Maximize Sum of Squares of Digits",
+  "titleSlug": "maximize-sum-of-squares-of-digits",
+  "frontendQuestionId": "3723",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1811505704",
+  "submittedAt": "2025-10-25T18:13:40.000Z",
+  "runtimeMs": 62,
+  "memoryKb": 63590,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.252Z"
+}

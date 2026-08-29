@@ -1,0 +1,32 @@
+{
+  "title": "Number of Laser Beams in a Bank",
+  "titleSlug": "number-of-laser-beams-in-a-bank",
+  "frontendQuestionId": "2125",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "String",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1812676830",
+  "submittedAt": "2025-10-27T00:35:47.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 27955,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.254Z"
+}

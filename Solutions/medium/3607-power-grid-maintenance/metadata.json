@@ -1,0 +1,36 @@
+{
+  "title": "Power Grid Maintenance",
+  "titleSlug": "power-grid-maintenance",
+  "frontendQuestionId": "3607",
+  "leetcodeUrl": "https://leetcode.com/problems/power-grid-maintenance/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1822598631",
+  "submittedAt": "2025-11-06T16:50:49.000Z",
+  "runtimeMs": 276,
+  "memoryKb": 361574,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.260Z"
+}

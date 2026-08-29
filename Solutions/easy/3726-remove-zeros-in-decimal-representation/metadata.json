@@ -1,0 +1,30 @@
+{
+  "title": "Remove Zeros in Decimal Representation",
+  "titleSlug": "remove-zeros-in-decimal-representation",
+  "frontendQuestionId": "3726",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-zeros-in-decimal-representation/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1811742463",
+  "submittedAt": "2025-10-26T02:35:26.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9421,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.253Z"
+}

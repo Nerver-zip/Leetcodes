@@ -1,0 +1,31 @@
+{
+  "title": "Count Unguarded Cells in the Grid",
+  "titleSlug": "count-unguarded-cells-in-the-grid",
+  "frontendQuestionId": "2257",
+  "leetcodeUrl": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1819053807",
+  "submittedAt": "2025-11-02T23:43:18.000Z",
+  "runtimeMs": 58,
+  "memoryKb": 177254,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.257Z"
+}

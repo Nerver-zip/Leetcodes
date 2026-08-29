@@ -1,0 +1,30 @@
+{
+  "title": "Copy List with Random Pointer",
+  "titleSlug": "copy-list-with-random-pointer",
+  "frontendQuestionId": "138",
+  "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1841984133",
+  "submittedAt": "2025-11-28T18:54:11.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 15667,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:37.504Z"
+}

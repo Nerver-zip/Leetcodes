@@ -1,0 +1,30 @@
+{
+  "title": "Count the Number of Substrings With Dominant Ones",
+  "titleSlug": "count-the-number-of-substrings-with-dominant-ones",
+  "frontendQuestionId": "3234",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1830019524",
+  "submittedAt": "2025-11-15T02:22:15.000Z",
+  "runtimeMs": 391,
+  "memoryKb": 14234,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.270Z"
+}

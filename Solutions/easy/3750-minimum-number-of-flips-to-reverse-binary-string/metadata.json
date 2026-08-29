@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Number of Flips to Reverse Binary String",
+  "titleSlug": "minimum-number-of-flips-to-reverse-binary-string",
+  "frontendQuestionId": "3750",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Two Pointers",
+    "String",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1836891574",
+  "submittedAt": "2025-11-22T15:28:04.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10138,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.285Z"
+}

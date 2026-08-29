@@ -1,0 +1,33 @@
+{
+  "title": "Repeated String Match",
+  "titleSlug": "repeated-string-match",
+  "frontendQuestionId": "686",
+  "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm",
+    "Boyer–Moore String-Search Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1839697200",
+  "submittedAt": "2025-11-25T19:07:47.000Z",
+  "runtimeMs": 14,
+  "memoryKb": 10138,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:29.004Z"
+}

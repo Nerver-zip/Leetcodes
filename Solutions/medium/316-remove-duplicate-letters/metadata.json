@@ -1,0 +1,32 @@
+{
+  "title": "Remove Duplicate Letters",
+  "titleSlug": "remove-duplicate-letters",
+  "frontendQuestionId": "316",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1837233870",
+  "submittedAt": "2025-11-23T02:25:18.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9216,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:16.545Z"
+}

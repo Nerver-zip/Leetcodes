@@ -1,0 +1,29 @@
+{
+  "title": "Palindrome Number",
+  "titleSlug": "palindrome-number",
+  "frontendQuestionId": "9",
+  "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838040642",
+  "submittedAt": "2025-11-23T23:26:32.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 11162,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:20.629Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Make Array Elements Equal to Zero",
+  "titleSlug": "make-array-elements-equal-to-zero",
+  "frontendQuestionId": "3354",
+  "leetcodeUrl": "https://leetcode.com/problems/make-array-elements-equal-to-zero/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1814394611",
+  "submittedAt": "2025-10-28T19:26:43.000Z",
+  "runtimeMs": 193,
+  "memoryKb": 24883,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.254Z"
+}

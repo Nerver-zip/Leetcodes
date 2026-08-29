@@ -1,0 +1,32 @@
+{
+  "title": "Unique Length-3 Palindromic Subsequences",
+  "titleSlug": "unique-length-3-palindromic-subsequences",
+  "frontendQuestionId": "1930",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1836181830",
+  "submittedAt": "2025-11-21T17:35:52.000Z",
+  "runtimeMs": 1145,
+  "memoryKb": 17613,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.281Z"
+}

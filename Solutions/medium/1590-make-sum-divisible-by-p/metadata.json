@@ -1,0 +1,31 @@
+{
+  "title": "Make Sum Divisible by P",
+  "titleSlug": "make-sum-divisible-by-p",
+  "frontendQuestionId": "1590",
+  "leetcodeUrl": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1843586154",
+  "submittedAt": "2025-11-30T18:40:20.000Z",
+  "runtimeMs": 86,
+  "memoryKb": 89907,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:40.709Z"
+}

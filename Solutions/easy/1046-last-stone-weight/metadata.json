@@ -1,0 +1,30 @@
+{
+  "title": "Last Stone Weight",
+  "titleSlug": "last-stone-weight",
+  "frontendQuestionId": "1046",
+  "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1837729457",
+  "submittedAt": "2025-11-23T14:39:56.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10035,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:18.252Z"
+}

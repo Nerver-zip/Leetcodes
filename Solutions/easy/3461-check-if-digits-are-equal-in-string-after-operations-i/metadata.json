@@ -1,0 +1,33 @@
+{
+  "title": "Check If Digits Are Equal in String After Operations I",
+  "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+  "frontendQuestionId": "3461",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Simulation",
+    "Combinatorics",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1809017069",
+  "submittedAt": "2025-10-23T02:02:48.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 10240,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.249Z"
+}

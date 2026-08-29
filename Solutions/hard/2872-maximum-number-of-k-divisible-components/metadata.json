@@ -1,0 +1,30 @@
+{
+  "title": "Maximum Number of K-Divisible Components",
+  "titleSlug": "maximum-number-of-k-divisible-components",
+  "frontendQuestionId": "2872",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-k-divisible-components/",
+  "difficulty": "Hard",
+  "topics": [
+    "Tree",
+    "Depth-First Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1841809146",
+  "submittedAt": "2025-11-28T14:26:42.000Z",
+  "runtimeMs": 104,
+  "memoryKb": 177357,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:36.581Z"
+}

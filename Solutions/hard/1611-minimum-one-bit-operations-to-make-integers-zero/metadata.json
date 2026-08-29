@@ -1,0 +1,33 @@
+{
+  "title": "Minimum One Bit Operations to Make Integers Zero",
+  "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+  "frontendQuestionId": "1611",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Recursion",
+    "Memoization"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1823725670",
+  "submittedAt": "2025-11-08T03:03:30.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8294,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.263Z"
+}

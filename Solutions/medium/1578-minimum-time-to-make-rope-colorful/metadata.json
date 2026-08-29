@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Time to Make Rope Colorful",
+  "titleSlug": "minimum-time-to-make-rope-colorful",
+  "frontendQuestionId": "1578",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1819109300",
+  "submittedAt": "2025-11-03T01:57:19.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 102298,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.258Z"
+}

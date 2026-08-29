@@ -1,0 +1,29 @@
+{
+  "title": "Reverse Integer",
+  "titleSlug": "reverse-integer",
+  "frontendQuestionId": "7",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838047133",
+  "submittedAt": "2025-11-23T23:45:45.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9216,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:21.121Z"
+}

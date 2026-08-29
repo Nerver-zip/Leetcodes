@@ -1,0 +1,31 @@
+{
+  "title": "Lexicographically Smallest String After Reverse",
+  "titleSlug": "lexicographically-smallest-string-after-reverse",
+  "frontendQuestionId": "3722",
+  "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "Binary Search",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1811256701",
+  "submittedAt": "2025-10-25T14:39:02.000Z",
+  "runtimeMs": 478,
+  "memoryKb": 625766,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.251Z"
+}

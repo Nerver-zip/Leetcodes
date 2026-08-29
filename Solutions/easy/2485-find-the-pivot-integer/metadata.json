@@ -1,0 +1,30 @@
+{
+  "title": "Find the Pivot Integer",
+  "titleSlug": "find-the-pivot-integer",
+  "frontendQuestionId": "2485",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-pivot-integer/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838039503",
+  "submittedAt": "2025-11-23T23:22:59.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8397,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:20.012Z"
+}

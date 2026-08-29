@@ -1,0 +1,29 @@
+{
+  "title": "License Key Formatting",
+  "titleSlug": "license-key-formatting",
+  "frontendQuestionId": "482",
+  "leetcodeUrl": "https://leetcode.com/problems/license-key-formatting/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1838890098",
+  "submittedAt": "2025-11-24T21:30:58.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 11264,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:26.475Z"
+}

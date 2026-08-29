@@ -1,0 +1,32 @@
+{
+  "title": "Repeated Substring Pattern",
+  "titleSlug": "repeated-substring-pattern",
+  "frontendQuestionId": "459",
+  "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1839672090",
+  "submittedAt": "2025-11-25T18:32:07.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 16282,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:28.617Z"
+}

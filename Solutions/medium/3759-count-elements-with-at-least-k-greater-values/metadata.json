@@ -1,0 +1,33 @@
+{
+  "title": "Count Elements With at Least K Greater Values",
+  "titleSlug": "count-elements-with-at-least-k-greater-values",
+  "frontendQuestionId": "3759",
+  "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Sorting",
+    "Quickselect"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1842916639",
+  "submittedAt": "2025-11-30T02:51:50.000Z",
+  "runtimeMs": 119,
+  "memoryKb": 178176,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:39.585Z"
+}

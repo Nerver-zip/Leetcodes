@@ -1,0 +1,31 @@
+{
+  "title": "Daily Temperatures",
+  "titleSlug": "daily-temperatures",
+  "frontendQuestionId": "739",
+  "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1836406903",
+  "submittedAt": "2025-11-22T03:00:53.000Z",
+  "runtimeMs": 32,
+  "memoryKb": 110080,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.284Z"
+}

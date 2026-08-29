@@ -1,0 +1,32 @@
+{
+  "title": "Set Mismatch",
+  "titleSlug": "set-mismatch",
+  "frontendQuestionId": "645",
+  "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1835356505",
+  "submittedAt": "2025-11-20T17:32:14.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 26419,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.277Z"
+}

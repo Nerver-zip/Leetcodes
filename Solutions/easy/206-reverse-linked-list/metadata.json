@@ -1,0 +1,30 @@
+{
+  "title": "Reverse Linked List",
+  "titleSlug": "reverse-linked-list",
+  "frontendQuestionId": "206",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1841232764",
+  "submittedAt": "2025-11-27T17:59:22.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13722,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:35.509Z"
+}

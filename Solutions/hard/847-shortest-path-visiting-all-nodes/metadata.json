@@ -1,0 +1,33 @@
+{
+  "title": "Shortest Path Visiting All Nodes",
+  "titleSlug": "shortest-path-visiting-all-nodes",
+  "frontendQuestionId": "847",
+  "leetcodeUrl": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/",
+  "difficulty": "Hard",
+  "topics": [
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Bitmask"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1827155300",
+  "submittedAt": "2025-11-11T17:57:47.000Z",
+  "runtimeMs": 34,
+  "memoryKb": 17818,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.267Z"
+}

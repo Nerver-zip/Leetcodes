@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Moves to Equal Array Elements III",
+  "titleSlug": "minimum-moves-to-equal-array-elements-iii",
+  "frontendQuestionId": "3736",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1824123815",
+  "submittedAt": "2025-11-08T14:33:09.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 32461,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.264Z"
+}

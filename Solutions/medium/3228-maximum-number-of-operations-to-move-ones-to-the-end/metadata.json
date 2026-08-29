@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Number of Operations to Move Ones to the End",
+  "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+  "frontendQuestionId": "3228",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Greedy",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1828929648",
+  "submittedAt": "2025-11-13T17:10:32.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 16384,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.268Z"
+}

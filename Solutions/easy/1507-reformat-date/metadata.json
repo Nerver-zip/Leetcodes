@@ -1,0 +1,29 @@
+{
+  "title": "Reformat Date",
+  "titleSlug": "reformat-date",
+  "frontendQuestionId": "1507",
+  "leetcodeUrl": "https://leetcode.com/problems/reformat-date/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1840662772",
+  "submittedAt": "2025-11-27T01:40:52.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8499,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:31.734Z"
+}

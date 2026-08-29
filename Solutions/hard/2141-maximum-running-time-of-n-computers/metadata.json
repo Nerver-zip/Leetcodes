@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Running Time of N Computers",
+  "titleSlug": "maximum-running-time-of-n-computers",
+  "frontendQuestionId": "2141",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-running-time-of-n-computers/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1844201433",
+  "submittedAt": "2025-12-01T14:27:16.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 61235,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:41.140Z"
+}

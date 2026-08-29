@@ -1,0 +1,30 @@
+{
+  "title": "Two Sum",
+  "titleSlug": "two-sum",
+  "frontendQuestionId": "1",
+  "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1841823118",
+  "submittedAt": "2025-11-28T14:50:17.000Z",
+  "runtimeMs": 8,
+  "memoryKb": 16384,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:36.991Z"
+}

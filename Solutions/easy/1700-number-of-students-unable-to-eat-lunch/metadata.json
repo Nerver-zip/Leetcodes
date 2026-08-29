@@ -1,0 +1,32 @@
+{
+  "title": "Number of Students Unable to Eat Lunch",
+  "titleSlug": "number-of-students-unable-to-eat-lunch",
+  "frontendQuestionId": "1700",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Stack",
+    "Queue",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1837377110",
+  "submittedAt": "2025-11-23T04:58:17.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11981,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:17.015Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Alternating Sum of Squares",
+  "titleSlug": "maximum-alternating-sum-of-squares",
+  "frontendQuestionId": "3727",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1811759836",
+  "submittedAt": "2025-10-26T02:45:43.000Z",
+  "runtimeMs": 224,
+  "memoryKb": 254259,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.253Z"
+}

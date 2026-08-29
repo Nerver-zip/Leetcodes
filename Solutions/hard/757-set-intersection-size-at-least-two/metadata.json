@@ -1,0 +1,31 @@
+{
+  "title": "Set Intersection Size At Least Two",
+  "titleSlug": "set-intersection-size-at-least-two",
+  "frontendQuestionId": "757",
+  "leetcodeUrl": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1835253429",
+  "submittedAt": "2025-11-20T15:36:49.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 22221,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.274Z"
+}

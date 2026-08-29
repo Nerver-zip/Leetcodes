@@ -1,0 +1,30 @@
+{
+  "title": "Smallest Number With All Set Bits",
+  "titleSlug": "smallest-number-with-all-set-bits",
+  "frontendQuestionId": "3370",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-number-with-all-set-bits/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1815265892",
+  "submittedAt": "2025-10-29T17:30:27.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8397,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.255Z"
+}

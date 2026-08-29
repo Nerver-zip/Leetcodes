@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Number of Eaten Apples",
+  "titleSlug": "maximum-number-of-eaten-apples",
+  "frontendQuestionId": "1705",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-eaten-apples/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1840658087",
+  "submittedAt": "2025-11-27T01:25:49.000Z",
+  "runtimeMs": 62,
+  "memoryKb": 52224,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:31.354Z"
+}

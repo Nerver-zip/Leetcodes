@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+  "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+  "frontendQuestionId": "2654",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Number Theory",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1827488455",
+  "submittedAt": "2025-11-12T04:24:45.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 32358,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:17:15.268Z"
+}
