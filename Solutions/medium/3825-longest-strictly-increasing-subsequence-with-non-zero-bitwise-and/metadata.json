@@ -1,0 +1,32 @@
+{
+  "title": "Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND",
+  "titleSlug": "longest-strictly-increasing-subsequence-with-non-zero-bitwise-and",
+  "frontendQuestionId": "3825",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1903953819",
+  "submittedAt": "2026-02-01T05:10:16.000Z",
+  "runtimeMs": 439,
+  "memoryKb": 183706,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:56.508Z"
+}
