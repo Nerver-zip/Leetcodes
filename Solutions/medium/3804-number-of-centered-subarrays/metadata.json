@@ -1,0 +1,31 @@
+{
+  "title": "Number of Centered Subarrays",
+  "titleSlug": "number-of-centered-subarrays",
+  "frontendQuestionId": "3804",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-centered-subarrays/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1881284633",
+  "submittedAt": "2026-01-11T02:54:12.000Z",
+  "runtimeMs": 219,
+  "memoryKb": 88678,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:37.060Z"
+}

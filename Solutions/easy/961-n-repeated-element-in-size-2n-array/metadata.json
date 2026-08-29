@@ -1,0 +1,31 @@
+{
+  "title": "N-Repeated Element in Size 2N Array",
+  "titleSlug": "n-repeated-element-in-size-2n-array",
+  "frontendQuestionId": "961",
+  "leetcodeUrl": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Pigeonhole Principle"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1872372259",
+  "submittedAt": "2026-01-02T18:16:17.000Z",
+  "runtimeMs": 27,
+  "memoryKb": 35021,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:30.057Z"
+}

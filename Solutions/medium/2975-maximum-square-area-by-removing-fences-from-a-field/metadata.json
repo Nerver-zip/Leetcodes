@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Square Area by Removing Fences From a Field",
+  "titleSlug": "maximum-square-area-by-removing-fences-from-a-field",
+  "frontendQuestionId": "2975",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1887216457",
+  "submittedAt": "2026-01-16T21:15:45.000Z",
+  "runtimeMs": 835,
+  "memoryKb": 359322,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:41.938Z"
+}

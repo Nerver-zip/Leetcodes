@@ -1,0 +1,31 @@
+{
+  "title": "Longest Common Subsequence",
+  "titleSlug": "longest-common-subsequence",
+  "frontendQuestionId": "1143",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1881146635",
+  "submittedAt": "2026-01-10T22:02:16.000Z",
+  "runtimeMs": 26,
+  "memoryKb": 28160,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:35.670Z"
+}

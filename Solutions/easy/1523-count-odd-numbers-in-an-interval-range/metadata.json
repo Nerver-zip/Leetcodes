@@ -1,0 +1,29 @@
+{
+  "title": "Count Odd Numbers in an Interval Range",
+  "titleSlug": "count-odd-numbers-in-an-interval-range",
+  "frontendQuestionId": "1523",
+  "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1849355165",
+  "submittedAt": "2025-12-07T14:39:44.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 7885,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.446Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Magic Squares In Grid",
+  "titleSlug": "magic-squares-in-grid",
+  "frontendQuestionId": "840",
+  "leetcodeUrl": "https://leetcode.com/problems/magic-squares-in-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1869604624",
+  "submittedAt": "2025-12-30T17:23:16.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11571,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:26.656Z"
+}

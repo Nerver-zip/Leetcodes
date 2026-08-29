@@ -1,0 +1,36 @@
+{
+  "title": "Sum of Scores of Built Strings",
+  "titleSlug": "sum-of-scores-of-built-strings",
+  "frontendQuestionId": "2223",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-scores-of-built-strings/",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Binary Search",
+    "Rolling Hash",
+    "Suffix Array",
+    "String Matching",
+    "Hash Function",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1893083364",
+  "submittedAt": "2026-01-22T09:13:57.000Z",
+  "runtimeMs": 258,
+  "memoryKb": 34099,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:48.775Z"
+}

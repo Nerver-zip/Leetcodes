@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Absolute Difference",
+  "titleSlug": "minimum-absolute-difference",
+  "frontendQuestionId": "1200",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1897699690",
+  "submittedAt": "2026-01-26T14:32:36.000Z",
+  "runtimeMs": 13,
+  "memoryKb": 37478,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:51.337Z"
+}

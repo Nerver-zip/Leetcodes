@@ -1,0 +1,31 @@
+{
+  "title": "Max Dot Product of Two Subsequences",
+  "titleSlug": "max-dot-product-of-two-subsequences",
+  "frontendQuestionId": "1458",
+  "leetcodeUrl": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1879225841",
+  "submittedAt": "2026-01-08T23:03:13.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 18022,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:34.864Z"
+}

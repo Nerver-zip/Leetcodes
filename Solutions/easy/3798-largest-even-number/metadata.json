@@ -1,0 +1,29 @@
+{
+  "title": "Largest Even Number",
+  "titleSlug": "largest-even-number",
+  "frontendQuestionId": "3798",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-even-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1873705470",
+  "submittedAt": "2026-01-04T03:19:59.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8909,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:31.795Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Product of Splitted Binary Tree",
+  "titleSlug": "maximum-product-of-splitted-binary-tree",
+  "frontendQuestionId": "1339",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1878110936",
+  "submittedAt": "2026-01-07T22:17:35.000Z",
+  "runtimeMs": 52,
+  "memoryKb": 109978,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:34.439Z"
+}

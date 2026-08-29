@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Subarray",
+  "titleSlug": "maximum-subarray",
+  "frontendQuestionId": "53",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1889270129",
+  "submittedAt": "2026-01-18T20:37:16.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 76390,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:44.834Z"
+}

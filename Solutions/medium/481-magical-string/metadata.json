@@ -1,0 +1,30 @@
+{
+  "title": "Magical String",
+  "titleSlug": "magical-string",
+  "frontendQuestionId": "481",
+  "leetcodeUrl": "https://leetcode.com/problems/magical-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1891701528",
+  "submittedAt": "2026-01-21T04:23:08.000Z",
+  "runtimeMs": 2,
+  "memoryKb": 10240,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:46.540Z"
+}

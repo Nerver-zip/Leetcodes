@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Subarray Length With Distinct Sum At Least K",
+  "titleSlug": "minimum-subarray-length-with-distinct-sum-at-least-k",
+  "frontendQuestionId": "3795",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1873356074",
+  "submittedAt": "2026-01-03T16:32:46.000Z",
+  "runtimeMs": 220,
+  "memoryKb": 291942,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:30.905Z"
+}

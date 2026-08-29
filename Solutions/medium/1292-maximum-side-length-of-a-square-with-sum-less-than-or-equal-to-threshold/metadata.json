@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+  "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+  "frontendQuestionId": "1292",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1890011057",
+  "submittedAt": "2026-01-19T15:32:50.000Z",
+  "runtimeMs": 10,
+  "memoryKb": 33587,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:45.248Z"
+}

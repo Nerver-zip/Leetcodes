@@ -1,0 +1,32 @@
+{
+  "title": "Minimize Maximum Pair Sum in Array",
+  "titleSlug": "minimize-maximum-pair-sum-in-array",
+  "frontendQuestionId": "1877",
+  "leetcodeUrl": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1895778201",
+  "submittedAt": "2026-01-24T21:51:32.000Z",
+  "runtimeMs": 170,
+  "memoryKb": 102298,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:50.413Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Apple Redistribution into Boxes",
+  "titleSlug": "apple-redistribution-into-boxes",
+  "frontendQuestionId": "3074",
+  "leetcodeUrl": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1863786101",
+  "submittedAt": "2025-12-24T03:03:51.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 33997,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.457Z"
+}

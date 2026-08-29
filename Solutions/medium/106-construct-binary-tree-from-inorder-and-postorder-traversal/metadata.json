@@ -1,0 +1,33 @@
+{
+  "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+  "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+  "frontendQuestionId": "106",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1867961455",
+  "submittedAt": "2025-12-28T23:58:27.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 27546,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.460Z"
+}

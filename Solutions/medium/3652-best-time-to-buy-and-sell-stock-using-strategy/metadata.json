@@ -1,0 +1,31 @@
+{
+  "title": "Best Time to Buy and Sell Stock using Strategy",
+  "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
+  "frontendQuestionId": "3652",
+  "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1859289624",
+  "submittedAt": "2025-12-18T21:33:40.000Z",
+  "runtimeMs": 16,
+  "memoryKb": 336077,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.454Z"
+}

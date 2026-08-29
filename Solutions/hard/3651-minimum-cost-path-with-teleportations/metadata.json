@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Cost Path with Teleportations",
+  "titleSlug": "minimum-cost-path-with-teleportations",
+  "frontendQuestionId": "3651",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-teleportations/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1900342943",
+  "submittedAt": "2026-01-28T23:59:17.000Z",
+  "runtimeMs": 2229,
+  "memoryKb": 347546,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:52.360Z"
+}

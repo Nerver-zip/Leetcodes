@@ -1,0 +1,30 @@
+{
+  "title": "Count Square Sum Triples",
+  "titleSlug": "count-square-sum-triples",
+  "frontendQuestionId": "1925",
+  "leetcodeUrl": "https://leetcode.com/problems/count-square-sum-triples/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1850540820",
+  "submittedAt": "2025-12-08T21:44:33.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 9216,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.447Z"
+}

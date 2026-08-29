@@ -1,0 +1,30 @@
+{
+  "title": "Maximize Area of Square Hole in Grid",
+  "titleSlug": "maximize-area-of-square-hole-in-grid",
+  "frontendQuestionId": "2943",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1885935214",
+  "submittedAt": "2026-01-15T15:22:10.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 32768,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:41.474Z"
+}

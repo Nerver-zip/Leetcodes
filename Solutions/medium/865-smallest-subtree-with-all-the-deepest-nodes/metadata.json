@@ -1,0 +1,36 @@
+{
+  "title": "Smallest Subtree with all the Deepest Nodes",
+  "titleSlug": "smallest-subtree-with-all-the-deepest-nodes",
+  "frontendQuestionId": "865",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree",
+    "Binary Lifting",
+    "Lowest Common Ancestor",
+    "DP on Trees"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1880217741",
+  "submittedAt": "2026-01-09T23:11:46.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 16589,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:35.249Z"
+}

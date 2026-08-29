@@ -1,0 +1,31 @@
+{
+  "title": "Reverse Letters Then Special Characters in a String",
+  "titleSlug": "reverse-letters-then-special-characters-in-a-string",
+  "frontendQuestionId": "3823",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1903084059",
+  "submittedAt": "2026-01-31T14:34:31.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9318,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:53.630Z"
+}

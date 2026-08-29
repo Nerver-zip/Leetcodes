@@ -1,0 +1,36 @@
+{
+  "title": "Sort an Array",
+  "titleSlug": "sort-an-array",
+  "frontendQuestionId": "912",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1853010883",
+  "submittedAt": "2025-12-11T15:19:56.000Z",
+  "runtimeMs": 24,
+  "memoryKb": 73011,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.450Z"
+}

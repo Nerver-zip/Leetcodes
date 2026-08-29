@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Matrix Sum",
+  "titleSlug": "maximum-matrix-sum",
+  "frontendQuestionId": "1975",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-matrix-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1875786510",
+  "submittedAt": "2026-01-05T21:43:33.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 39936,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:33.313Z"
+}

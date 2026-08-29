@@ -1,0 +1,35 @@
+{
+  "title": "Minimum Pair Removal to Sort Array II",
+  "titleSlug": "minimum-pair-removal-to-sort-array-ii",
+  "frontendQuestionId": "3510",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Heap (Priority Queue)",
+    "Simulation",
+    "Doubly-Linked List",
+    "Ordered Set"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1894693225",
+  "submittedAt": "2026-01-23T19:20:51.000Z",
+  "runtimeMs": 951,
+  "memoryKb": 284365,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:49.903Z"
+}

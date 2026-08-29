@@ -1,0 +1,30 @@
+{
+  "title": "Plus One",
+  "titleSlug": "plus-one",
+  "frontendQuestionId": "66",
+  "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1870646708",
+  "submittedAt": "2026-01-01T02:18:20.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11776,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:28.429Z"
+}

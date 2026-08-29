@@ -1,0 +1,35 @@
+{
+  "title": "Shortest Palindrome",
+  "titleSlug": "shortest-palindrome",
+  "frontendQuestionId": "214",
+  "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Rolling Hash",
+    "String Matching",
+    "Hash Function",
+    "Manacher",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1892633762",
+  "submittedAt": "2026-01-21T21:26:17.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13312,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:47.854Z"
+}

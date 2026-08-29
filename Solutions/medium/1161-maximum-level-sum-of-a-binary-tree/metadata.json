@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Level Sum of a Binary Tree",
+  "titleSlug": "maximum-level-sum-of-a-binary-tree",
+  "frontendQuestionId": "1161",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1876920728",
+  "submittedAt": "2026-01-06T20:39:26.000Z",
+  "runtimeMs": 5,
+  "memoryKb": 112026,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:33.926Z"
+}

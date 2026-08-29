@@ -1,0 +1,32 @@
+{
+  "title": "Separate Squares II",
+  "titleSlug": "separate-squares-ii",
+  "frontendQuestionId": "3454",
+  "leetcodeUrl": "https://leetcode.com/problems/separate-squares-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Segment Tree",
+    "Sweep Line"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1884860012",
+  "submittedAt": "2026-01-14T13:57:09.000Z",
+  "runtimeMs": 275,
+  "memoryKb": 143360,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:40.992Z"
+}

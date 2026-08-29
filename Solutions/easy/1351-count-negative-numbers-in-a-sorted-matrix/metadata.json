@@ -1,0 +1,31 @@
+{
+  "title": "Count Negative Numbers in a Sorted Matrix",
+  "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+  "frontendQuestionId": "1351",
+  "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1867856670",
+  "submittedAt": "2025-12-28T19:27:39.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 14541,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.460Z"
+}

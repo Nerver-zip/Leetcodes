@@ -1,0 +1,30 @@
+{
+  "title": "Number of Ways to Paint N × 3 Grid",
+  "titleSlug": "number-of-ways-to-paint-n-3-grid",
+  "frontendQuestionId": "1411",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/",
+  "difficulty": "Hard",
+  "topics": [
+    "Dynamic Programming",
+    "Graph Coloring"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1873563491",
+  "submittedAt": "2026-01-03T20:30:45.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8090,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:31.369Z"
+}

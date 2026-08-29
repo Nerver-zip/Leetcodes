@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Profit from Trading Stocks with Discounts",
+  "titleSlug": "maximum-profit-from-trading-stocks-with-discounts",
+  "frontendQuestionId": "3562",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1857567712",
+  "submittedAt": "2025-12-16T23:44:53.000Z",
+  "runtimeMs": 316,
+  "memoryKb": 107725,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.453Z"
+}

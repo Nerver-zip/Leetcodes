@@ -1,0 +1,32 @@
+{
+  "title": "Count the Number of Computer Unlocking Permutations",
+  "titleSlug": "count-the-number-of-computer-unlocking-permutations",
+  "frontendQuestionId": "3577",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Brainteaser",
+    "Combinatorics"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1852014334",
+  "submittedAt": "2025-12-10T12:59:41.000Z",
+  "runtimeMs": 9,
+  "memoryKb": 98099,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.449Z"
+}

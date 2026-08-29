@@ -1,0 +1,32 @@
+{
+  "title": "Minimum Cost to Convert String I",
+  "titleSlug": "minimum-cost-to-convert-string-i",
+  "frontendQuestionId": "2976",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Graph Theory",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1901453440",
+  "submittedAt": "2026-01-29T23:50:50.000Z",
+  "runtimeMs": 312,
+  "memoryKb": 160256,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:52.787Z"
+}

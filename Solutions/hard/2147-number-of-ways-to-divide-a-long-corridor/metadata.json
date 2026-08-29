@@ -1,0 +1,31 @@
+{
+  "title": "Number of Ways to Divide a Long Corridor",
+  "titleSlug": "number-of-ways-to-divide-a-long-corridor",
+  "frontendQuestionId": "2147",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1855775480",
+  "submittedAt": "2025-12-14T23:38:44.000Z",
+  "runtimeMs": 38,
+  "memoryKb": 84480,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.452Z"
+}

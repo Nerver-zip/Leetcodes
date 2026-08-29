@@ -1,0 +1,31 @@
+{
+  "title": "Contains Duplicate II",
+  "titleSlug": "contains-duplicate-ii",
+  "frontendQuestionId": "219",
+  "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1892167585",
+  "submittedAt": "2026-01-21T13:32:24.000Z",
+  "runtimeMs": 75,
+  "memoryKb": 96051,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:46.955Z"
+}

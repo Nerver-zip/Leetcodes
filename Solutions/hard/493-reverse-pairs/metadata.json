@@ -1,0 +1,36 @@
+{
+  "title": "Reverse Pairs",
+  "titleSlug": "reverse-pairs",
+  "frontendQuestionId": "493",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Ordered Set",
+    "Treap"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1867921414",
+  "submittedAt": "2025-12-28T21:51:52.000Z",
+  "runtimeMs": 677,
+  "memoryKb": 227942,
+  "complexity": {
+    "time": "O(log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.460Z"
+}

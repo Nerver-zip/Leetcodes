@@ -1,0 +1,32 @@
+{
+  "title": "Pyramid Transition Matrix",
+  "titleSlug": "pyramid-transition-matrix",
+  "frontendQuestionId": "756",
+  "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1868595925",
+  "submittedAt": "2025-12-29T16:19:51.000Z",
+  "runtimeMs": 103,
+  "memoryKb": 20275,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.461Z"
+}

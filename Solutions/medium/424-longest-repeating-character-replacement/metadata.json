@@ -1,0 +1,31 @@
+{
+  "title": "Longest Repeating Character Replacement",
+  "titleSlug": "longest-repeating-character-replacement",
+  "frontendQuestionId": "424",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1892304736",
+  "submittedAt": "2026-01-21T15:46:51.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11264,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:47.370Z"
+}

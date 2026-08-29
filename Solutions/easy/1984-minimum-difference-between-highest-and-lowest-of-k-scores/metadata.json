@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Difference Between Highest and Lowest of K Scores",
+  "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+  "frontendQuestionId": "1984",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sliding Window",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1896589651",
+  "submittedAt": "2026-01-25T14:44:46.000Z",
+  "runtimeMs": 1,
+  "memoryKb": 17715,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:50.926Z"
+}

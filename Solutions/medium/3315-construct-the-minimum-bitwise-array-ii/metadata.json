@@ -1,0 +1,30 @@
+{
+  "title": "Construct the Minimum Bitwise Array II",
+  "titleSlug": "construct-the-minimum-bitwise-array-ii",
+  "frontendQuestionId": "3315",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1891570977",
+  "submittedAt": "2026-01-21T00:16:36.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 28672,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:46.134Z"
+}

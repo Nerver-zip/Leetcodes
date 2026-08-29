@@ -1,0 +1,33 @@
+{
+  "title": "Word Squares II",
+  "titleSlug": "word-squares-ii",
+  "frontendQuestionId": "3799",
+  "leetcodeUrl": "https://leetcode.com/problems/word-squares-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Sorting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1873729629",
+  "submittedAt": "2026-01-04T03:43:02.000Z",
+  "runtimeMs": 64,
+  "memoryKb": 60621,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:32.288Z"
+}

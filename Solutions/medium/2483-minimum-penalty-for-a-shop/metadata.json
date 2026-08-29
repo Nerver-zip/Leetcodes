@@ -1,0 +1,30 @@
+{
+  "title": "Minimum Penalty for a Shop",
+  "titleSlug": "minimum-penalty-for-a-shop",
+  "frontendQuestionId": "2483",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1865975664",
+  "submittedAt": "2025-12-26T16:30:05.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 18125,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.458Z"
+}

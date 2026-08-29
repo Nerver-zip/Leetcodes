@@ -1,0 +1,32 @@
+{
+  "title": "Four Divisors",
+  "titleSlug": "four-divisors",
+  "frontendQuestionId": "1390",
+  "leetcodeUrl": "https://leetcode.com/problems/four-divisors/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Prime Factorization",
+    "Sieve Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1874718040",
+  "submittedAt": "2026-01-04T23:39:26.000Z",
+  "runtimeMs": 22,
+  "memoryKb": 27853,
+  "complexity": {
+    "time": "Unknown",
+    "space": "Unknown",
+    "source": "unavailable",
+    "confidence": "unknown",
+    "explanation": "Source code was not available for complexity analysis."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:32.904Z"
+}

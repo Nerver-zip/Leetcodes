@@ -1,0 +1,30 @@
+{
+  "title": "Vowel-Consonant Score",
+  "titleSlug": "vowel-consonant-score",
+  "frontendQuestionId": "3813",
+  "leetcodeUrl": "https://leetcode.com/problems/vowel-consonant-score/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1888362644",
+  "submittedAt": "2026-01-18T02:34:54.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9421,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:43.993Z"
+}

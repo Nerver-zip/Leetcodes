@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Sum of Three Numbers Divisible by Three",
+  "titleSlug": "maximum-sum-of-three-numbers-divisible-by-three",
+  "frontendQuestionId": "3780",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1860722390",
+  "submittedAt": "2025-12-20T15:15:12.000Z",
+  "runtimeMs": 63,
+  "memoryKb": 296653,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.455Z"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Number of Smooth Descent Periods of a Stock",
+  "titleSlug": "number-of-smooth-descent-periods-of-a-stock",
+  "frontendQuestionId": "2110",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1856655559",
+  "submittedAt": "2025-12-15T22:30:33.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 109670,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:24.452Z"
+}

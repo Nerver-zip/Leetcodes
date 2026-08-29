@@ -1,0 +1,31 @@
+{
+  "title": "Minimum Cost Path with Edge Reversals",
+  "titleSlug": "minimum-cost-path-with-edge-reversals",
+  "frontendQuestionId": "3650",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/",
+  "difficulty": "Medium",
+  "topics": [
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1898722988",
+  "submittedAt": "2026-01-27T15:08:28.000Z",
+  "runtimeMs": 232,
+  "memoryKb": 297472,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:51.773Z"
+}

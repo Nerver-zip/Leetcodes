@@ -1,0 +1,31 @@
+{
+  "title": "Largest Magic Square",
+  "titleSlug": "largest-magic-square",
+  "frontendQuestionId": "1895",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-magic-square/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1889219253",
+  "submittedAt": "2026-01-18T19:13:38.000Z",
+  "runtimeMs": 395,
+  "memoryKb": 161997,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T19:18:44.423Z"
+}
