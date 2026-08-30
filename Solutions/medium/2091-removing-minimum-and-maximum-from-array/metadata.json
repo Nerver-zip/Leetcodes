@@ -1,22 +1,21 @@
 {
-  "title": "Make Lexicographically Smallest Array by Swapping Elements",
-  "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
-  "frontendQuestionId": "2948",
-  "leetcodeUrl": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+  "title": "Removing Minimum and Maximum From Array",
+  "titleSlug": "removing-minimum-and-maximum-from-array",
+  "frontendQuestionId": "2091",
+  "leetcodeUrl": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
   "difficulty": "Medium",
   "topics": [
     "Array",
-    "Union-Find",
-    "Sorting"
+    "Greedy"
   ],
   "language": "cpp",
   "verdict": "Accepted",
-  "submissionId": "2124610651",
-  "submittedAt": "2026-08-30T04:18:22.000Z",
-  "runtimeMs": 465,
-  "memoryKb": 493568,
+  "submissionId": "2124594049",
+  "submittedAt": "2026-08-30T03:57:54.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 94310,
   "complexity": {
-    "time": "O(n log n)",
+    "time": "O(1)",
     "space": "O(n)",
     "source": "heuristic",
     "confidence": "low",

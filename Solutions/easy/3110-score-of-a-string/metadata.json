@@ -1,0 +1,29 @@
+{
+  "title": "Score of a String",
+  "titleSlug": "score-of-a-string",
+  "frontendQuestionId": "3110",
+  "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2124613650",
+  "submittedAt": "2026-08-30T04:22:45.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9011,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-30T04:52:22.703Z"
+}

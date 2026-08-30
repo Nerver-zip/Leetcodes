@@ -47,4 +47,4 @@ We cannot obtain a lexicographically smaller array by applying any more operatio
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= limit &lt;= 10<sup>9</sup></code></li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 472 ms</li><li><strong>Memory measured by LeetCode:</strong> 482.1 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n log n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 465 ms</li><li><strong>Memory measured by LeetCode:</strong> 482 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n log n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>

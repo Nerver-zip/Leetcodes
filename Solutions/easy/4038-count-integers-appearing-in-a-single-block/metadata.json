@@ -1,0 +1,27 @@
+{
+  "title": "Count Integers Appearing in a Single Block",
+  "titleSlug": "count-integers-appearing-in-a-single-block",
+  "frontendQuestionId": "4038",
+  "leetcodeUrl": "https://leetcode.com/problems/count-integers-appearing-in-a-single-block/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2124453247",
+  "submittedAt": "2026-08-30T02:36:36.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 21197,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-30T04:52:22.705Z"
+}
