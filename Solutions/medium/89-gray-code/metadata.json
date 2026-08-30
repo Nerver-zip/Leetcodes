@@ -1,0 +1,31 @@
+{
+  "title": "Gray Code",
+  "titleSlug": "gray-code",
+  "frontendQuestionId": "89",
+  "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-30T04:50:49.807Z",
+  "runtimeMs": 0,
+  "memoryKb": 15258,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": 16,
+  "totalTestcases": 16,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-30T04:50:50.866Z"
+}
