@@ -4,8 +4,8 @@
 
 ### A living, searchable record of accepted solutions
 
-![Solved on LeetCode](https://img.shields.io/badge/Solved%20on%20LeetCode-1039-22c55e?style=for-the-badge)
-![Archived](https://img.shields.io/badge/Archived-1039-3b82f6?style=for-the-badge)
+![Solved on LeetCode](https://img.shields.io/badge/Solved%20on%20LeetCode-1045-22c55e?style=for-the-badge)
+![Archived](https://img.shields.io/badge/Archived-1045-3b82f6?style=for-the-badge)
 ![Auto Sync](https://img.shields.io/badge/Auto%20Sync-AlgoVault-d97706?style=for-the-badge)
 
 _Source code, problem notes, measured runtime and memory, and estimated Big-O — organized automatically._
@@ -20,10 +20,10 @@ _Source code, problem notes, measured runtime and memory, and estimated Big-O �
 
 | Difficulty | Solved | Distribution |
 |:--|--:|:--|
-| � Easy | **298** | `██████░░░░░░░░░░░░░░` |
-| � Medium | **582** | `███████████░░░░░░░░░` |
+| � Easy | **300** | `██████░░░░░░░░░░░░░░` |
+| � Medium | **586** | `███████████░░░░░░░░░` |
 | � Hard | **159** | `███░░░░░░░░░░░░░░░░░` |
-| **Total** | **1039** | Last accepted activity: **2026-08-29** |
+| **Total** | **1045** | Last accepted activity: **2026-08-30** |
 
 ## What is inside
 
