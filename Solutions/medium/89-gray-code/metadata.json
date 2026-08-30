@@ -24,8 +24,8 @@
   },
   "totalCorrect": 16,
   "totalTestcases": 16,
-  "helpType": "PENDING_SELF_REPORT",
-  "helpLabel": "Pending self report",
+  "helpType": "EXTERNAL",
+  "helpLabel": "Used external help",
   "focusSeconds": null,
-  "syncedAt": "2026-08-30T04:50:50.866Z"
+  "syncedAt": "2026-08-30T04:51:02.522Z"
 }
