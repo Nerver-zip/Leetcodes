@@ -1,0 +1,33 @@
+{
+  "title": "Minimum Moves to Clean the Classroom",
+  "titleSlug": "minimum-moves-to-clean-the-classroom",
+  "frontendQuestionId": "3568",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2127704141",
+  "submittedAt": "2026-09-01T19:42:37.000Z",
+  "runtimeMs": 2678,
+  "memoryKb": 735949,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NOT_RECORDED",
+  "helpLabel": "NOT_RECORDED",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-01T21:22:41.422Z"
+}
