@@ -4,8 +4,8 @@
 
 ### A living, searchable record of accepted solutions
 
-![Solved on LeetCode](https://img.shields.io/badge/Solved%20on%20LeetCode-1046-22c55e?style=for-the-badge)
-![Archived](https://img.shields.io/badge/Archived-1046-3b82f6?style=for-the-badge)
+![Solved on LeetCode](https://img.shields.io/badge/Solved%20on%20LeetCode-1047-22c55e?style=for-the-badge)
+![Archived](https://img.shields.io/badge/Archived-1047-3b82f6?style=for-the-badge)
 ![Auto Sync](https://img.shields.io/badge/Auto%20Sync-AlgoVault-d97706?style=for-the-badge)
 
 _Source code, problem notes, measured runtime and memory, and estimated Big-O — organized automatically._
@@ -21,9 +21,9 @@ _Source code, problem notes, measured runtime and memory, and estimated Big-O �
 | Difficulty | Solved | Distribution |
 |:--|--:|:--|
 | � Easy | **300** | `██████░░░░░░░░░░░░░░` |
-| � Medium | **587** | `███████████░░░░░░░░░` |
+| � Medium | **588** | `███████████░░░░░░░░░` |
 | � Hard | **159** | `███░░░░░░░░░░░░░░░░░` |
-| **Total** | **1046** | Last accepted activity: **2026-08-31** |
+| **Total** | **1047** | Last accepted activity: **2026-09-01** |
 
 ## What is inside
 
