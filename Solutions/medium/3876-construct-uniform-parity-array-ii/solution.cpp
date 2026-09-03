@@ -11,8 +11,6 @@ public:
 
         // Transform into odd
         for(int n : nums1){
-            if(n == minOdd)
-                continue;
             if(n % 2 == 0 && n - minOdd < 1){
                 canTransformOdd = false;
                 break;
