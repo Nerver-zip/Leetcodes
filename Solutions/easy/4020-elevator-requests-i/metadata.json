@@ -1,0 +1,28 @@
+{
+  "title": "Elevator Requests I",
+  "titleSlug": "elevator-requests-i",
+  "frontendQuestionId": "4020",
+  "leetcodeUrl": "https://leetcode.com/problems/elevator-requests-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-04T02:12:51.212Z",
+  "runtimeMs": 0,
+  "memoryKb": 31642,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": 1000,
+  "totalTestcases": 1000,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-04T02:12:51.919Z"
+}
