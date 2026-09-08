@@ -36,4 +36,4 @@ Their dot product is -1.</pre>
 	<li><code>1 &lt;= nums1.length, nums2.length &lt;= 500</code></li>
 	<li><code>-1000 &lt;= nums1[i], nums2[i] &lt;= 1000</code></li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 3 ms</li><li><strong>Memory measured by LeetCode:</strong> 17.6 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 3 ms</li><li><strong>Memory measured by LeetCode:</strong> 17.6 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n²)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>

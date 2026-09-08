@@ -41,4 +41,4 @@ The right interval for [2,3] is [3,4] since start<sub>2</sub> = 3 is the smalles
 	<li><code>-10<sup>6</sup> &lt;= start<sub>i</sub> &lt;= end<sub>i</sub> &lt;= 10<sup>6</sup></code></li>
 	<li>The start point of each interval is <strong>unique</strong>.</li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 12 ms</li><li><strong>Memory measured by LeetCode:</strong> 30 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 12 ms</li><li><strong>Memory measured by LeetCode:</strong> 30 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n log n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>
