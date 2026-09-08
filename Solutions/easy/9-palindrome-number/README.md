@@ -33,4 +33,4 @@
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up:</strong> Could you solve it without converting the integer to a string?<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 7 ms</li><li><strong>Memory measured by LeetCode:</strong> 10.9 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<strong>Follow up:</strong> Could you solve it without converting the integer to a string?<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 7 ms</li><li><strong>Memory measured by LeetCode:</strong> 10.9 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(1)</li><li><strong>Space:</strong> O(1)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>
