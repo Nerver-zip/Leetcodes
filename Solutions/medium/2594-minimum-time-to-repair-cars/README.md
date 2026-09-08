@@ -40,4 +40,4 @@ It can be proved that the cars cannot be repaired in less than 16 minutes.​​
 	<li><code>1 &lt;= ranks[i] &lt;= 100</code></li>
 	<li><code>1 &lt;= cars &lt;= 10<sup>6</sup></code></li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 25 ms</li><li><strong>Memory measured by LeetCode:</strong> 59.3 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 25 ms</li><li><strong>Memory measured by LeetCode:</strong> 59.3 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(log n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>

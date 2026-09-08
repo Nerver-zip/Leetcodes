@@ -28,4 +28,4 @@ The answer provided is the shortest such string that satisfies these properties.
 	<li><code>1 &lt;= str1.length, str2.length &lt;= 1000</code></li>
 	<li><code>str1</code> and <code>str2</code> consist of lowercase English letters.</li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 23 ms</li><li><strong>Memory measured by LeetCode:</strong> 26.8 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 23 ms</li><li><strong>Memory measured by LeetCode:</strong> 26.8 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>

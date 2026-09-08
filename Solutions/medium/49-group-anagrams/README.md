@@ -41,4 +41,4 @@
 	<li><code>0 &lt;= strs[i].length &lt;= 100</code></li>
 	<li><code>strs[i]</code> consists of lowercase English letters.</li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 69 ms</li><li><strong>Memory measured by LeetCode:</strong> 34.2 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 69 ms</li><li><strong>Memory measured by LeetCode:</strong> 34.2 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>

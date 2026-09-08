@@ -17,16 +17,14 @@
   "runtimeMs": 128,
   "memoryKb": 18534,
   "complexity": {
-    "time": "Unknown",
-    "space": "Unknown",
-    "source": "unavailable",
-    "confidence": "unknown",
-    "explanation": "Source code was not available for complexity analysis."
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
   },
   "totalCorrect": null,
   "totalTestcases": null,
-  "helpType": "NOT_RECORDED",
-  "helpLabel": "NOT_RECORDED",
   "focusSeconds": null,
-  "syncedAt": "2026-08-29T19:15:16.906Z"
+  "syncedAt": "2026-09-08T17:32:22.421Z"
 }

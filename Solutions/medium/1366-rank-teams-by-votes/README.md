@@ -47,4 +47,4 @@ X is the winner due to the tie-breaking rule. X has the same votes as W for the 
 	<li>All characters of <code>votes[i]</code> are unique.</li>
 	<li>All the characters that occur in <code>votes[0]</code> <strong>also occur</strong> in <code>votes[j]</code> where <code>1 &lt;= j &lt; votes.length</code>.</li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 1 ms</li><li><strong>Memory measured by LeetCode:</strong> 14.6 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 1 ms</li><li><strong>Memory measured by LeetCode:</strong> 14.6 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>

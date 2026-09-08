@@ -32,4 +32,4 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> Can you sort the linked list in <code>O(n logn)</code> time and <code>O(1)</code> memory (i.e. constant space)?</p>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 19 ms</li><li><strong>Memory measured by LeetCode:</strong> 58.2 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 19 ms</li><li><strong>Memory measured by LeetCode:</strong> 58.2 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(n)</li><li><strong>Space:</strong> O(n)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>

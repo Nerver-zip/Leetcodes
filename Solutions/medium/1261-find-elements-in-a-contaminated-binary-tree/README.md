@@ -73,4 +73,4 @@ findElements.find(5); // return True
 	<li>Total calls of <code>find()</code> is between <code>[1, 10<sup>4</sup>]</code></li>
 	<li><code>0 &lt;= target &lt;= 10<sup>6</sup></code></li>
 </ul>
-<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 11 ms</li><li><strong>Memory measured by LeetCode:</strong> 34.6 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> Unknown</li><li><strong>Space:</strong> Unknown</li><li><strong>Source:</strong> unavailable (unknown confidence)</li></ul><p><em>Source code was not available for complexity analysis.</em></p>
+<hr><h3>Submission metrics</h3><ul><li><strong>Runtime measured by LeetCode:</strong> 11 ms</li><li><strong>Memory measured by LeetCode:</strong> 34.6 MB</li></ul><h3>Big-O analysis</h3><ul><li><strong>Time:</strong> O(1)</li><li><strong>Space:</strong> O(1)</li><li><strong>Source:</strong> heuristic (low confidence)</li></ul><p><em>Conservative static estimate from cpp control flow and allocations; review before relying on it.</em></p>
