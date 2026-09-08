@@ -1,0 +1,29 @@
+{
+  "title": "Minimum Operations to Make a Rotated Palindrome I",
+  "titleSlug": "minimum-operations-to-make-a-rotated-palindrome-i",
+  "frontendQuestionId": "4021",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2130218684",
+  "submittedAt": "2026-09-04T03:07:54.000Z",
+  "runtimeMs": 1588,
+  "memoryKb": 230298,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-08T17:29:31.829Z"
+}

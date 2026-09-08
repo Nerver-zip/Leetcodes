@@ -2,28 +2,27 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         const int n = nums.size();
+        vector<int> suffix(n, 0);
 
-        int maxVal = numeric_limits<int>::min();
-        
-        vector<int> minValues(n, numeric_limits<int>::max());
-        
-        minValues[n-1] = nums[n-1];
+        suffix.back() = nums.back();
+
         for(int i = n-2; i >= 0; --i){
-            minValues[i] = min(minValues[i+1], nums[i]);
+            suffix[i] = min(suffix[i+1], nums[i]);
         }
 
-        
+        int maxPrefix = nums[0];
+        int ans = n;
 
         for(int i = 0; i < n; ++i){
-            maxVal = max(maxVal, nums[i]);
-            int minVal = minValues[i];
-            
-            int instability = maxVal - minVal;
+            maxPrefix = max(maxPrefix, nums[i]);
 
-            if(instability <= k)
+            int instability = maxPrefix - suffix[i];
+
+            if(instability <= k){
                 return i;
+            }
         }
-        
+
         return -1;
     }
 };

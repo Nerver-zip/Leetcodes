@@ -10,10 +10,10 @@
   ],
   "language": "cpp",
   "verdict": "Accepted",
-  "submissionId": "1982181515",
-  "submittedAt": "2026-04-19T02:37:35.000Z",
-  "runtimeMs": 12,
-  "memoryKb": 207360,
+  "submissionId": "2132011814",
+  "submittedAt": "2026-09-05T17:48:19.000Z",
+  "runtimeMs": 20,
+  "memoryKb": 207462,
   "complexity": {
     "time": "O(n)",
     "space": "O(n)",
@@ -23,8 +23,6 @@
   },
   "totalCorrect": null,
   "totalTestcases": null,
-  "helpType": "NOT_RECORDED",
-  "helpLabel": "NOT_RECORDED",
   "focusSeconds": null,
-  "syncedAt": "2026-08-29T17:49:40.268Z"
+  "syncedAt": "2026-09-08T17:29:31.828Z"
 }

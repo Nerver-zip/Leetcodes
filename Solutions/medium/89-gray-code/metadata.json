@@ -11,8 +11,8 @@
   ],
   "language": "cpp",
   "verdict": "Accepted",
-  "submissionId": null,
-  "submittedAt": "2026-08-30T04:50:49.807Z",
+  "submissionId": "2124633115",
+  "submittedAt": "2026-08-30T04:50:45.000Z",
   "runtimeMs": 0,
   "memoryKb": 15258,
   "complexity": {
@@ -22,10 +22,8 @@
     "confidence": "low",
     "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
   },
-  "totalCorrect": 16,
-  "totalTestcases": 16,
-  "helpType": "EXTERNAL",
-  "helpLabel": "Used external help",
+  "totalCorrect": null,
+  "totalTestcases": null,
   "focusSeconds": null,
-  "syncedAt": "2026-08-30T04:51:02.522Z"
+  "syncedAt": "2026-09-08T17:29:31.836Z"
 }

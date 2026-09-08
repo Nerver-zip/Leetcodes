@@ -9,12 +9,12 @@
   ],
   "language": "cpp",
   "verdict": "Accepted",
-  "submissionId": "1948522980",
-  "submittedAt": "2026-03-15T02:34:27.000Z",
+  "submissionId": "2135109707",
+  "submittedAt": "2026-09-08T12:55:32.000Z",
   "runtimeMs": 0,
   "memoryKb": 8704,
   "complexity": {
-    "time": "O(1)",
+    "time": "O(n)",
     "space": "O(1)",
     "source": "heuristic",
     "confidence": "low",
@@ -22,8 +22,6 @@
   },
   "totalCorrect": null,
   "totalTestcases": null,
-  "helpType": "NOT_RECORDED",
-  "helpLabel": "NOT_RECORDED",
   "focusSeconds": null,
-  "syncedAt": "2026-08-29T18:08:12.526Z"
+  "syncedAt": "2026-09-08T17:29:31.822Z"
 }
