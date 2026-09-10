@@ -1,0 +1,31 @@
+{
+  "title": "Rotate Function",
+  "titleSlug": "rotate-function",
+  "frontendQuestionId": "396",
+  "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1992797113",
+  "submittedAt": "2026-05-01T18:11:25.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 101888,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:12:31.971Z"
+}

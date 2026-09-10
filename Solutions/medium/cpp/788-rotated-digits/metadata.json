@@ -1,0 +1,30 @@
+{
+  "title": "Rotated Digits",
+  "titleSlug": "rotated-digits",
+  "frontendQuestionId": "788",
+  "leetcodeUrl": "https://leetcode.com/problems/rotated-digits/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1993511153",
+  "submittedAt": "2026-05-02T17:20:21.000Z",
+  "runtimeMs": 11,
+  "memoryKb": 11469,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:12:31.970Z"
+}
