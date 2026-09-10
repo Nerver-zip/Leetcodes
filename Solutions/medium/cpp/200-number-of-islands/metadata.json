@@ -1,0 +1,33 @@
+{
+  "title": "Number of Islands",
+  "titleSlug": "number-of-islands",
+  "frontendQuestionId": "200",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1684369216",
+  "submittedAt": "2025-07-02T21:52:15.000Z",
+  "runtimeMs": 30,
+  "memoryKb": 19149,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.533Z"
+}

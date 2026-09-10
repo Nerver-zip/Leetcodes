@@ -1,0 +1,33 @@
+{
+  "title": "Count Sub Islands",
+  "titleSlug": "count-sub-islands",
+  "frontendQuestionId": "1905",
+  "leetcodeUrl": "https://leetcode.com/problems/count-sub-islands/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1684448649",
+  "submittedAt": "2025-07-03T01:24:05.000Z",
+  "runtimeMs": 135,
+  "memoryKb": 125542,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.532Z"
+}
