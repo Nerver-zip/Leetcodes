@@ -1,0 +1,29 @@
+{
+  "title": "Champagne Tower",
+  "titleSlug": "champagne-tower",
+  "frontendQuestionId": "799",
+  "leetcodeUrl": "https://leetcode.com/problems/champagne-tower/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1919410039",
+  "submittedAt": "2026-02-14T21:02:24.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 14950,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.893Z"
+}

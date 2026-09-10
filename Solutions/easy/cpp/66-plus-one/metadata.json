@@ -1,0 +1,30 @@
+{
+  "title": "Plus One",
+  "titleSlug": "plus-one",
+  "frontendQuestionId": "66",
+  "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1870646708",
+  "submittedAt": "2026-01-01T02:18:20.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11776,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.962Z"
+}

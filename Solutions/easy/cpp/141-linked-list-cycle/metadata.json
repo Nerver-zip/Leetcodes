@@ -1,0 +1,32 @@
+{
+  "title": "Linked List Cycle",
+  "titleSlug": "linked-list-cycle",
+  "frontendQuestionId": "141",
+  "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1871310042",
+  "submittedAt": "2026-01-01T18:26:54.000Z",
+  "runtimeMs": 4,
+  "memoryKb": 12186,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.961Z"
+}
