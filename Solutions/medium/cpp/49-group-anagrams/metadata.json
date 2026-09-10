@@ -1,0 +1,32 @@
+{
+  "title": "Group Anagrams",
+  "titleSlug": "group-anagrams",
+  "frontendQuestionId": "49",
+  "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1573428351",
+  "submittedAt": "2025-03-14T11:04:56.000Z",
+  "runtimeMs": 69,
+  "memoryKb": 35021,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.582Z"
+}

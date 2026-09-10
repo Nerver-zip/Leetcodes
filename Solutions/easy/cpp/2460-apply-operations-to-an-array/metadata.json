@@ -1,0 +1,31 @@
+{
+  "title": "Apply Operations to an Array",
+  "titleSlug": "apply-operations-to-an-array",
+  "frontendQuestionId": "2460",
+  "leetcodeUrl": "https://leetcode.com/problems/apply-operations-to-an-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1559606872",
+  "submittedAt": "2025-03-01T19:57:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 13517,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.596Z"
+}
