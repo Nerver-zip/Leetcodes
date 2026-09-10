@@ -1,0 +1,32 @@
+{
+  "title": "Maximize the Number of Partitions After Operations",
+  "titleSlug": "maximize-the-number-of-partitions-after-operations",
+  "frontendQuestionId": "3003",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Bitmask"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1804564290",
+  "submittedAt": "2025-10-17T21:40:57.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10854,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.392Z"
+}

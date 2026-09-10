@@ -1,0 +1,33 @@
+{
+  "title": "Repeated String Match",
+  "titleSlug": "repeated-string-match",
+  "frontendQuestionId": "686",
+  "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm",
+    "Boyer–Moore String-Search Algorithm"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1839697200",
+  "submittedAt": "2025-11-25T19:07:47.000Z",
+  "runtimeMs": 14,
+  "memoryKb": 10138,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.303Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Binary Prefix Divisible By 5",
+  "titleSlug": "binary-prefix-divisible-by-5",
+  "frontendQuestionId": "1018",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1838096951",
+  "submittedAt": "2025-11-24T01:54:45.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 18842,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.309Z"
+}

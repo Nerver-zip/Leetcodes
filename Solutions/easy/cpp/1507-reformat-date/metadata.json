@@ -1,0 +1,29 @@
+{
+  "title": "Reformat Date",
+  "titleSlug": "reformat-date",
+  "frontendQuestionId": "1507",
+  "leetcodeUrl": "https://leetcode.com/problems/reformat-date/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1840662772",
+  "submittedAt": "2025-11-27T01:40:52.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8499,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.300Z"
+}

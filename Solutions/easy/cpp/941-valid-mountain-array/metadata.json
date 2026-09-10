@@ -1,0 +1,29 @@
+{
+  "title": "Valid Mountain Array",
+  "titleSlug": "valid-mountain-array",
+  "frontendQuestionId": "941",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-mountain-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1837211191",
+  "submittedAt": "2025-11-23T01:15:28.000Z",
+  "runtimeMs": 16,
+  "memoryKb": 27034,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.321Z"
+}
