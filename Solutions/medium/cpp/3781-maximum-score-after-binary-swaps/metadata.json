@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Score After Binary Swaps",
+  "titleSlug": "maximum-score-after-binary-swaps",
+  "frontendQuestionId": "3781",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-score-after-binary-swaps/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1860764299",
+  "submittedAt": "2025-12-20T15:38:35.000Z",
+  "runtimeMs": 54,
+  "memoryKb": 134963,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.980Z"
+}
