@@ -1,0 +1,31 @@
+{
+  "title": "Delete Columns to Make Sorted III",
+  "titleSlug": "delete-columns-to-make-sorted-iii",
+  "frontendQuestionId": "960",
+  "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted-iii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1862436843",
+  "submittedAt": "2025-12-22T13:44:21.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 13926,
+  "complexity": {
+    "time": "O(n³)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.976Z"
+}
