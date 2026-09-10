@@ -1,0 +1,36 @@
+{
+  "title": "Repeated DNA Sequences",
+  "titleSlug": "repeated-dna-sequences",
+  "frontendQuestionId": "187",
+  "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Sliding Window",
+    "Rolling Hash",
+    "Hash Function",
+    "Z Algorithm",
+    "Boyer–Moore String-Search Algorithm"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1638421443",
+  "submittedAt": "2025-05-19T15:54:57.000Z",
+  "runtimeMs": 41,
+  "memoryKb": 26931,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.482Z"
+}

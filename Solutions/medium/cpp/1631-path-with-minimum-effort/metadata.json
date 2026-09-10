@@ -1,0 +1,36 @@
+{
+  "title": "Path With Minimum Effort",
+  "titleSlug": "path-with-minimum-effort",
+  "frontendQuestionId": "1631",
+  "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Dijkstra's Algorithm"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1614894867",
+  "submittedAt": "2025-04-22T18:04:27.000Z",
+  "runtimeMs": 67,
+  "memoryKb": 25190,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.519Z"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Type of Triangle",
+  "titleSlug": "type-of-triangle",
+  "frontendQuestionId": "3024",
+  "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Polygons"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1637754188",
+  "submittedAt": "2025-05-19T01:40:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 23450,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.482Z"
+}
