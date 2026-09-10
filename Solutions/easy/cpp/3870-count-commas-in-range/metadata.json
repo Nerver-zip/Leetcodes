@@ -1,0 +1,29 @@
+{
+  "title": "Count Commas in Range",
+  "titleSlug": "count-commas-in-range",
+  "frontendQuestionId": "3870",
+  "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2135109707",
+  "submittedAt": "2026-09-08T12:55:32.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8704,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:12:31.767Z"
+}

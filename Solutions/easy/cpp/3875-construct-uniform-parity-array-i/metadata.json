@@ -1,0 +1,30 @@
+{
+  "title": "Construct Uniform Parity Array I",
+  "titleSlug": "construct-uniform-parity-array-i",
+  "frontendQuestionId": "3875",
+  "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2127839525",
+  "submittedAt": "2026-09-02T01:31:00.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 30925,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:12:31.788Z"
+}

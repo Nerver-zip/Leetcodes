@@ -1,0 +1,30 @@
+{
+  "title": "Smallest Stable Index II",
+  "titleSlug": "smallest-stable-index-ii",
+  "frontendQuestionId": "3904",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2132011814",
+  "submittedAt": "2026-09-05T17:48:19.000Z",
+  "runtimeMs": 20,
+  "memoryKb": 207462,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:12:31.783Z"
+}
