@@ -1,0 +1,31 @@
+{
+  "title": "Balanced Binary Tree",
+  "titleSlug": "balanced-binary-tree",
+  "frontendQuestionId": "110",
+  "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "c",
+  "normalizedLanguage": "c",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1446170144",
+  "submittedAt": "2024-11-07T20:59:03.000Z",
+  "runtimeMs": 98,
+  "memoryKb": 12595,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:16:16.045Z"
+}
