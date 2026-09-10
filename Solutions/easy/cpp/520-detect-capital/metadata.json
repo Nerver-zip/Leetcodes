@@ -1,0 +1,29 @@
+{
+  "title": "Detect Capital",
+  "titleSlug": "detect-capital",
+  "frontendQuestionId": "520",
+  "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1838879096",
+  "submittedAt": "2025-11-24T21:05:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 8294,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.308Z"
+}

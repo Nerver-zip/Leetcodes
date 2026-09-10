@@ -1,0 +1,30 @@
+{
+  "title": "Last Stone Weight",
+  "titleSlug": "last-stone-weight",
+  "frontendQuestionId": "1046",
+  "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1837729457",
+  "submittedAt": "2025-11-23T14:39:56.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10035,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.316Z"
+}

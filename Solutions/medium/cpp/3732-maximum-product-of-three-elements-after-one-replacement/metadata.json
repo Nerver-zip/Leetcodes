@@ -1,0 +1,32 @@
+{
+  "title": "Maximum Product of Three Elements After One Replacement",
+  "titleSlug": "maximum-product-of-three-elements-after-one-replacement",
+  "frontendQuestionId": "3732",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1818191750",
+  "submittedAt": "2025-11-02T02:48:02.000Z",
+  "runtimeMs": 55,
+  "memoryKb": 127181,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.373Z"
+}

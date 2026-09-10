@@ -1,0 +1,32 @@
+{
+  "title": "Remove Duplicate Letters",
+  "titleSlug": "remove-duplicate-letters",
+  "frontendQuestionId": "316",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1837233870",
+  "submittedAt": "2025-11-23T02:25:18.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9216,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.320Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Maximum Number of Distinct Elements After Operations",
+  "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+  "frontendQuestionId": "3397",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1805312817",
+  "submittedAt": "2025-10-18T20:19:45.000Z",
+  "runtimeMs": 118,
+  "memoryKb": 100045,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.391Z"
+}
