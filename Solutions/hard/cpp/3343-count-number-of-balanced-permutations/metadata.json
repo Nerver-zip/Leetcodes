@@ -1,0 +1,32 @@
+{
+  "title": "Count Number of Balanced Permutations",
+  "titleSlug": "count-number-of-balanced-permutations",
+  "frontendQuestionId": "3343",
+  "leetcodeUrl": "https://leetcode.com/problems/count-number-of-balanced-permutations/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "String",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1629464603",
+  "submittedAt": "2025-05-09T16:59:08.000Z",
+  "runtimeMs": 93,
+  "memoryKb": 22016,
+  "complexity": {
+    "time": "O(n^4)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.500Z"
+}
