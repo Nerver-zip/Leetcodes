@@ -1,0 +1,30 @@
+{
+  "title": "Triangle",
+  "titleSlug": "triangle",
+  "frontendQuestionId": "120",
+  "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1782438936",
+  "submittedAt": "2025-09-25T15:40:43.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 13926,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.427Z"
+}

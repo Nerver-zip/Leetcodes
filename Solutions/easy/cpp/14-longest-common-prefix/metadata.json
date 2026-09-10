@@ -1,0 +1,31 @@
+{
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "frontendQuestionId": "14",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1797744943",
+  "submittedAt": "2025-10-10T22:09:07.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12493,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.402Z"
+}

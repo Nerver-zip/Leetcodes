@@ -1,0 +1,31 @@
+{
+  "title": "Container With Most Water",
+  "titleSlug": "container-with-most-water",
+  "frontendQuestionId": "11",
+  "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1791542957",
+  "submittedAt": "2025-10-04T23:22:01.000Z",
+  "runtimeMs": 5,
+  "memoryKb": 64410,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.408Z"
+}

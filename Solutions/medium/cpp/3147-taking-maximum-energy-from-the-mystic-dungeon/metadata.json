@@ -1,0 +1,31 @@
+{
+  "title": "Taking Maximum Energy From the Mystic Dungeon",
+  "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+  "frontendQuestionId": "3147",
+  "leetcodeUrl": "https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1797603926",
+  "submittedAt": "2025-10-10T18:08:07.000Z",
+  "runtimeMs": 159,
+  "memoryKb": 161485,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.403Z"
+}
