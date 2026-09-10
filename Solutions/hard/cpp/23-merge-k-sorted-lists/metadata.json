@@ -1,0 +1,33 @@
+{
+  "title": "Merge k Sorted Lists",
+  "titleSlug": "merge-k-sorted-lists",
+  "frontendQuestionId": "23",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+  "difficulty": "Hard",
+  "topics": [
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Tournament Sort"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1869644442",
+  "submittedAt": "2025-12-30T18:06:28.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 19456,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.964Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Find Right Interval",
+  "titleSlug": "find-right-interval",
+  "frontendQuestionId": "436",
+  "leetcodeUrl": "https://leetcode.com/problems/find-right-interval/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1868749264",
+  "submittedAt": "2025-12-29T19:10:49.000Z",
+  "runtimeMs": 12,
+  "memoryKb": 30720,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.967Z"
+}
