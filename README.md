@@ -4,9 +4,9 @@
 
 ### A living, searchable record of accepted solutions
 
-![Solved on LeetCode](https://img.shields.io/badge/Solved%20on%20LeetCode-1053-22c55e?style=for-the-badge)
-![Archived problems](https://img.shields.io/badge/Archived%20problems-1053-3b82f6?style=for-the-badge)
-![Language solutions](https://img.shields.io/badge/Language%20solutions-1063-8b5cf6?style=for-the-badge)
+![Solved on LeetCode](https://img.shields.io/badge/Solved%20on%20LeetCode-1054-22c55e?style=for-the-badge)
+![Archived problems](https://img.shields.io/badge/Archived%20problems-1054-3b82f6?style=for-the-badge)
+![Language solutions](https://img.shields.io/badge/Language%20solutions-1064-8b5cf6?style=for-the-badge)
 ![Auto Sync](https://img.shields.io/badge/Auto%20Sync-AlgoVault-d97706?style=for-the-badge)
 
 _Source code, problem notes, measured runtime and memory, and estimated Big-O — organized automatically._
@@ -22,21 +22,21 @@ _Source code, problem notes, measured runtime and memory, and estimated Big-O �
 | Difficulty | Solved | Distribution |
 |:--|--:|:--|
 | � Easy | **302** | `██████░░░░░░░░░░░░░░` |
-| � Medium | **590** | `███████████░░░░░░░░░` |
+| � Medium | **591** | `███████████░░░░░░░░░` |
 | � Hard | **161** | `███░░░░░░░░░░░░░░░░░` |
-| **Total** | **1053** | Last accepted activity: **2026-09-09** |
+| **Total** | **1054** | Last accepted activity: **2026-09-10** |
 
 ## Archive coverage
 
 | Language | Accepted solutions | Browse by difficulty |
 |:--|--:|:--|
 | c | **26** | [easy](./Solutions/easy/c/) · [medium](./Solutions/medium/c/) · [hard](./Solutions/hard/c/) |
-| cpp | **1031** | [easy](./Solutions/easy/cpp/) · [medium](./Solutions/medium/cpp/) · [hard](./Solutions/hard/cpp/) |
+| cpp | **1032** | [easy](./Solutions/easy/cpp/) · [medium](./Solutions/medium/cpp/) · [hard](./Solutions/hard/cpp/) |
 | javascript | **2** | [easy](./Solutions/easy/javascript/) · [medium](./Solutions/medium/javascript/) · [hard](./Solutions/hard/javascript/) |
 | python | **3** | [easy](./Solutions/easy/python/) · [medium](./Solutions/medium/python/) · [hard](./Solutions/hard/python/) |
 | typescript | **1** | [easy](./Solutions/easy/typescript/) · [medium](./Solutions/medium/typescript/) · [hard](./Solutions/hard/typescript/) |
 
-**1053 unique problems** and **1063 language-specific solutions** are archived. A problem solved in two languages counts once as a problem and twice as a solution.
+**1054 unique problems** and **1064 language-specific solutions** are archived. A problem solved in two languages counts once as a problem and twice as a solution.
 
 ## What is inside
 
