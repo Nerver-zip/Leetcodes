@@ -1,0 +1,32 @@
+{
+  "title": "Number of Provinces",
+  "titleSlug": "number-of-provinces",
+  "frontendQuestionId": "547",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1694747545",
+  "submittedAt": "2025-07-11T23:44:50.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 20275,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:14:32.512Z"
+}
