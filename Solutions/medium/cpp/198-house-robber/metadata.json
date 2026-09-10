@@ -1,0 +1,30 @@
+{
+  "title": "House Robber",
+  "titleSlug": "house-robber",
+  "frontendQuestionId": "198",
+  "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1980446021",
+  "submittedAt": "2026-04-16T21:24:00.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 11059,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:12:31.995Z"
+}
