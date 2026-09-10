@@ -1,0 +1,27 @@
+{
+  "title": "Create Hello World Function",
+  "titleSlug": "create-hello-world-function",
+  "frontendQuestionId": "2667",
+  "leetcodeUrl": "https://leetcode.com/problems/create-hello-world-function/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "javascript",
+  "normalizedLanguage": "javascript",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1571618098",
+  "submittedAt": "2025-03-12T17:01:00.000Z",
+  "runtimeMs": 41,
+  "memoryKb": 54682,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from javascript control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.584Z"
+}

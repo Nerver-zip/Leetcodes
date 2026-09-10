@@ -1,0 +1,30 @@
+{
+  "title": "Partition List",
+  "titleSlug": "partition-list",
+  "frontendQuestionId": "86",
+  "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1566435341",
+  "submittedAt": "2025-03-07T22:23:47.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 15360,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.591Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Alternating Groups II",
+  "titleSlug": "alternating-groups-ii",
+  "frontendQuestionId": "3208",
+  "leetcodeUrl": "https://leetcode.com/problems/alternating-groups-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1568148302",
+  "submittedAt": "2025-03-09T14:16:47.000Z",
+  "runtimeMs": 67,
+  "memoryKb": 105165,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.587Z"
+}

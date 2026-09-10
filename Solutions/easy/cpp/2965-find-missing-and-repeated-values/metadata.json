@@ -1,0 +1,32 @@
+{
+  "title": "Find Missing and Repeated Values",
+  "titleSlug": "find-missing-and-repeated-values",
+  "frontendQuestionId": "2965",
+  "leetcodeUrl": "https://leetcode.com/problems/find-missing-and-repeated-values/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1564760543",
+  "submittedAt": "2025-03-06T10:12:40.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 27341,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.593Z"
+}

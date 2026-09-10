@@ -1,0 +1,31 @@
+{
+  "title": "Unique Paths",
+  "titleSlug": "unique-paths",
+  "frontendQuestionId": "62",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1560859035",
+  "submittedAt": "2025-03-03T00:11:15.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9626,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:15:32.595Z"
+}
