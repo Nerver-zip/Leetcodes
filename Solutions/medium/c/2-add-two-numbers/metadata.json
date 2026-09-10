@@ -1,0 +1,31 @@
+{
+  "title": "Add Two Numbers",
+  "titleSlug": "add-two-numbers",
+  "frontendQuestionId": "2",
+  "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "language": "c",
+  "normalizedLanguage": "c",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1436368085",
+  "submittedAt": "2024-10-28T16:07:13.000Z",
+  "runtimeMs": 3,
+  "memoryKb": 13107,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from c control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:16:16.063Z"
+}

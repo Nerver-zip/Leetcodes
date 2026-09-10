@@ -1,0 +1,31 @@
+{
+  "title": "Power of Two",
+  "titleSlug": "power-of-two",
+  "frontendQuestionId": "231",
+  "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "language": "python",
+  "normalizedLanguage": "python",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1464623538",
+  "submittedAt": "2024-11-28T00:26:11.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 12390,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from python control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:16:16.020Z"
+}
