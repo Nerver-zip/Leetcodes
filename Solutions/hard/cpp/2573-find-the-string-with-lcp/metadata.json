@@ -1,0 +1,34 @@
+{
+  "title": "Find the String with LCP",
+  "titleSlug": "find-the-string-with-lcp",
+  "frontendQuestionId": "2573",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Greedy",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "1962269812",
+  "submittedAt": "2026-03-28T23:27:26.000Z",
+  "runtimeMs": 28,
+  "memoryKb": 87450,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-10T00:13:32.830Z"
+}
