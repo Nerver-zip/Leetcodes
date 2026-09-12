@@ -1,0 +1,27 @@
+{
+  "title": "Count Values With Equally Spaced Occurrences I",
+  "titleSlug": "count-values-with-equally-spaced-occurrences-i",
+  "frontendQuestionId": "4048",
+  "leetcodeUrl": "https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2139584474",
+  "submittedAt": "2026-09-12T14:36:21.000Z",
+  "runtimeMs": 12,
+  "memoryKb": 33178,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-12T20:02:22.222Z"
+}

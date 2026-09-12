@@ -1,0 +1,27 @@
+{
+  "title": "Minimum Days to Score Exactly N Points",
+  "titleSlug": "minimum-days-to-score-exactly-n-points",
+  "frontendQuestionId": "4050",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2139918981",
+  "submittedAt": "2026-09-12T18:39:48.000Z",
+  "runtimeMs": 230,
+  "memoryKb": 16589,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-12T20:02:22.220Z"
+}

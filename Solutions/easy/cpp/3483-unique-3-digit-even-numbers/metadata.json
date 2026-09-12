@@ -1,0 +1,32 @@
+{
+  "title": "Unique 3-Digit Even Numbers",
+  "titleSlug": "unique-3-digit-even-numbers",
+  "frontendQuestionId": "3483",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2138636825",
+  "submittedAt": "2026-09-11T14:33:05.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 33280,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-12T20:02:22.222Z"
+}
