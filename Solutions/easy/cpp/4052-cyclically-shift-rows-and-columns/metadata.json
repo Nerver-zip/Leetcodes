@@ -1,0 +1,31 @@
+{
+  "title": "Cyclically Shift Rows and Columns",
+  "titleSlug": "cyclically-shift-rows-and-columns",
+  "frontendQuestionId": "4052",
+  "leetcodeUrl": "https://leetcode.com/problems/cyclically-shift-rows-and-columns/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2140122160",
+  "submittedAt": "2026-09-13T02:49:27.000Z",
+  "runtimeMs": 19,
+  "memoryKb": 81203,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-18T23:27:32.836Z"
+}

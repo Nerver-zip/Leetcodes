@@ -1,0 +1,30 @@
+{
+  "title": "Image Overlap",
+  "titleSlug": "image-overlap",
+  "frontendQuestionId": "835",
+  "leetcodeUrl": "https://leetcode.com/problems/image-overlap/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2140994816",
+  "submittedAt": "2026-09-13T20:17:27.000Z",
+  "runtimeMs": 55,
+  "memoryKb": 13312,
+  "complexity": {
+    "time": "O(n^4)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-18T23:27:32.836Z"
+}

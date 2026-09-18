@@ -1,0 +1,30 @@
+{
+  "title": "Rectangle Overlap",
+  "titleSlug": "rectangle-overlap",
+  "frontendQuestionId": "836",
+  "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Geometry"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2142002208",
+  "submittedAt": "2026-09-14T21:01:21.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 10138,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-18T23:27:32.836Z"
+}
