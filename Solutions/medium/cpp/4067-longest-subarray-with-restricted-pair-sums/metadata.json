@@ -1,0 +1,27 @@
+{
+  "title": "Longest Subarray With Restricted Pair Sums",
+  "titleSlug": "longest-subarray-with-restricted-pair-sums",
+  "frontendQuestionId": "4067",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2156519091",
+  "submittedAt": "2026-09-29T00:35:34.000Z",
+  "runtimeMs": 27,
+  "memoryKb": 27546,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-29T01:17:45.932Z"
+}

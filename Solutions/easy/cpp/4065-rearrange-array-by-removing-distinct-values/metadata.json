@@ -1,0 +1,27 @@
+{
+  "title": "Rearrange Array by Removing Distinct Values",
+  "titleSlug": "rearrange-array-by-removing-distinct-values",
+  "frontendQuestionId": "4065",
+  "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2154462202",
+  "submittedAt": "2026-09-27T02:35:04.000Z",
+  "runtimeMs": 7,
+  "memoryKb": 35533,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-29T01:17:45.933Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Transform Array Using Pair Operations",
+  "titleSlug": "transform-array-using-pair-operations",
+  "frontendQuestionId": "4062",
+  "leetcodeUrl": "https://leetcode.com/problems/transform-array-using-pair-operations/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2154016040",
+  "submittedAt": "2026-09-26T14:58:53.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 197837,
+  "complexity": {
+    "time": "O(1)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-29T01:17:45.935Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Count Substrings That Satisfy K-Constraint I",
+  "titleSlug": "count-substrings-that-satisfy-k-constraint-i",
+  "frontendQuestionId": "3258",
+  "leetcodeUrl": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2153458057",
+  "submittedAt": "2026-09-26T02:51:33.000Z",
+  "runtimeMs": 0,
+  "memoryKb": 9011,
+  "complexity": {
+    "time": "O(n²)",
+    "space": "O(1)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-29T01:17:45.936Z"
+}

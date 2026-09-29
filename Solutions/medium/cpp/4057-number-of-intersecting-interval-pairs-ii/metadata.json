@@ -1,0 +1,27 @@
+{
+  "title": "Number of Intersecting Interval Pairs II",
+  "titleSlug": "number-of-intersecting-interval-pairs-ii",
+  "frontendQuestionId": "4057",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2147802969",
+  "submittedAt": "2026-09-20T15:06:29.000Z",
+  "runtimeMs": 129,
+  "memoryKb": 259277,
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-09-29T01:17:45.937Z"
+}
