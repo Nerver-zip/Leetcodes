@@ -1,0 +1,27 @@
+{
+  "title": "Minimum Rotations to Dial a Number II",
+  "titleSlug": "minimum-rotations-to-dial-a-number-ii",
+  "frontendQuestionId": "4071",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "normalizedLanguage": "cpp",
+  "exportSchemaVersion": 2,
+  "verdict": "Accepted",
+  "submissionId": "2161652142",
+  "submittedAt": "2026-10-04T03:24:49.000Z",
+  "runtimeMs": 27,
+  "memoryKb": 37990,
+  "complexity": {
+    "time": "O(n)",
+    "space": "O(n)",
+    "source": "heuristic",
+    "confidence": "low",
+    "explanation": "Conservative static estimate from cpp control flow and allocations; review before relying on it."
+  },
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "focusSeconds": null,
+  "syncedAt": "2026-10-04T18:46:27.636Z"
+}
